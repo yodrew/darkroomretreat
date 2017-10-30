@@ -24,11 +24,11 @@ Put dark, dense sheet material over your bedroom windows and doors to get relief
 
 We all know how it feels to sleep a lot after too many short nights: we feel sluggish afterward. Some people call this getting too much sleep, a physiological impossibility. They just do not know how tired people can get and still not get fired from their jobs. In fact, we are tapping into the first layer of a backlog of lost sleep. Feeling groggy is the first phase of catching up. This can take days. Reversing sleep deprivation is like withdrawing from strong drug. Like me, you may need a retreat to get to the other side of it without backsliding.
 
-In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, [____*make*____](#make) [____*blackout blinds*____](#blinds), a [____*silencer*____](#silencer) and [____*lightproof vents*____](#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
+In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, [________*make*________](#make) [________*blackout blinds*________](#blinds), a [________*silencer*________](#silencer) and [________*lightproof vents*________](#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
 
 ### nightly {#nightly}
 
-We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (the [____*Law of Vital Accommodation*____](#appendix-laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
+We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (the [________*Law of Vital Accommodation*________](#appendix-laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
 
 From simply darkening his bedroom, a friend reported to me a huge difference in the quality of sleep he and his mate experienced, as well as a return of vivid dreams. I have experienced the same thing whenever I have been able to darken the room I sleep in. As a rule, the darker the room, the better the sleep. 100% darkness is 1000% better than a 99.9% dark room. Extinguishing that last bit of light leaves the mind nothing to hang onto, giving new meaning to "falling asleep". See for yourself.
 
@@ -38,7 +38,7 @@ Thus sex can be especially gratifying. Many consider it an auspicious hour for m
 
 Usually sleep goes 3-4 more hours. It is deliciously renewing. A nap in the early afternoon, as short as 20 minutes, will refresh you yet again. That is, if you can stand feeling this good.
 
-Before widespread public lighting, this was a common sleeping pattern. It's called biphasic or [____segmented sleep____](http://en.wikipedia.org/wiki/Segmented_sleep). It is natural and retreating strongly resets it. If it happens to you, don't consider it strange, but a normal part of human life recovered.
+Before widespread public lighting, this was a common sleeping pattern. It's called biphasic or [________segmented sleep________](http://en.wikipedia.org/wiki/Segmented_sleep). It is natural and retreating strongly resets it. If it happens to you, don't consider it strange, but a normal part of human life recovered.
 
 Many aspects of modern life seem increasingly out of control. Blackout blinds offer the unique thrill of reclaiming control over one of the most basic functions of existence: sleeping and waking. Neither the sun nor streetlighting nor scheduling accidents determine anymore when you wake up. You do, and only when you are good and ready.
 
@@ -46,7 +46,7 @@ Many aspects of modern life seem increasingly out of control. Blackout blinds of
 
 ### short {#short}
 
-#### mini-retreat {#mini-retreat}
+## mini-retreat {#mini-retreat}
 
 _Note: I do not recommend mini-retreats for everyone, just if you feel strongly called to it and find yourself able to do it without cutting corners and endangering yourself. I cannot do them properly, so I don't try anymore. I just include it because I saw it was possible and I can imagine there are people whose capacity and circumstances make it appropriate._
 
@@ -65,11 +65,11 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 > In retreat, the organism strongly resets natural biological rhythms. Namely, going to sleep whenever tired, especially at nightfall. If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour or two late is less than ideal, but it still works because the organism has time to compensate. This is not the case with mini-retreating.
 
-> The human organism in darkness seems to go through a 2--3 day cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle. Otherwise you may experience very negative consequences. It's like jumping out of a Ferriss wheel after it has gone too far up. Read my blog post, [____how not to retreat____](http://darkroomretreat.com/blog/2013/05/how-not-to-retreat), for a longer explanation. 
+> The human organism in darkness seems to go through a 2--3 day cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle. Otherwise you may experience very negative consequences. It's like jumping out of a Ferriss wheel after it has gone too far up. Read my blog post, [________how not to retreat________](http://darkroomretreat.com/blog/2013/05/how-not-to-retreat), for a longer explanation. 
 
 > Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
-#### 4-day retreat {#4-day-retreat}
+## 4-day retreat {#4-day-retreat}
 
 _Note: Read this section as the 8-day retreat section builds on it. But I no longer recommend 4-day retreats for most people. It is much better to begin with an 8-day retreat. If you really need rest, a 4-day retreat will just get your head above water without beginning to address what put you under in the first place. If you are truly well-rested, a 4-day retreat will be too short for you to have a strong experience of yourself in darkness._ 
 
@@ -83,11 +83,11 @@ Timing of regular retreats is a bit more flexible than mini-retreats. Plan to tu
 
 In accordance with the natural diurnal cycle, go into darkness in the evening and come out in the morning. Just stay in extra days in between. This makes the dark part of a retreat 2.5 days (60 hours). Avoid checking the time. Use a cellphone alarm set to a specific day to know when the retreat is over.
 
-Besides sleeping as much as possible, eating, eliminating, and bathing, what does one do in darkness without work, people, or media? Light exercise and restful placement of attention. I explain more about the latter in [____*protocol > attention*____](#attention).
+Besides sleeping as much as possible, eating, eliminating, and bathing, what does one do in darkness without work, people, or media? Light exercise and restful placement of attention. I explain more about the latter in [________*protocol > attention*________](#attention).
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema, but spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-#### transition {#transition}
+## transition {#transition}
 
 It takes time to properly readjust to light and ordinary life. So a period of unstressed transition back to it is _just as important as darkness itself_. For every three days of darkness, plan at least 24 hours of identical conditions except with sunlight and walks during the daylight.
 
@@ -97,11 +97,11 @@ So spend the transition quietly. First, uncover at least one window. Take a slow
 
 After your last sleep, slowly uncover the windows. Consider your retreat finished by noon at the latest.
 
-Ease back into your regular life. I mean avoid non-routine activities the first week. You will likely continue to notice effects from the retreat. Due to their dreamlike intensity, I call this the aftermath. See [____*protocol > post-retreat*____](#post-retreat).
+Ease back into your regular life. I mean avoid non-routine activities the first week. You will likely continue to notice effects from the retreat. Due to their dreamlike intensity, I call this the aftermath. See [________*protocol > post-retreat*________](#post-retreat).
 
-If your location has no running water, it's no problem. For this short of a period, it is unnecessary. See [____*water*____](#water) for a short list of requirements.
+If your location has no running water, it's no problem. For this short of a period, it is unnecessary. See [________*water*________](#water) for a short list of requirements.
 
-#### 8-day retreat {#8-day-retreat}
+## 8-day retreat {#8-day-retreat}
 
 This is the most beneficial retreat I have yet experienced and the best way for most people to begin retreating. Most people who can retreat for 4 days can go 8 days and benefit more than twice as much. The organism's response to darkness is cumulative; the healing process deepens every day.
 
@@ -112,7 +112,7 @@ An 8-day retreat is like a 4-day retreat except:
 - after physical restedness is reached, a major psychic issue can arise
 - with that, another cycle of emotional discomfort and resolution usually occurs
 - two days of transition are needed afterward
-- a bathing facility is needed for emotional as well as physical reasons. For remote locations, see plans for a [____*portable indoor shower*____](#deluxe).
+- a bathing facility is needed for emotional as well as physical reasons. For remote locations, see plans for a [________*portable indoor shower*________](#deluxe).
 
 ### medium {#medium}
 
@@ -134,7 +134,7 @@ Personally, I have been stuck in a rut of short retreats. My goal is to retreat 
 
 A long retreat lasts two months to a year. I have heard several reports of retreats like this. All had results we would consider miraculous but which are well within the capacity of the human organism. It made itself under difficult circumstances. Under ideal circumstances, it is certainly able to remake itself. Perhaps better than new.
 
-[____Stories persist____](http://darkroomretreat.com/reports/365-day-retreat-of-150-year-old-yogi) of astonishing physical healing occurring in Ayurvedic darkroom retreats lasting 3-12 months: recovering lost hair and eyesight; growing new teeth; and even recovering youth itself. It seems worth looking into.
+[________Stories persist________](http://darkroomretreat.com/reports/365-day-retreat-of-150-year-old-yogi) of astonishing physical healing occurring in Ayurvedic darkroom retreats lasting 3-12 months: recovering lost hair and eyesight; growing new teeth; and even recovering youth itself. It seems worth looking into.
 
 ### warning {#warning}
 
@@ -145,8 +145,8 @@ Fortunately, it is easy once you know. I will just list them here and point you 
 Just say no to:
 
 1. Mini-retreating behind schedule. See mini-retreat section above.
-2. Ending a retreat without transition days. See [____*4-day retreat*____](#4-day-retreat) above and [____*protocol > post-retreat*____](#post-retreat).
-3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. See [____*4-day retreat*____](#4-day-retreat) above and [____*hygiene > false capacity*____](#false-capacity), where I have understated the matter because it cannot be overstated.
+2. Ending a retreat without transition days. See [________*4-day retreat*________](#4-day-retreat) above and [________*protocol > post-retreat*________](#post-retreat).
+3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. See [________*4-day retreat*________](#4-day-retreat) above and [________*hygiene > false capacity*________](#false-capacity), where I have understated the matter because it cannot be overstated.
 4. I know I said three dangerous ways, but maybe there are more. And worse. Why find out? Stick to the tried and true. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.
@@ -156,7 +156,7 @@ Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom
 I would like to find the simplest way health, including sanity, can be fully restored in one shot. Like perfect healing of a broken bone. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
 
 - medium and long darkroom retreats
-- fasts (a la Albert Mosseri's groundbreaking [____method____](http://www.truthseekerz.com/Albert.Mosseri.the_Fast.Nature.s.Best.Remedy.htm))
+- fasts (a la Albert Mosseri's groundbreaking [________method________](http://www.truthseekerz.com/Albert.Mosseri.the_Fast.Nature.s.Best.Remedy.htm))
 - physical retraining
 - training in healthy lifeway, including both lifestyle and livelihood
 - open source research and development of the above

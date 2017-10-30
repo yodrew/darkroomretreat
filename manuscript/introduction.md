@@ -48,7 +48,7 @@ A darkroom is a bedroom that is perfectly dark. Sealing a room like this often r
 
 Basic darkness means perfectly dark, well-ventilated, reasonably quiet, and comfortable. This provides: darkness for nightly sleep; a place to familiarize yourself with extended darkness at your own pace; and a place for your first short retreats.
 
-Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More about this in the [____*design*____](#design) chapter
+Deluxe darkness adds extra features, comforts, and space. A dedicated darkroom is built in a small fully functional house in a quiet location. Like all houses should be but are not, it is perfectly and easily darkened. More about this in the [________*design*________](#design) chapter
 
 ## background {#background}
 
@@ -64,9 +64,9 @@ Spiritual traditions have used darkness for millennia. They tend to view it as t
 
 Indigenous traditions do likewise: Amazonian shamanism uses darkness in ayahuasca ceremony. Welsh shamans and Navajo, Maya, and Kogi Indians alike build special dark structures, holding darkness in high regard as essential to self-discovery. 
 
-Western science has studied sensory destimulation since the 1950s for astronautics, health, and mind-control. Ayurveda, India's ancient healing tradition, uses extended periods of darkness for rejuvenation. By [____reports____](http://darkroomretreat.com/reports/365-day-retreat-of-150-year-old-yogi), it is nothing less than the fountain of youth.
+Western science has studied sensory destimulation since the 1950s for astronautics, health, and mind-control. Ayurveda, India's ancient healing tradition, uses extended periods of darkness for rejuvenation. By [________reports________](http://darkroomretreat.com/reports/365-day-retreat-of-150-year-old-yogi), it is nothing less than the fountain of youth.
 
-Unfortunately, the active nature of these approaches to darkroom retreating compromises them. They depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [____limitless____](http://darkroomretreat.com/blog/2011/05/limitless) results. Hygiene completely secularizes the use of darkness for the specific purpose of healing. There is nothing mystical, disciplined, or complicated about this approach. It is rational, safe, and natural: a reliable miracle.
+Unfortunately, the active nature of these approaches to darkroom retreating compromises them. They depend on an active will, the faculty most in need of rest. Hygiene is passive, allowing the distressed will to finally rest and recover. Hygiene primarily depends on the autonomic self---omniscient, omnipotent, and infallible---to accomplish the work of healing. This removes structural conflict in the method, promising [________limitless________](http://darkroomretreat.com/blog/2011/05/limitless) results. Hygiene completely secularizes the use of darkness for the specific purpose of healing. There is nothing mystical, disciplined, or complicated about this approach. It is rational, safe, and natural: a reliable miracle.
 
 ### hygiene {#hygiene-introduction}
 
@@ -84,7 +84,7 @@ My parents had taught me the importance of eating well through their interest in
 
 Natural Hygiene came knocking three times. Once in 1989 through my dad's second wife, a truthseeker among whose fascinating books I found the ecstatic _Fit for Life_ by Harvey and Marilyn Diamond. Again in 1992 through a great friend, Sterling Voss. He told me, in the greatest letter anyone ever wrote me, about _Fasting Can Save Your Life_ by Herbert Shelton, hygiene's systematizer. Finally, in 2001, through friend and colleague, Frederic Patenaude, editor of _Just Eat An Apple_ magazine and author of _The Raw Secrets_. These were about the raw vegan diet.
 
-#### frederic {#frederic}
+## frederic {#frederic}
 
 I worked and was housemates with Frederic Patenaude a total of three years off and on from 1998 till 2003. First at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with Herbert Shelton, but by studying all the works of French hygienic master, Albert Mosseri, with whom he was in contact for many years. Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. 
 
@@ -92,9 +92,9 @@ By this, I mean he got it through my thick skull with his calm, relentless, crys
 
 In our many conversations, Frederic mentioned Los Angeles hygienist, Bernarr Zovluck, who advised people to fast with their eyes closed in a curtained room. Later, this comment would help me connect darkness with hygiene.
 
-Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [____*hygiene > capacity*____](#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
+Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [________*hygiene > capacity*________](#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
-#### finn {#finn}
+## finn {#finn}
 
 I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. "Apparently, after a few weeks of it, one comes out completely renewed," he said. I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed _light_. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
 
@@ -118,17 +118,17 @@ Eyes closed, arms wrapped round himself, he said, "It's a _luxury_."
 
 A benevolent Pied Piper and the coolest 60 year-old around, he had inspired all the village's youth to try a retreat. After listening to him rhapsodize about it all winter, I did, too.
 
-[____Wow____](http://darkroomretreat.com/reports/four-darkness-experiences).
+[________Wow________](http://darkroomretreat.com/reports/four-darkness-experiences).
 
 But as Finn says, I was just getting started. It would take two more years, the massive shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
 
-#### andrew {#andrew}
+## andrew {#andrew}
 
 How did all this begin?
 
 At age 15, I felt morose and alienated. Slumped in front of the TV one day, one of the tiny people living inside it mentioned the importance of loving oneself and being happy. It was perfect timing. If my mood was like the Death Star, this banal advice was like Luke Skywalker's photon torpedo.
 
-In a moment, I was spontaneously overcome by [____rapture____](http://darkroomretreat.com/darkness-conjecture/rapture): sublime joy in perceiving and being part of a perfect, beautiful universe. This feeling and perspective lasted three months solid. When they faded, so did my previous interests. I wanted more than anything to understand the cause of rapture---in order to recover it. [____Living out____](http://warmlite.com) of a [____backpack____](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
+In a moment, I was spontaneously overcome by [________rapture________](http://darkroomretreat.com/darkness-conjecture/rapture): sublime joy in perceiving and being part of a perfect, beautiful universe. This feeling and perspective lasted three months solid. When they faded, so did my previous interests. I wanted more than anything to understand the cause of rapture---in order to recover it. [________Living out________](http://warmlite.com) of a [________backpack________](http://mchalepacks.com), I independently investigated this mystery for 21 years, experimenting with philosophy, health, and design. Toward the end of this period, I did my first darkroom retreats. Soon after, in late 2008, the answer came:
 
 >_A slight increase of vital energy from adolescence had caused a temporary, partial restoration of my damaged psychic integrity, revealing an enrapturing universe. So a massive increase from profound rest in darkness would cause permanent and complete restoration._
 
@@ -147,6 +147,7 @@ This book is for:
 - those who appreciate good arguments and reasonable tests thereof
 - those who suffer in any way---spiritually, mentally, emotionally, physically, socially, ecologically---and who need hope that their suffering is impermanent
 - self-experimenters
+- those who wish to understand why humanity is in such rough shape and what to do about it
 
 Darkroom retreating is for anyone to whom it makes sense and who feels moved to do it, whether to heal from acute illness or to simply see what it's like. Besides psychic illness, much physical illness is psychosomatic and therefore amenable to self-healing in darkness.
 
@@ -156,7 +157,7 @@ However, darkness is no escape. Sometimes illness needs to be addressed in other
 
 Above all, this book presents an idea for consideration. For now, applying it is not at issue. You can only do something like this if you want to. And you can only want to if you know enough about it. So take your time absorbing the idea. Natural motivation comes from rational belief, which comes from knowledge. Thus, first invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
 
-Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the [____companion zip file____](http://darkroomretreat.com/darkroom-retreat.zip) to get all the plans for components as well as some reference reading.
+Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the [________companion zip file________](http://darkroomretreat.com/darkroom-retreat.zip) to get all the plans for components as well as some reference reading.
 
 Help from others may or may not come. You are the one you have been waiting for. The need for self-reliance applies to darkness more than anything else I've ever gotten involved with. It has been hard for me to recover enough of a self to rely on, to ferret out remnants of it I didn't know I had. But bit by bit, "a little here, a little there", the task is being accomplished.
  
@@ -180,26 +181,26 @@ Then:
 
 - appendices: hygiene's laws of life and pathology
 - faq: frequently asked questions
-- bibliography & influences
+- bibliography and influences
 <!-- - URLs of external links -->
 - acknowledgments, services, license, bio
 
-Note: underlined words in paper book are clickable links in the [____e-book____](http://darkroomretreat.com/ebook) and online. When *italicized*, they are crosslinks to other chapters and sections of the book. Usually, the *link text* indicates the link target, like this:  
+Note: underlined words in paper book are clickable links in the [________e-book________](http://darkroomretreat.com/ebook) and online. When *italicized*, they are crosslinks to other chapters and sections of the book. Usually, the *link text* indicates the link target, like this:  
 *chapter > section > sub-section*.
 
-Book is online at [____leanpub.com/darkroomretreat/read____](http://leanpub.com/darkroomretreat/read) and my website, [____darkroomretreat.com____](http://darkroomretreat.com/). There, you can also read: 
+Book is online at [________leanpub.com/darkroomretreat/read________](http://leanpub.com/darkroomretreat/read) and my website, [________darkroomretreat.com________](http://darkroomretreat.com/). There, you can also read: 
 
-- a series of my retreat [____reports____](http://darkroomretreat.com/reports)
-- [____theoretical essays____](http://darkroomretreat.com/darkness-conjecture) linked to in this booklet
-- elaborative [____blog____](http://darkroomretreat.com/blog) posts
-- related [____myths____](http://darkroomretreat.com/other-writings/myths) and
-- essays, designs, prose, poetry, and lyrics from the [____past 25 years____](http://darkroomretreat.com/other-writings).
+- a series of my retreat [________reports________](http://darkroomretreat.com/reports)
+- [________theoretical essays________](http://darkroomretreat.com/darkness-conjecture) linked to in this booklet
+- elaborative [________blog________](http://darkroomretreat.com/blog) posts
+- related [________myths________](http://darkroomretreat.com/other-writings/myths) and
+- essays, designs, prose, poetry, and lyrics from the [________past 25 years________](http://darkroomretreat.com/other-writings).
 
 ### open-source {#open-source}
 
-Thanks for reading. Please copy and give out this free book as much as you please. See [____*license*____](#license) for more options.
+Thanks for reading. Please copy and give out this free book as much as you please. See [________*license*________](#license) for more options.
 
-If you have comments or corrections, email me or [____open an issue____](https://github.com/yodrew/yodrew.github.io) at github. This is free content and an open source project contained in a public code repository. Fork the project, submit a pull request, etc. [____Learn____](http://rogerdudler.github.io/git-guide) distributed version control.
+If you have comments or corrections, email me or [________open an issue________](https://github.com/yodrew/yodrew.github.io) at github. This is free content and an open source project contained in a public code repository. Fork the project, submit a pull request, etc. [________Learn________](http://rogerdudler.github.io/git-guide) distributed version control.
 
 If you find a theoretical or practical error in the approach or a way to improve it, please let me know. I am happy to alter the book if your proposal:
 
@@ -220,7 +221,7 @@ I continually update this book. Especially before building, download the latest 
 
 Join the dolphin economy: I help you help me help you help me help you...
 
-In addition to this book, I can assist you by email, skype, and in person. See [____*services*____](#services) for details.
+In addition to this book, I can assist you by email, skype, and in person. See [________*services*________](#services) for details.
 
 You can contribute by: 
 
@@ -229,8 +230,8 @@ You can contribute by:
 - reporting your experience online with photos and sending me the link
 - improving the method and designs
 - improving the website
-- donating money to me on my [____homepage____](http://darkroomretreat.com/); I live extremely simply, so even small amounts help
-- lending or helping me rent or build a [____*suitable*____](#design) retreat location for a month so I can heal from my own psychosis, characterized by exhaustion-depression and various physical ailments
+- donating money to me on my [________homepage________](http://darkroomretreat.com/); I live extremely simply, so even small amounts help
+- lending or helping me rent or build a [________*suitable*________](#design) retreat location for a month so I can heal from my own psychosis, characterized by exhaustion-depression and various physical ailments
 - doing something not listed above, perhaps something only you know about or that we can develop together
 
 Thanks for reading and best wishes. 

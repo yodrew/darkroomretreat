@@ -23,12 +23,12 @@ This means either:
 1. following the instructions below
 2. hiring an HVAC contractor to clean, repair, replace, or install ventilation in your home
 3. moving somewhere the ventilation system just works (like the tropics or a new house in northern Europe)
-4. using [____oxygen producing plants____](https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en)
+4. using [________oxygen producing plants________](https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air/transcript?language=en)
 5. a combination of these
 
 Somehow, it must be done. Forget darkness a moment. Along with not freezing to death and being safe from injury, we have no greater concern in life than arranging to breathe fresh air continuously and comfortably.
 
-### constraints {#constraints-ventilation}
+### constraints {#constraints-air}
 
 - provides plenty of fresh air
 - lightproof
@@ -68,7 +68,7 @@ Sewage pipes drain downward but are ventilated upward. Once, friends and I repla
 
 Here are further design constraints, photos, plans, and instructions for making and installing lightproof vents.
 
-#### constraints {#constraints-lightproof}
+## constraints {#constraints-1-air}
 
 (helix vent specifications in parentheses){threshold vent specifications in curly braces}:
 
@@ -81,7 +81,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 - elegant (yes: simple compact form, uses common materials, zig-zag-shaped passage accommodates natural helical movement of air){yes}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time}
 
-### helix vent {#helix-vent}
+## helix vent {#helix-vent}
 
 
 ![photo: helix vent, complete](images/helix-vent-complete.jpg)
@@ -110,7 +110,7 @@ If your darkroom's ventilation is passive, put vents both low and high in room t
 
 Do you need a more compact vent or wish to manufacture vents? I prototyped some based on the same helix principle that proved too difficult to make by hand. Write me for photos, plans, and instructions. It is 280H x 180W x 60D (where W is distance through vent). Further reductions are possible (down to W of 65) for compact applications.
 
-Materials are simple and non-toxic: heavy black acid-free paper, cardboard, fabric, and wood glue. Look in art or office supply shops for the paper. North Americans, use this paper weight and size [____conversion chart____](http://www.paper-paper.com/weight.html). If large sheets are unavailable, glue small sheets together between folds in plan. Wood glue has high tack and quick drying time, easing assembly. School glue will work, too.
+Materials are simple and non-toxic: heavy black acid-free paper, cardboard, fabric, and wood glue. Look in art or office supply shops for the paper. North Americans, use this paper weight and size [________conversion chart________](http://www.paper-paper.com/weight.html). If large sheets are unavailable, glue small sheets together between folds in plan. Wood glue has high tack and quick drying time, easing assembly. School glue will work, too.
 
 Read through instructions once while studying plans.
 
@@ -149,13 +149,13 @@ Read through instructions once while studying plans.
     9. attach shell to back of panel over core with tape, glue, or screws going through panel into braces
     10. cover shell with foil and/or white paper to minimize warping by sun
 
-### threshold vent {#threshold-vent}
+## threshold vent {#threshold-vent}
 
 A bedroom door often has a gap at the bottom---the threshold---for ventilation. In mechanically ventilated dwellings, this gap allows air to flow out of the bedroom toward the dwelling's return vent (or perhaps just a window). The threshold vent lets air out but no light in. Its design adapts to door thickness, the height of the gap between bottom of door and threshold, width of door, and width of vent necessary for sufficient airflow. It works if gap is 15-33mm. 
 
 If greater than 33mm, add cardboard or wood to the bottom of the door or build up threshold with boards. Or modify the design. If less than 15mm, you can trim the bottom of the door. Otherwise, or if bottom of door fits into a stepped threshold, this vent will not work. Somehow, air has to get out of the room without letting in light. 
 
-Block light that reaches the door from the outside as much as possible. For example, make a [____removable partition____](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
+Block light that reaches the door from the outside as much as possible. For example, make a [________removable partition________](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
 [![plan: threshold vent perspective](images/threshold-vent-perspective.png)](http://darkroomretreat.com/img/plan/threshold-vent-perspective.pdf)
 
@@ -193,7 +193,7 @@ The four principles of soundproofing are clear and widely understood:
 3. dampening: using rubbery material to dampen vibration in resonant materials like metal, wood, masonry, glass
 4. decoupling: disconnect structures and airspaces to prevent transmission of sound vibration from source to receiver
 
-[____Soundproofing tutorials____](http://www.soundproofingcompany.com/soundproofing101) abound online. 
+[________Soundproofing tutorials________](http://www.soundproofingcompany.com/soundproofing101) abound online. 
 
 These principles apply to ventilation as well. Dampening and decoupling figure in fan mounting, and mass and absorption in silencer design. The silencer eliminates most noise, including from the fan.
 
@@ -208,12 +208,12 @@ A silencer is an expanded duct section lined with insulation. Its greater volume
 You can make or buy duct silencers. 
 
 - my double-turn box design is below, $2-$10 depending on your material salvaging skills.
-- [____DIY straight tube design____](https://www.420magazine.com/forums/do-it-yourself/176589-diy-duct-silencer-muffler-super-cheap.html) 
-- [____acoustic ducting____](http://www.fantronix.com/acatalog/Acoustic_Ducting.html), at least 3m with 2-3 bends
-- [____silencer for sound booths____](http://www.whisperroom.com/sound-booth-optional-features.php#vent). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
+- [________DIY straight tube design________](https://www.420magazine.com/forums/do-it-yourself/176589-diy-duct-silencer-muffler-super-cheap.html) 
+- [________acoustic ducting________](http://www.fantronix.com/acatalog/Acoustic_Ducting.html), at least 3m with 2-3 bends
+- [________silencer for sound booths________](http://www.whisperroom.com/sound-booth-optional-features.php#vent). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
 - standard silencers are made of metal and super durable materials and cost $100-200.
 
-In the past year, I built two box silencers into window openings. They were simpler and much more effective than I hoped. They swallowed up sound. The window pane formed one face of the box. The window opening provided the 4 sides. Boards formed the box's other face, covering the window on the outside, against the inside of the bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See [____*darkness > window > hard panel*____](#hard-panel) section for more about adapting the design below.
+In the past year, I built two box silencers into window openings. They were simpler and much more effective than I hoped. They swallowed up sound. The window pane formed one face of the box. The window opening provided the 4 sides. Boards formed the box's other face, covering the window on the outside, against the inside of the bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See [________*darkness > window > hard panel*________](#hard-panel) section for more about adapting the design below.
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
@@ -240,13 +240,13 @@ Use a case fan, also known as a squirrel cage fan. Specifications:
 - maximum 20dB (decibels)
 - 70-200cmh (cubic meters per hour) or 40-120cfm (cubic feet per minute)
 
-120mm is the most common size, salvageable from a desktop computer tower, $1 at thrift stores or flea markets, or $2--20 at a computer or electronics store. Once you have experimented a bit, Noctua makes the best and quietest fans available, of 120, 140, and 200mm diameter, and as low as 7dB. Rexflo offers a [____360mm jumbo fan____](https://rexflo.myshopify.com/products/rexflo-silent-jumbo-360x360x30mm-case-fan-with-no-led). Avoid AC (alternating current) fans due to their penetrating hum (more on noise below).
+120mm is the most common size, salvageable from a desktop computer tower, $1 at thrift stores or flea markets, or $2--20 at a computer or electronics store. Once you have experimented a bit, Noctua makes the best and quietest fans available, of 120, 140, and 200mm diameter, and as low as 7dB. Rexflo offers a [________360mm jumbo fan________](https://rexflo.myshopify.com/products/rexflo-silent-jumbo-360x360x30mm-case-fan-with-no-led). Avoid AC (alternating current) fans due to their penetrating hum (more on noise below).
 
 Power it from the grid with an AC/DC universal adapter with pole switching and variable voltage for speed control ($5 at variety stores). Off grid, use car or household batteries or a solar power system. To control speed, use a 12V DC/DC car adapter from eBay. Attach one fan wire at each end of the pack. No fan movement? Switch the +/-- poles on the adapter or switch the positive and negative wires.
 
-More about an ideal fan in [____heat > fan-tasy____](#fan-tasy), below.
+More about an [________ideal fan________](#fan-idea), below.
 
-#### fan mount {#fan-mount}
+### fan mount {#fan-mount}
 
 [![plan: fan mount](images/fan-mount.png)](http://darkroomretreat.com/img/plan/fan-mount.pdf)  
 
@@ -292,22 +292,22 @@ I was isolated and just learning. This simple discovery encouraged me after week
 
 Once built, maintain by wiping dust off panel once a week. What a luxury! Of course, if you have reliable wind or hydro power, that's great.
 
-### heat {#heat}
+### warmth {#warmth}
 
 For heat, I often use a portable oil-filled heater. It is silent and can be positioned by a window or vent to warm incoming cold fresh air. Before buying, check that its indicator lights are easy to cover (not glowing from the interior through multiple cracks) and that it doesn't rattle or hum. Old or cheap ones often do.
 
-If you live in a cold place, I highly recommend buying and installing a [____Heat Recovery Ventilator____](http://en.wikipedia.org/wiki/Heat_recovery_ventilation) (HRV) for both health and economy. It conducts heat from return air to supply air while keeping airstreams separate using an exchanging core and fans.
+If you live in a cold place, I highly recommend buying and installing a [________Heat Recovery Ventilator________](http://en.wikipedia.org/wiki/Heat_recovery_ventilation) (HRV) for both health and economy. It conducts heat from return air to supply air while keeping airstreams separate using an exchanging core and fans.
 
-Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more efficient than conventional plate exchangers. Fiwihex cores have been available for $150 from [____Viking House____](http://viking-house.ie) and  
-[____Vision4Energy____](http://www.vision4energy.com) and possibly [____Fresh-R____](http://fresh-r.eu). These companies' _Breathing Windows_ embody an intriguing design for a complete ventilation system. But I lived with one for six months and found it too loud due to its small, high-RPM fans with integrated motors and no silencing. Thus my thinking about silent fans (more below).
+Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more efficient than conventional plate exchangers. Fiwihex cores have been available for $150 from [________Viking House________](http://viking-house.ie) and  
+[________Vision4Energy________](http://www.vision4energy.com) and possibly [________Fresh-R________](http://fresh-r.eu). These companies' _Breathing Windows_ embody an intriguing design for a complete ventilation system. But I lived with one for six months and found it too loud due to its small, high-RPM fans with integrated motors and no silencing. Thus my thinking about silent fans (more below).
 
-The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found in Energy Recovery Ventilators such as [____Renewaire's____](http://www.renewaire.com). Made of high-tech paper, the Lossnay recovers heated water vapor as well as heat from air. Lossnay's principle has DIY-potential, using 25m^2^ of non-siliconized parchment paper ("sandwich paper" in supermarkets). I have conceived a design for it. Please write me for details.
+The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found in Energy Recovery Ventilators such as [________Renewaire's________](http://www.renewaire.com). Made of high-tech paper, the Lossnay recovers heated water vapor as well as heat from air. Lossnay's principle has DIY-potential, using 25m^2^ of non-siliconized parchment paper ("sandwich paper" in supermarkets). I have conceived a design for it. Please write me for details.
 
-#### fan idea {#fan-idea}
+### fan idea {#fan-idea}
 
 A heat recovery ventilator requires two fans. The only trouble with case fans is that they are axial fans. These do not efficiently generate enough pressure to overcome the resistance in ventilation systems (long pipes, heat exchanging cores, filters, convoluted vents). But centrifugal fans can. These are pricey, starting around $50, and usually AC powered, so they hum. DC or EC (Electronically Commutated) centrifugal fans cost even more.
 
-It would be nice to have cheap, quiet fans for this: large, low RPM [____homemade centrifugal fans____](http://gingerybookstore.com/product36.html) with DC motors _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 50cm diameter fan from wood, cardboard, paper, and steel (photos upon request). The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it. Air friction in the fan caused a surprising amount of noise. Each airstream would require a silencer. But this design ought to totally eliminate fan noise. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
+It would be nice to have cheap, quiet fans for this: large, low RPM [________homemade centrifugal fans________](http://gingerybookstore.com/product36.html) with DC motors _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 50cm diameter fan from wood, cardboard, paper, and steel (photos upon request). The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it. Air friction in the fan caused a surprising amount of noise. Each airstream would require a silencer. But this design ought to totally eliminate fan noise. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
 
 ~~
 

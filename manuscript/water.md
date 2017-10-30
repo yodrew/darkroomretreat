@@ -6,7 +6,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 
 ## sink {#sink}
 
-### basic {#basic-sink}
+### basic {#basic-water}
 
 - table
 - rectangular plastic basin, like a restaurant bus tub
@@ -15,7 +15,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 - drinking water (if separate from wash water): in 20L bottle with valve-cap
 - waste (water and food): two, 20L buckets with lids
 
-### upgrade {#upgrade-sink}
+### upgrade {#upgrade-water}
 
 - salvaged sink set in a counter-height table
 - drains directly into waste bucket
@@ -23,7 +23,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 
 ## toilet {#toilet}
 
-### basic {#basic-toilet}
+### basic {#basic-1-water}
 
 It's a 20L bucket with a toilet seat on top. No kidding!
     
@@ -43,7 +43,7 @@ It's a 20L bucket with a toilet seat on top. No kidding!
     - squeeze to get a small stream of water that runs straight down
     - wash anus with wetted fingers of other hand
 
-### upgrade {#upgrade-toilet}
+### upgrade {#upgrade-1-water}
 
 A 20L bucket sits inside a box with a hole in the top. The return duct attaches to a hole in the side of the box. So all air exits the room through the toilet, containing all odor. Bucket also collects pee, so empty it every 3-5 days. Making a vented urinal or a toilet that separates pee from poop is possible, too. 
 
@@ -63,7 +63,7 @@ Dimensions: 35cmH x 60W x 60D
     - reinforcer only for tongue and groove boards, directly behind toilet seat mounts
 - frame
     - made of 25mm x 37 lumber
-    - joint is extra strong, non-planar joint (see [____gridbeam.com____](http://gridbeam.com))
+    - joint is extra strong, non-planar joint (see [________gridbeam.com________](http://gridbeam.com))
     - black dots indicate heads of screws. Always drill pilot holes for screws.
     - adjust leg height to allow a 15mm space between top of bucket and underside of toilet top
 - liner
@@ -81,11 +81,11 @@ Dimensions: 35cmH x 60W x 60D
 
 ## bath {#bath}
 
-### basic {#basic-bath}
+### basic {#basic-2-water}
 
 A washcloth or sponge for a sponge bath
 
-### upgrade {#upgrade-bath}
+### upgrade {#upgrade-2-water}
 
 - on waterproof floor (or covered with large plastic sheet) make a 2m diameter border of towels or bedsheets and sit in the middle 
 - put shower water in two 1.5L soda bottles with loose lids or nearly closed drinking spout lids
@@ -115,7 +115,7 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 
 ### conclusion {#conclusion}
 
-That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [____*introduction > open-source*____](#open-source).
+That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [________*introduction > open-source*________](#open-source).
 
 That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
 

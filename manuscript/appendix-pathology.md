@@ -1,10 +1,10 @@
-# appendix–pathology {#appendix-pathology}
+# appendix - pathology {#appendix-pathology}
 
 Pathology is the study of disease, including its nature, causes, and symptoms. Pathology guides our conscious response to disease. Every school of health has a general theory of pathology. In fact, many systems are named for their pathologies because they are basically oriented toward disease: homeopathy, naturopathy, osteopathy, allopathy (medicine). Allopathy's germ theory of disease leads doctors to gloss over causes and get right to symptomology and treatment. By contrast, a benevolent view of disease keeps a hygienist cool as a cucumber. Hygiene makes plenty of time to correct allopathy's imbalance with careful etiology (study of causes). This reveals the simplest and most effective responses.
 
 In the 1930s, hygienist Dr. John Tilden, identified seven stages of all chronic disease. This provides hygiene with a general theory of pathology. Each stage describes what happens as our energy level gets lower and lower. Note that a sick person can move down the steps (become sicker), or up (become well). It is simple cause and effect. Hygiene proves in theory and repeatedly demonstrates in practice the reversibility of the trend.
 
-The following summary of Tilden's analysis of disease comes from _The Health Seekers Yearbook_ by [____Victoria Bidwell____](http://getwellstaywell.com).
+The following summary of Tilden's analysis of disease comes from _The Health Seekers Yearbook_ by [________Victoria Bidwell________](http://getwellstaywell.com).
 
 ## seven stages of disease {#seven-stages-of-disease}
 

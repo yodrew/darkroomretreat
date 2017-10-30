@@ -32,7 +32,7 @@ The quickest way to obtain a large measure of darkness wherever you are is to co
 
 I have not tried every mask on the market. But none has satisfied my requirements. So I designed one. Standard and instant versions.
 
-### constraints {#constraints-sleeping-mask}
+### constraints {#constraints-darkness}
 
 - blocks all light 
     - through the mask
@@ -89,7 +89,7 @@ Some measurements in the drawing are marked with a tilde (~). This means they ar
 
 ### instant {#instant}
 
-Staple this one together in a few minutes. It's the mask above with no seals. It blocks 95% of light and lets me nap. Here's a photo:
+Staple this one together in a few minutes. It's the mask above with no seals. It blocks 95% of light and lets me sleep in and nap. Ch-ch-ch-check it out:
 
 ![photo: sleeping mask, instant](images/sleeping-mask-instant.jpg)
 
@@ -115,7 +115,7 @@ If door has a window, use one of the methods below to cover it.
 
 To darken windows, use one of the five methods I have come up with---rollerblind, velcro, panel, plastic, and foil---or have blackout blinds custom made with side rails for 10-100x the money. Or invent something else.
 
-### constraints {#constraints-blinds}
+### constraints {#constraints-1-darkness}
 
 - perfectly darkening
 - quickly and easily operated so it actually gets used
@@ -334,7 +334,7 @@ Thus, these (untested) improvements should make it work.
 
 I mentioned this at the end of the intro above regarding casement windows. I have been making these more and more because of their soundproofing and lightproofing qualities and the wide availability of discarded furniture for free material. Unlike glass, it allows you to cut a hole to easily attach a duct or vent. Use it just for retreats or make it permanent if you have extra opening windows.
 
-It can form the face of a custom silencer that is built into the window opening. The silencer design is very simple. Study it and adapt it to the size of your window. This can be easier than building a standard silencer and then still having to fix it to the window somehow. See [____*air > silencer*____](#silencer).
+It can form the face of a custom silencer that is built into the window opening. The silencer design is very simple. Study it and adapt it to the size of your window. This can be easier than building a standard silencer and then still having to fix it to the window somehow. See [________*air > silencer*________](#silencer).
 
 Remove the window by its hinges. Carefully trace its outline onto the board you will use, or paper or cardboard if handles or hinges make that awkward. It should have 3mm space around it. Tracing is better than measuring because it also accommodates non-square angles that windows tend to have over time. Cut out the panel and make sure it fits in the frame. Attach fleece to edge so it bends over one corner and makes contact with frame on two surfaces all the way around. 
 
@@ -365,7 +365,7 @@ This method consists of taping thick black plastic over windows.
 
 ### foil {#foil}
 
-#### disposable {#disposable}
+## disposable {#disposable}
 
 This consists of foil taped over windows.
 
@@ -395,7 +395,7 @@ Also, apply foil directly to the glass. If you tape it to the frame, suspended i
     10. tape foil to frame
     11. tack dark blankets over window to catch any leaks
 
-#### reusable {#reusable}
+## reusable {#reusable}
 
 Use this method to quickly reduce light where absolute lightproofness is not required or practical. For example, an unsealed bedroom door is almost dark enough for nightly sleep, except morning sun comes through a small curtainless hallway window. Or during travel. 
 
