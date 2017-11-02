@@ -99,6 +99,5 @@ I called some people here guides, but anyone who hosted me also guided me. I've 
 
 I also made enemies and hurt some people along the way. I'm sorry it didn't go the way we thought at first. Here's hoping it was not in vain.
 
-Acknowledgments in books usually bore me. This one I cannot reread without weeping. Onward, then till the task is complete.
+Acknowledgments in books usually bore me. This one I cannot reread without weeping. Onward, then, till the task is complete.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&lt;____](../bibliography-influences)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&gt;____](../disclaimer)

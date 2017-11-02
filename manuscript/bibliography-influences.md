@@ -42,4 +42,3 @@
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011
     - two months of life-altering sex, Sweden, 2012
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&lt;____](../faq)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&gt;____](../acknowledgments)
