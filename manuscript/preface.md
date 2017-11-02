@@ -1,4 +1,4 @@
-# preface {#preface}
+# preface
 
 When I first retreated in darkness, I just did it to rest. It worked. After 56 hours, I felt caught up on all the sleep I had ever lost, truly awake for the first time in decades. I was stunned.
 

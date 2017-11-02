@@ -1,8 +1,8 @@
-# acknowledgments {#acknowledgments}
+# acknowledgments
 
 Thanks to hundreds of people in 8 countries on 2 continents over 28 years, who morally and materially aided me during my prodigal search, especially my:
 
-### editors {#editors}
+### editors
 
 ...for heroic efforts to make this book real. In triage, you were as merciful as you could be:
 
@@ -12,7 +12,7 @@ Thanks to hundreds of people in 8 countries on 2 continents over 28 years, who m
     Also, 
 - Bertrand Besigye, outlandish poet and fellow journeyman in darkness, for early support of the book
 
-### family {#family}
+### family
 
 Immediate, extended, and adopted: I leaned on all of you that would let me. It can't be easy rearing a stubborn 20, 30, then 40 year-old psychotic infant in a world that denies everything real. Thanks, especially, to:
 
@@ -24,11 +24,11 @@ Immediate, extended, and adopted: I leaned on all of you that would let me. It c
 
 Trimurti: my second family, torn away as soon as I noticed, for helping further raise me
 
-### influences {#influences}
+### influences
 
 ...for friendship, support, and/or raising the bar so high that anti-gravity boots became necessary. And especially: 
 
-### elders {#elders}
+### elders
 
 - Jack Nuckols: a giant and first among my elders, you took care of me till I found my way. RIP.
 - Willetta Warberg: you poured your heart and soul into me through your piano, kindness, and huge personality
@@ -39,7 +39,7 @@ Trimurti: my second family, torn away as soon as I noticed, for helping further 
 
 Each of you gave me the world.
 
-### old friends {#old-friends}
+### old friends
 
 - John Roberts: lifelong best friend, tremendous supporter, host
 - Daniel Meulbroek: guardian, supporter, and host extraordinaire 
@@ -47,7 +47,7 @@ Each of you gave me the world.
 - Evelyn Thomas and Alton Sterling Voss: supporters, fellow investigators and survivors 
 - Ian Robertson, for the life-ring of rationality when it mattered most
 
-### since darkness {#since-darkness}
+### since darkness
 
 - America
     - Rob Miller, Malia Shultheis, and Jen Carroll: supporters and early retreat hosts
@@ -93,7 +93,7 @@ Each of you gave me the world.
     - Mary Salama for proof-editing this book
     - Marion Abbott, for endless transworld conversations and constant in-the-trenches support starting 2016
 
-### end {#end}
+### end
 
 I called some people here guides, but anyone who hosted me also guided me. I've needed a lot of help for a long time. Everyone on this list put a lot of time and energy into me and my work.
 
@@ -101,3 +101,4 @@ I also made enemies and hurt some people along the way. I'm sorry it didn't go t
 
 Acknowledgments in books usually bore me. This one I cannot reread without weeping. Onward, then till the task is complete.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&lt;____](../bibliography-influences)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&gt;____](../disclaimer)

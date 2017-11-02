@@ -1,4 +1,4 @@
-# 6 - make {#make}
+# 6 - make
 
 > "The time for half-measures and talk is over."  
 --Maximus in _Gladiator_
@@ -15,15 +15,15 @@ I suggest you read the prose introductions to each section now and save the list
 
 All components refer to the following basic instruction sections: the **metric system**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
-[____7&nbsp; air____](#air)  
-[____8&nbsp; darkness____](#darkness)  
-[____9&nbsp; water____](#water)  
+[____7&nbsp; air____](/air)  
+[____8&nbsp; darkness____](/darkness)  
+[____9&nbsp; water____](/water)  
 
-After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone and, uh, you won't be able to see anything, either.
+After improvising darkness to sleep in [____*tonight*____](/format#tonight), the [____*instant sleeping mask*____](/darkness#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone and, uh, you won't be able to see anything, either.
 
-If you need more specific advice for darkening your space, I provide [____*design consultation*____](#services). Likewise, feel free to use these [____*open-source*____](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](#license).
+If you need more specific advice for darkening your space, I provide [____*design consultation*____](/services). Likewise, feel free to use these [____*open-source*____](/introduction#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](/license).
 
-## metric {#metric}
+## metric
 
 I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:
 
@@ -55,7 +55,7 @@ I give all measurements in metric, mostly millimeters. Are you used to inches, p
 		- 28g = 1 oz
 		- *1kg = 2 lb
 
-## tools {#tools}
+## tools
 
 Making components requires some or all of these tools:
 
@@ -101,7 +101,7 @@ Making components requires some or all of these tools:
         - every 300mm, 8mm holes, an 8x80mm bolt, 2 washers, and a wingnut holding boards together
     4. hack saw (for roller blind), even just a hack saw blade is enough. Cover teeth at one end with tape as a handle so you can cut on the pull stroke
 
-## plans {#plans}
+## plans
 
 I have drawn the plans on a computer for precision, clarity, and ease of modification. They can be baffling to look at first. Use the **key** to understand the symbols and marks. Compare drawings to photos. Then simply _follow the instructions_, one step at a time, and you ought to end up with the intended component. If this does not work, write me and I'll try to sort out the confusion I've caused you and maybe improve the instructions and drawings for others, too.
 
@@ -117,7 +117,7 @@ For example, the helix vent has plan views of its flat parts and one section vie
 
 All plans can be reused except sleeping mask plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. Images below are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in; click each image to open the corresponding full-size plan as an individual PDF; or:
 
-1. download all plans at once with the [____darkroom retreat zip file____](http://darkroomretreat.com/darkroom-retreat.zip). Extract (decompress) the file. In the _make_ folder, find:
+1. download all plans at once with the [____darkroom retreat zip file____](/darkroom-retreat.zip). Extract (decompress) the file. In the _make_ folder, find:
     - a complete set of PDF plans
     - all photos below plus extras from website
     - SVG source files of plans for modifying them, originally drawn in [____Inkscape____](http://inkscape.org)
@@ -147,16 +147,16 @@ All plans can be reused except sleeping mask plan, which is destroyed as you mak
             2. align cut marks at perimeter of plan first, then the one(s) in the middle. 
             3. use masking tape to join sheets
     3. hand-reproducing plans from book or screen
-        1. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An Incra ruler will help a lot with this. See above, [____basics > tools____](#tools) 
+        1. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An Incra ruler will help a lot with this. See above, [____basics > tools____](/make#tools) 
         2. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements. 
         3. use grey-numbered cumulative measurements in plan to quickly mark lines
 3. key
 
     Here is a key to the computer-drafted plans. Find further explanation of symbols in fabricate section below.
 
-[![plan key](img/plan/image/key.png)](http://darkroomretreat.com/img/plan/key.pdf)
+[![plan key](images/key.png)](/img/plan/key.pdf)
 
-## fabricate {#fabricate}
+## fabricate
 
 These instructions apply to all components, or as indicated. Read special instructions for each component in its respective section afterward.
 
