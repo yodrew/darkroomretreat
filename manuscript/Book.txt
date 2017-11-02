@@ -1,5 +1,6 @@
 frontmatter.txt
 blurb.md
+notes.md
 foreword.md
 preface.md
 mainmatter.txt

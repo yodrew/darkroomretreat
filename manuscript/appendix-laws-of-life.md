@@ -17,5 +17,5 @@
 15. **The Law of the Minimum**: The development of living organisms is regulated by the supply of that element or factor which is least abundantly provided or utilized. The element or factor in shortest supply determines the amount of development.
 16. **The Law of Development**: The development of all or any parts of the living organism is measured in direct proportion to the amount of vital forces and nutritive materials which are directed to it and brought to bear upon it.
 
-Resume reading [________hygiene________](#examples)
+Resume reading [____hygiene____](#examples)
 

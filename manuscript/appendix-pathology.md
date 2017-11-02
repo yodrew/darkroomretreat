@@ -4,7 +4,7 @@ Pathology is the study of disease, including its nature, causes, and symptoms. P
 
 In the 1930s, hygienist Dr. John Tilden, identified seven stages of all chronic disease. This provides hygiene with a general theory of pathology. Each stage describes what happens as our energy level gets lower and lower. Note that a sick person can move down the steps (become sicker), or up (become well). It is simple cause and effect. Hygiene proves in theory and repeatedly demonstrates in practice the reversibility of the trend.
 
-The following summary of Tilden's analysis of disease comes from _The Health Seekers Yearbook_ by [________Victoria Bidwell________](http://getwellstaywell.com).
+The following summary of Tilden's analysis of disease comes from _The Health Seekers Yearbook_ by [____Victoria Bidwell____](http://getwellstaywell.com).
 
 ## seven stages of disease {#seven-stages-of-disease}
 

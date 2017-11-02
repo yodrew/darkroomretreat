@@ -10,7 +10,7 @@ Register for your retreat here. Follow instructions carefully.
 
 1. Read this book. Quiz later.
 2. Select dates for your retreat from the calendar below. Retreats begin at 18:00 and end at 12:00 four or eight mornings later. For example, a 4-day retreat that begins on Monday evening would end on Friday morning.
-3. Respond by [________*email*________](#bio) to the questionnaire below. Responses of one or two sentences per question are sufficient. 
+3. Respond by [____*email*____](#bio) to the questionnaire below. Responses of one or two sentences per question are sufficient. 
 4. Send deposit by Bitcoin, PayPal, credit card
 5. Bring things listed below
 
@@ -30,7 +30,7 @@ Register for your retreat here. Follow instructions carefully.
 
 &nbsp;
 
-\[________placeholder for google calendar\________]
+\[____placeholder for google calendar\____]
 
 &nbsp;
 
@@ -54,7 +54,7 @@ alternate:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
 15. Quiz: Where is a good place to put your attention if you feel crazy or tormented?
 16. Would you like to maintain silence during your retreat?
 17. What fears or concerns do you have that might interfere with your retreat? (fear of the dark, claustrophobia, superstition, etc)? How will you handle them? What support might you need?
-18. Assuming I am correct that practically everyone is [________psychotic________](http://darkroomretreat.com/darkness-conjecture/psychosis) how do you feel darkness might significantly affect you, for better or worse?
+18. Assuming I am correct that practically everyone is [____psychotic____](http://darkroomretreat.com/darkness-conjecture/psychosis) how do you feel darkness might significantly affect you, for better or worse?
 19. Is there anything else you would like to add?
 
 ## menu {#menu}
@@ -67,8 +67,8 @@ Here is the hygienic food plan:
     - whole, raw, ripe, well-washed, and amply provided for eating anytime
     - green salad: sweet or savory, large, properly combined, served at midday
     - not served: juice, oil, spices, salt, onions, garlic, ginger, or ferments (like vinegar).
-- if you would like to know more about this menu before trying it, read the food sections in [________*hygiene*________](#hygiene) and [________*protocol*________](#protocol) and Dr Douglas Graham's  
-[________*The 80/10/10 Diet*________](http://foodnsport.com)
+- if you would like to know more about this menu before trying it, read the food sections in [____*hygiene*____](#hygiene) and [____*protocol*____](#protocol) and Dr Douglas Graham's  
+[____*The 80/10/10 Diet*____](http://foodnsport.com)
 - if you somehow cannot eat this way, eat as simply and naturally as you know how. For suggestions, write me with your limitations.
 
 ## bring {#bring}

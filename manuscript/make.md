@@ -15,13 +15,13 @@ I suggest you read the prose introductions to each section now and save the list
 
 All components refer to the following basic instruction sections: the **metric system**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
-[________7&nbsp; air________](#air)  
-[________8&nbsp; darkness________](#darkness)  
-[________9&nbsp; water________](#water)  
+[____7&nbsp; air____](#air)  
+[____8&nbsp; darkness____](#darkness)  
+[____9&nbsp; water____](#water)  
 
-After improvising darkness to sleep in [________*tonight*________](#tonight), the [________*instant sleeping mask*________](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone and, uh, you won't be able to see anything, either.
+After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone and, uh, you won't be able to see anything, either.
 
-If you need more specific advice for darkening your space, I provide [________*design consultation*________](#services). Likewise, feel free to use these [________*open-source*________](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [________*license*________](#license).
+If you need more specific advice for darkening your space, I provide [____*design consultation*____](#services). Likewise, feel free to use these [____*open-source*____](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](#license).
 
 ## metric {#metric}
 
@@ -62,7 +62,7 @@ Making components requires some or all of these tools:
 1. table or desk
 2. measure
     1. Note: before purchase, test tools for accuracy, which can vary between identical tools, even of good brands. Instructions below.
-    2. metric ruler, 30cm, clear plastic. If reproducing plans by hand rather than printing them, then get an [________Incra ruler________](http://incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
+    2. metric ruler, 30cm, clear plastic. If reproducing plans by hand rather than printing them, then get an [____Incra ruler____](http://incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
     3. meter stick, steel with engraved marks
         1. put marked edges of two sticks together so 40cm mark of one meets 60cm mark of other
         2. push ends of both against a wall and check how well marks line up
@@ -117,10 +117,10 @@ For example, the helix vent has plan views of its flat parts and one section vie
 
 All plans can be reused except sleeping mask plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. Images below are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in; click each image to open the corresponding full-size plan as an individual PDF; or:
 
-1. download all plans at once with the [________darkroom retreat zip file________](http://darkroomretreat.com/darkroom-retreat.zip). Extract (decompress) the file. In the _make_ folder, find:
+1. download all plans at once with the [____darkroom retreat zip file____](http://darkroomretreat.com/darkroom-retreat.zip). Extract (decompress) the file. In the _make_ folder, find:
     - a complete set of PDF plans
     - all photos below plus extras from website
-    - SVG source files of plans for modifying them, originally drawn in [________Inkscape________](http://inkscape.org)
+    - SVG source files of plans for modifying them, originally drawn in [____Inkscape____](http://inkscape.org)
     - I would love it if someone made 
         - 3D versions of these drawings with Sketchup
         - assembly instructions for the components like IKEA
@@ -147,14 +147,14 @@ All plans can be reused except sleeping mask plan, which is destroyed as you mak
             2. align cut marks at perimeter of plan first, then the one(s) in the middle. 
             3. use masking tape to join sheets
     3. hand-reproducing plans from book or screen
-        1. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An Incra ruler will help a lot with this. See above, [________basics > tools________](#tools) 
+        1. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An Incra ruler will help a lot with this. See above, [____basics > tools____](#tools) 
         2. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements. 
         3. use grey-numbered cumulative measurements in plan to quickly mark lines
 3. key
 
     Here is a key to the computer-drafted plans. Find further explanation of symbols in fabricate section below.
 
-[![plan key](images/key.png)](http://darkroomretreat.com/img/plan/key.pdf)
+[![plan key](img/plan/image/key.png)](http://darkroomretreat.com/img/plan/key.pdf)
 
 ## fabricate {#fabricate}
 

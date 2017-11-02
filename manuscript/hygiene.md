@@ -50,17 +50,17 @@ Hygiene originated in America a generation after the Revolution, in the Age of E
 
 Hygiene led the natural health movement of the 19th century which resulted in the famous improvement to public health of the 19th century. Medicine, funded through Rockefeller's pharmaceutical interests, opposed hygiene while taking credit for this. Medicine made war on hygiene's exponents, institutions, and full teachings through propaganda, lobbying, and prosecution. It covered its tracks by reducing hygiene to the idea of cleanliness. Thus few know the real story.
 
-Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet with the understanding that regular bathing, pure water, nutritious food, and regular. With the advent of a hygienic psychology and the astounding power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
+Nonetheless, hygiene remains the most effective and influential approach to health and healing in world history. It now benefits nearly every person on the planet with the understanding that fresh air, pure water, regular bathing and exercise, and nutritious food are matters of course in a healthy life. With the advent of a hygienic psychology and the astounding power of the organism in darkness, hygiene's influence will increase exponentially. So I am leaving behind the special name, Natural Hygiene, to reclaim the word, hygiene, for our tradition.
 
 ### laws {#laws}
 
-Shelton describes hygiene as "the employment of materials, agents, and influences that have a normal relationship to life, in the preservation and restoration of health according to well-defined [________*laws*________](#appendix-laws-of-life) and demonstrated principles of nature."[^2] These laws are the absolute heart of hygiene and thus a great key to understanding it. Please read them in the appendices when you finish this section.
+Shelton describes hygiene as "the employment of materials, agents, and influences that have a normal relationship to life, in the preservation and restoration of health according to well-defined [____*laws*____](#appendix-laws-of-life) and demonstrated principles of nature."[^2] These laws are the absolute heart of hygiene and thus a great key to understanding it. Please read them in the appendices when you finish this section.
 
 Natural Hygiene is based on the being, identity, and causality of life. Life is. Life is alive. Life lives. It's defining  characteristic is self-preservation. It is an assertive presence and active force, not a helpless reaction. This is the first part of hygiene's _Great Law of Life_. Self-preserving means self-generating, self-maintaining, and self-healing. These obtain in every aspect of life and at every scale, from the cells to the organism as a whole. This is part of the _Law of Order_.
 
 The _Great Law_ implies other laws. The _Law of Action_ states that only the organism performs vital action, including healing. So only the organism can heal the organism and, again, at every scale: even a cell must heal itself; another cannot. The _Law of Power_ states that energy employed to perform action resides only in the organism, not anything external to it.
 
-<!-- <a name="post-law"></a> -->Thus, no drug, herb, or food; no condition or practice; no treatment, person, or device heals. Thus there are no cures. Attempting to heal the body from the outside further damages or drains its power to heal itself, masking its untouched illness and delaying its healing, whatever benefit might appear in the short term. This is an example of the intriguing _Law of Dual Effect_. Other _Laws_ compliment these. Take a moment now to read hygiene's 16 [________*Laws of Life*________](#appendix-laws-of-life) in the appendices. A link there will bring you back here.
+<!-- <a name="post-law"></a> -->Thus, no drug, herb, or food; no condition or practice; no treatment, person, or device heals. Thus there are no cures. Attempting to heal the body from the outside further damages or drains its power to heal itself, masking its untouched illness and delaying its healing, whatever benefit might appear in the short term. This is an example of the intriguing _Law of Dual Effect_. Other _Laws_ compliment these. Take a moment now to read hygiene's 16 [____*Laws of Life*____](#appendix-laws-of-life) in the appendices. A link there will bring you back here.
 
 ### examples {#examples}
 
@@ -77,7 +77,7 @@ In the relationship between food and nerve energy lies another example of vital 
 So again we see that no external force has power to act for life, only life itself. Life is the doer. Hygiene helps us redirect to the _autonomic self_ the vast attention paid in our lifeway to the volitional self. Volition plays a critical yet small part in the whole process of life. Now, hygiene can offer darkness as a means of caring for the autonomic self in its primary system.
 
 The deep self will not solve all one's problems in darkroom retreat. But it will have the chance to recover lost capacity. Recapacitated, one can then make the radical changes in lifeway necessary to handle one's remaining problems. See  
-[________*protocol > post-retreat*________](#post-retreat).
+[____*protocol > post-retreat*____](#post-retreat).
 
 ### capacity {#capacity}
 
@@ -119,7 +119,7 @@ Like Life's Great Law, the Law of Vital Capacity integrates several existing hyg
 
 Like darkroom retreating itself, I lifted the idea of capacity from esoteric spiritual teaching (Gurdjieff's), and resituated it in hygiene. Now it is in harmony with nature, universally accessibile, and more useful by orders of magnitude.
 
-## false capacity {#false-capacity}
+#### false capacity {#false-capacity}
 
 What one can actually accomplish may change in strange and unnerving ways from retreating. 
 
@@ -133,7 +133,7 @@ I believe doing many short retreats has caused most of my fright. Short retreats
 
 This idea contradicts our perversely moralized perspective. How shocking to discover that years of hard work on oneself accomplish little compared to doing nearly nothing for a few weeks in darkness; that our efforts make us fake; that our pride in them keeps us stuck.
 
-## integration of laws {#integration-of-laws}
+#### integration of laws {#integration-of-laws}
 
 Dr Jennings reworked ideas of Rousseau and gave hygiene 16 laws. But this is too great a number for the mind to apprehend at once. So over time, other integrations will emerge or some laws will be recognized as primary to others. Three to five "Great Laws", with the others as corollaries or sub-laws, will bring hygiene within reach of everyone's understanding.
 
@@ -215,9 +215,9 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
 
 1. Physiology
     1. Circadian rhythms: The circadian system governs our 24-hour waking-sleep cycle. This system is controlled by the  
-[________suprachiasmatic nucleus________](http://en.wikipedia.org/wiki/suprachiasmatic-nucleus). This tiny organ rests atop the chiasm, the intersection of the optic nerves coming directly from the eyes. The nucleus detects the presence or absence light instantly, before the imagery it carries reaches the visual cortex of the brain. 
+[____suprachiasmatic nucleus____](http://en.wikipedia.org/wiki/suprachiasmatic-nucleus). This tiny organ rests atop the chiasm, the intersection of the optic nerves coming directly from the eyes. The nucleus detects the presence or absence light instantly, before the imagery it carries reaches the visual cortex of the brain. 
 
-        To the degree it is dark, the suprachiasmatic nucleus gives, for example, its famous instruction to the pineal gland to secrete [________melatonin________](http://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
+        To the degree it is dark, the suprachiasmatic nucleus gives, for example, its famous instruction to the pineal gland to secrete [____melatonin____](http://en.wikipedia.org/wiki/melatonin) into the bloodstream. This hormone causes us to sleep, dream, and lose appetite. In absolute extended darkness, the pineal gland _floods_ the body with melatonin, intensifying these restful processes. 
 
         Melatonin is but one of many hormones, nervous signals, and processes that facilitate the deep rest and sleep necessary to recover from and assimilate the benefits of waking life.
     2. Destimulation 
@@ -226,9 +226,9 @@ At last we are prepared to understand the secret of why hygienic darkroom retrea
             - fewer thoughts occur
             - thinking becomes harder
             - thinking becomes _less interesting_ (!)
-            - directing attention restfully becomes *much* easier. (See [________*protocol > attention*________](#attention))
+            - directing attention restfully becomes *much* easier. (See [____*protocol > attention*____](#attention))
 
-            The concrete sensations that remain tend to feed the feeling center of intelligence. Externally undistracted, the internal sense of touch sharpens in its [________many aspects________](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, suppressed aspects of consciousness in civilization are thus reactivated. They balance the psychic workload, making it more efficient, saving energy and internal activity.
+            The concrete sensations that remain tend to feed the feeling center of intelligence. Externally undistracted, the internal sense of touch sharpens in its [____many aspects____](https://en.wikipedia.org/wiki/Sense). Intuition and instinct, suppressed aspects of consciousness in civilization are thus reactivated. They balance the psychic workload, making it more efficient, saving energy and internal activity.
 2. Environment: a retreat provides not only darkness, but all conditions of profound rest:
     - safety, comfort, silence, solitude, and _time_
     - fresh air, warmth, and natural food
@@ -260,7 +260,7 @@ I know no one who has explicitly gone into darkness with the hygienic perspectiv
 
 The main effort involved is supportive: to maintain the conditions of healing. This ain't a tall order. Stay in the darkroom. Lie down as much as possible. Eat. Exercise. Bathe. Eliminate. Meditate if so moved. Lie back down. Think when necessary. Stare at the backs of your eyelids, feel your breath and pulse, and let sleep come. 
 
-It will anyway. Darkness ensures it. Anyone with a bloodstream flooded with melatonin is induced to sleep. And sleep deeply. In my retreats, I have often felt positively knocked out. Dreams are fewer or more vivid. In 48 hours it is possible to catch up on all the sleep one has ever lost. (See the first of my [________four darkness experiences________](http://darkroomretreat.com/reports/four-darkness-experiences). I am not speaking metaphorically. It is impossible to believe until it happens.
+It will anyway. Darkness ensures it. Anyone with a bloodstream flooded with melatonin is induced to sleep. And sleep deeply. In my retreats, I have often felt positively knocked out. Dreams are fewer or more vivid. In 48 hours it is possible to catch up on all the sleep one has ever lost. (See the first of my [____four darkness experiences____](http://darkroomretreat.com/reports/four-darkness-experiences). I am not speaking metaphorically. It is impossible to believe until it happens.
 
 I find even the least bit of light too distracting, too stimulating. I am on guard. I can't relax. I can't stay with what I'm feeling. I can't "just be with it". I can't feel into myself. I've tried and failed my whole life. I have found solace only in darkness. 
 
@@ -312,7 +312,7 @@ Attention to diet and nutrition have always been part of Natural Hygiene. Due to
 
 This is why I serve and recommend only fresh fruit and greens to retreatants. This is the frugivorous diet, common to all anthropoid primates like us. Being perfectly appropriate for human anatomy and physiology, these foods only nourish us. They neither stimulate or intoxify the system, nor overtax digestion, nor suppress feeling or memory.
 
-For more about frugivorous diet, I recommend [________The 80/10/10 Diet________](http://foodnsport.com) by Dr Douglas Graham. He is a Natural Hygienist, 25-year frugivore, former Olympic athlete and trainer to professional athletes. Also, the videos of [________Loren Lockman________](https://www.youtube.com/user/LorenLockman), also a master hygienist and 25-year frugivore, apparently sent from the future to show us how to eat and relate to food.
+For more about frugivorous diet, I recommend [____The 80/10/10 Diet____](http://foodnsport.com) by Dr Douglas Graham. He is a Natural Hygienist, 25-year frugivore, former Olympic athlete and trainer to professional athletes. Also, the videos of [____Loren Lockman____](https://www.youtube.com/user/LorenLockman), also a master hygienist and 25-year frugivore, apparently sent from the future to show us how to eat and relate to food.
 
 However, if the prospect of eating just fruits and vegetables utterly stops you from retreating, then plan to eat as simply and naturally as you know how. Feel free to write me with your limitations; I am happy to help you avoid toxins often regarded as healthy. Reversing illness and suffering is a process with its own logic. Darkness is a starting point. Then it's one step at a time.
 
@@ -322,7 +322,7 @@ Note: just because the frugivorous diet consists of all raw food does not make i
 
 Since one can do nothing directly in a retreat to cause healing, preparing for it consists of providing its simple conditions:
 
-- [________*design*________](#design) and [________*make*________](#make) a darkroom (1-30 days) 
+- [____*design*____](#design) and [____*make*____](#make) a darkroom (1-30 days) 
 - learn the idea of the hygienic (passive) attitude toward healing (already done). Belief can come later.
 - avoid reinventing the wheel by finishing the rest of this book
 - learn enough about eating frugivorously to feel satisfied (1 month to read and apply Graham's book)
@@ -346,7 +346,7 @@ Denial is not a moral failure. It is unconscious success. Trauma of such devasta
 
 In darkness, denial begins to lift and traumatic events are remembered or acknowledged. Frozen feelings resurface, along with the general capacity for feeling. Insight comes. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
 
-Gaining confidence in this capacity can take time. In [________*protocol > discomfort*________](#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness. In a series of [________reports________](http://darkroomretreat.com/reports), I have recorded my experiences in darkness of beginning to heal from deep trauma.
+Gaining confidence in this capacity can take time. In [____*protocol > discomfort*____](#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness. In a series of [____reports____](http://darkroomretreat.com/reports), I have recorded my experiences in darkness of beginning to heal from deep trauma.
 
 What trauma? I mean the routine brutality of our lifeway, which touches virtually everyone from before birth. I mean not just the bad things we condemn, but common atrocities we mistakenly accept. I mean offenses to nature, as if it hadn't already worked out every detail of a happy existence from the beginning of time. 
 
@@ -415,7 +415,7 @@ Awareness of the other basic plane of reality. Because it mirrors spacetime, som
 
 Our feeling centers, being more fragile, are generally out of commission. So to scientific materialists, dreamtime doesn't exist. They dismiss it out of hand despite the evidence. Which even most civilized people have a little of. I mean strange experiences that stick in the mind unexplained for decades, like personal x-files. If you talk about this stuff in conventional settings, others will call you crazy. But if you rest in darkness long enough, access to it promises to return permanently.
 
-If the hygienic view of health and sanity is the brain of my method, and darkroom retreating is the gut---the action---then the testimony of mass functional psychosis is its broken heart. My online essay, [________psychosis________](http://darkroomretreat.com/darkness-conjecture/psychosis), records it purely and forcefully.
+If the hygienic view of health and sanity is the brain of my method, and darkroom retreating is the gut---the action---then the testimony of mass functional psychosis is its broken heart. My online essay, [____psychosis____](http://darkroomretreat.com/darkness-conjecture/psychosis), records it purely and forcefully.
 
 ### causation {#causation}
 
@@ -437,7 +437,7 @@ Major trauma injures, shocks, and disorients everyone concerned. One gets lost i
 
 How did the snowball of major trauma begin? Sane people do not hurt their children. Humanity was fine at some point. The trauma had to have originated externally. Self-correcting instinct is very strong. The trauma had to be cataclysmic to knock so many of us so far off course for so long.
 
-Some kind of super-[________catastrophe________](http://darkroomretreat.com/darkness-conjecture/catastrophe) in our distant past must have done it. A supervolcano, a pole-shift that triggered continent-sweeping tsunamis, an alien invasion. Who knows. Fact is, big rocks fly around space at high speeds. Occasionally, one lands here with unhappy consequences. We may be the butt of an accidental cosmic joke.
+Some kind of super-[____catastrophe____](http://darkroomretreat.com/darkness-conjecture/catastrophe) in our distant past must have done it. A supervolcano, a pole-shift that triggered continent-sweeping tsunamis, an alien invasion. Who knows. Fact is, big rocks fly around space at high speeds. Occasionally, one lands here with unhappy consequences. We may be the butt of an accidental cosmic joke.
 
 If so, then our wars, big and small, are pointless. No one started it. Everyone is essentially innocent. So everyone is free to walk away from the conflict and heal. 
 
@@ -470,14 +470,14 @@ But one always knows the result: restoration of function---recovery of the lost 
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its consequences. As with the rest of Natural Hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed.
 
-The emergence of a hygienic psychology, its identification of trauma at the root of all illness, and its greater importance than fasting have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, Natural Hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [________hygiene notes________](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
+The emergence of a hygienic psychology, its identification of trauma at the root of all illness, and its greater importance than fasting have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, Natural Hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [____hygiene notes____](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
 
-I am only saying enough here to give you a theoretical basis for doing hygienic darkroom retreats. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [________*The Science and Fine Art of Natural Hygiene*________](https://darkroomretreat.com/nhs.pdf).
+I am only saying enough here to give you a theoretical basis for doing hygienic darkroom retreats. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [____*The Science and Fine Art of Natural Hygiene*____](https://darkroomretreat.com/nhs.pdf).
 
 &nbsp;
 
-[^1]: TC Fry, [________*The Life Science Health System*________](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), a paraphrase of original quote by Herbert Shelton in  [________*Natural Hygiene: Man's Pristine Way of Life*________](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
-[^2]: Herbert Shelton, back cover of [________*The Science and Fine Art of Natural Hygiene*________](http://darkroomretreat.com/nhs.pdf)
+[^1]: TC Fry, [____*The Life Science Health System*____](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), a paraphrase of original quote by Herbert Shelton in  [____*Natural Hygiene: Man's Pristine Way of Life*____](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
+[^2]: Herbert Shelton, back cover of [____*The Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf)
 [^3]: Ibid, p 35
 [^4]: Ibid, p 139
 [^5]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
@@ -485,5 +485,5 @@ I am only saying enough here to give you a theoretical basis for doing hygienic 
 [^7]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
 [^8]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_
 [^9]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
-[^10]: Hygienist, [________Bernarr Zovluck________](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
+[^10]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
 

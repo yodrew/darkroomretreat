@@ -20,4 +20,4 @@ Hygiene has long excelled in caring for the self-healing body. With darkroom ret
 
 ~~
 
-This book and more at [________darkroomretreat.com________](http://darkroomretreat.com).
+This book and more at [____darkroomretreat.com____](http://darkroomretreat.com).

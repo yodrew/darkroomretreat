@@ -25,7 +25,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 
 ### basic {#basic-1-water}
 
-It's a 20L bucket with a toilet seat on top. No kidding!
+It's a 20L bucket with a toilet seat on top. No kidding.
     
 - put 2 liters of sawdust in the bottom
 - put 15 liters more sawdust in another bucket by the toilet
@@ -49,11 +49,11 @@ A 20L bucket sits inside a box with a hole in the top. The return duct attaches 
 
 Dimensions: 35cmH x 60W x 60D
 
-[![plan: toilet top](images/toilet-top.png)](http://darkroomretreat.com/img/plan/toilet-top.pdf)
+[![plan: toilet top](img/plan/image/toilet-top.png)](http://darkroomretreat.com/img/plan/toilet-top.pdf)
 
-[![plan: toilet frame](images/toilet-frame.png)](http://darkroomretreat.com/img/plan/toilet-frame.pdf)
+[![plan: toilet frame](img/plan/image/toilet-frame.png)](http://darkroomretreat.com/img/plan/toilet-frame.pdf)
 
-[![plan: toilet liner](images/toilet-liner.png)](http://darkroomretreat.com/img/plan/toilet-liner.pdf)
+[![plan: toilet liner](img/plan/image/toilet-liner.png)](http://darkroomretreat.com/img/plan/toilet-liner.pdf)
 
 - top
     - platform made of 15--20mm tongue and groove boards or 12--19mm plywood
@@ -63,7 +63,7 @@ Dimensions: 35cmH x 60W x 60D
     - reinforcer only for tongue and groove boards, directly behind toilet seat mounts
 - frame
     - made of 25mm x 37 lumber
-    - joint is extra strong, non-planar joint (see [________gridbeam.com________](http://gridbeam.com))
+    - joint is extra strong, non-planar joint (see [____gridbeam.com____](http://gridbeam.com))
     - black dots indicate heads of screws. Always drill pilot holes for screws.
     - adjust leg height to allow a 15mm space between top of bucket and underside of toilet top
 - liner
@@ -94,7 +94,7 @@ A washcloth or sponge for a sponge bath
 
 ### deluxe {#deluxe}
 
-[![plan: shower](images/shower.png)](http://darkroomretreat.com/img/plan/shower.pdf)
+[![plan: shower](img/plan/image/shower.png)](http://darkroomretreat.com/img/plan/shower.pdf)
 
 It's a simple shower which collapses for storage, requiring no pipes and little water. Parts from top to bottom:
 
@@ -115,7 +115,7 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 
 ### conclusion {#conclusion}
 
-That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [________*introduction > open-source*________](#open-source).
+That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [____*introduction > open-source*____](#open-source).
 
 That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
 
