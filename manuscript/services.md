@@ -42,3 +42,17 @@ My responses will be based on my experience. Over the past ten years, I have:
 Have me design and build your darkroom in an existing building or from scratch.
 
 (&euro;15/hr + materials, travel, & shelter)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&lt;____](../license)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[____&gt;____](../)
+
+
+<!--
+booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [____license____](/about/license) for an alternative.
+
+|_Quantity_|_1+_|_4+_|_12+_|_24+_|
+|Europe|&euro;8|&ndash;25%|&ndash;40%|&ndash;60%|
+|US|soon!|
+{:#tableprice}
+-->
+
