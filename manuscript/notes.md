@@ -6,4 +6,4 @@ Hygiene is rational. You can validate this work yourself by reason and simple te
 
 I present my idea in layers: immediately in simple form, then in detail and in different aspects. The more you read, the deeper your understanding.
 
-Every word of this book contributes to this. Read the blurb and appendices in addition to the numbered chapters. Possible exceptions are lists of verbal instructions in the _make_ chapters (IKEA-like assembly instructions to come) and sections following the _faq_.
+Every word of this book contributes to this. Read the blurb and appendices in addition to the numbered chapters. Possible exceptions are lists of verbal instructions in the _make_ chapters (IKEA-like assembly instructions to come) and pages following the _faq_.
