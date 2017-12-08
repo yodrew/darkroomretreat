@@ -1,14 +1,14 @@
-# 7 - air
+# 7 - air {#air}
 
 The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
 
 Ventilation also affects silence and temperature. Let's examine each condition and see how they work together in a mechanical system.
 
-## ventilation
+## ventilation {#ventilation}
 
 Below, I will give design constraints and describe various systems of ventilation. But I will first address its physiological importance.
 
-### breathe
+### breathe {#breathe}
 
 I have observed a shocking number of people who seem oblivious to their own need for fresh air. Even though everyone knows we die within minutes without air, the importance of constant fresh air has somehow escaped many. I can only attribute this negligence to mass psychosis, my explanation for other appalling features of civilized life. At the risk of insulting your intelligence, I am bound to address this fact of life, though it is one of the most basic, most obvious ones of all.
 
@@ -28,7 +28,7 @@ This means either:
 
 Somehow, it must be done. Forget darkness a moment. Along with not freezing to death and being safe from injury, we have no greater concern in life than arranging to breathe fresh air continuously and comfortably.
 
-### constraints
+### constraints {#constraints-air}
 
 - provides plenty of fresh air
 - lightproof
@@ -36,7 +36,7 @@ Somehow, it must be done. Forget darkness a moment. Along with not freezing to d
 - comfortable temperature: no undesired cold drafts
 - economical: ie, no wasted heat to the outdoors. This is more involved and a lower priority than retreating itself, so don't get stuck on it. It requires a heat recovery ventilator (HRV). Besides significantly lowering heating costs, an HRV improves air quality and comfort in nearly all climates. More about it below.
 
-### system
+### system {#system}
 
 Somehow, fresh air has to get into the darkroom and stale air has to get out, without letting in noise or light.
 
@@ -64,11 +64,11 @@ Similarly, we hung 7m of ducting that ran through three rooms; attached a silenc
 
 Sewage pipes drain downward but are ventilated upward. Once, friends and I replaced a flush toilet with a composting toilet. The exposed drain pipe, being oversize and in a single-story house, wasn't subject to backflow. So it proved a perfect exhaust duct for a case fan at floor level. Imagination conquers all obstacles (and renews itself in darkness).
  
-### lightproof
+### lightproof {#lightproof}
 
 Here are further design constraints, photos, plans, and instructions for making and installing lightproof vents.
 
-#### constraints
+#### constraints {#constraints-1-air}
 
 (helix vent specifications in parentheses){threshold vent specifications in curly braces}:
 
@@ -81,21 +81,21 @@ Here are further design constraints, photos, plans, and instructions for making 
 - elegant (yes: simple compact form, uses common materials, zig-zag-shaped passage accommodates natural helical movement of air){yes}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time}
 
-#### helix vent
+#### helix vent {#helix-vent}
 
 ![photo: helix vent, complete](images/helix-vent-complete.jpg)
 
 ![photo: helix vent core, exploded](images/helix-vent-core-exploded.jpg)
 
-[![plan: helix vent, assembly](images/helix-vent-assembly.png)](/img/plan/helix-vent-assembly.pdf)
+[![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)
 
-[![plan: helix vent, channels](images/helix-vent-channels.png)](/img/plan/helix-vent-channels.pdf)
+[![plan: helix vent, channels](images/helix-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-channels.pdf)
 
-[![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](/img/plan/helix-vent-inner-wall.pdf)
+[![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-inner-wall.pdf)
 
-[![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](/img/plan/helix-vent-outer-wall.pdf)
+[![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-outer-wall.pdf)
 
-[![plan: helix vent, shell](images/helix-vent-shell.png)](/img/plan/helix-vent-shell.pdf)
+[![plan: helix vent, shell](images/helix-vent-shell.png)](http://darkroomretreat.com/img/plan/helix-vent-shell.pdf)
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
@@ -148,7 +148,7 @@ Read through instructions once while studying plans.
     9. attach shell to back of panel over core with tape, glue, or screws going through panel into braces
     10. cover shell with foil and/or white paper to minimize warping by sun
 
-#### threshold vent
+#### threshold vent {#threshold-vent}
 
 A bedroom door often has a gap at the bottom---the threshold---for ventilation. In mechanically ventilated dwellings, this gap allows air to flow out of the bedroom toward the dwelling's return vent (or perhaps just a window). The threshold vent lets air out but no light in. Its design adapts to door thickness, the height of the gap between bottom of door and threshold, width of door, and width of vent necessary for sufficient airflow. It works if gap is 15-33mm. 
 
@@ -156,9 +156,9 @@ If greater than 33mm, add cardboard or wood to the bottom of the door or build u
 
 Block light that reaches the door from the outside as much as possible. For example, make a [____removable partition____](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
-[![plan: threshold vent perspective](images/threshold-vent-perspective.png)](/img/plan/threshold-vent-perspective.pdf)
+[![plan: threshold vent perspective](images/threshold-vent-perspective.png)](http://darkroomretreat.com/img/plan/threshold-vent-perspective.pdf)
 
-[![plan: threshold vent](images/threshold-vent.png)](/img/plan/threshold-vent.pdf)
+[![plan: threshold vent](images/threshold-vent.png)](http://darkroomretreat.com/img/plan/threshold-vent.pdf)
 
 1. materials
     - paper, acid-free, 400-600gsm bond or coverstock (empty cereal and frozen pizza boxes work, too)
@@ -179,9 +179,9 @@ Block light that reaches the door from the outside as much as possible. For exam
 8. tape vent to door at the triangular flaps
 9. fill in gaps on each side of vent with fleece baffle, as in drawing. Fleece measurement formula: 20+2h+t/2 x width of gap+10. Use 2 layers. Horizontal edge of fleece should be 10mm above bottom of door. If it drags out of position, weight it with a stick inside, half the thickness of the door. It is 5mm extra wide on each side to seal against the vent and the door jam. Cut away any fleece that interferes with door seal (see below).
 
-## soundproofing
+## soundproofing {#soundproofing}
 
-### principles
+### principles {#principles}
 
 Noise is another form of pollution a darkroom must provide shelter from. Noise comes from outside from machines, traffic---including big boats and airplanes---construction, music, fireworks, and talking and playing people. It comes from inside from other people in adjoining spaces, machines---refrigerators, fans, water pipes and pumps---music. At some point, noise defeats the retreat. It must be attenuated somehow, even in remote locations.
 
@@ -200,7 +200,7 @@ Fans make noise directly and indirectly. Small fans have little hum to start wit
 
 Even the quietest fan makes noise because of the friction of air itself against the fan blades, housing, ducting, and vents. Because of air friction, fully silencing a ventilation system requires a silencer of some type. 
 
-### silencer
+### silencer {#silencer}
 
 A silencer is an expanded duct section lined with insulation. Its greater volume depressurizes the airstream. This transforms low-frequency sound into into high-frequency sound. High-frequencies vibrate the fine fibers lining the silencer, transforming the sound into heat. Genius!
 
@@ -212,11 +212,11 @@ You can make or buy duct silencers.
 - [____silencer for sound booths____](http://www.whisperroom.com/sound-booth-optional-features.php#vent). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
 - standard silencers are made of metal and super durable materials and cost $100-200.
 
-In the past year, I built two box silencers into window openings. They were simpler and much more effective than I hoped. They swallowed up sound. The window pane formed one face of the box. The window opening provided the 4 sides. Boards formed the box's other face, covering the window on the outside, against the inside of the bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See [____*darkness > window > hard panel*____](/darkness#hard-panel) section for more about adapting the design below.
+In the past year, I built two box silencers into window openings. They were simpler and much more effective than I hoped. They swallowed up sound. The window pane formed one face of the box. The window opening provided the 4 sides. Boards formed the box's other face, covering the window on the outside, against the inside of the bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See [____*darkness > window > hard panel*____](#hard-panel) section for more about adapting the design below.
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
-[![plan: silencer](images/silencer.png)](/img/plan/silencer.pdf)
+[![plan: silencer](images/silencer.png)](http://darkroomretreat.com/img/plan/silencer.pdf)
 
 The plan is straightforward. It is just a wooden box with two internal half walls. The resulting channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a rectangle for a doubled helix vent, or a slot in end for helix vent. The fan mount is adaptable to all 4 locations.
 
@@ -226,9 +226,9 @@ Discarded furniture is made of an excellent material for silencer boxes called m
 
 Glue insulation in place. Roughen the plastic surface first with sandpaper so glue sticks. For rockwool, use screws and large plastic washers cut from bottles. For cellulose, make tubes of metal screen covered in porous fabric to form the cavity. Stuff the cellulose around it and close the box.
 
-## machines
+## machines {#machines}
 
-### fan
+### fan {#fan}
 
 Use a case fan, also known as a squirrel cage fan. Specifications:
 
@@ -245,9 +245,9 @@ Power it from the grid with an AC/DC universal adapter with pole switching and v
 
 More about an [____ideal fan____](#fan-idea), below.
 
-### fan mount
+### fan mount {#fan-mount}
 
-[![plan: fan mount](images/fan-mount.png)](/img/plan/fan-mount.pdf)  
+[![plan: fan mount](images/fan-mount.png)](http://darkroomretreat.com/img/plan/fan-mount.pdf)  
 
 This mount greatly dampens vibration from the fan. The silencer can then absorb the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 
@@ -276,7 +276,7 @@ The design is fairly self-explanatory:
 	- keep wires clear of outer 3 rings to prevent them from transmitting vibration.
 	- design is new. Send complaints and suggestions. Check back for new prototypes.
 
-### power
+### power {#power-air}
 
 In my first major darkroom in Guatemala, I had no electricity. I survived on foraged fruit and meals with my friends, Josh and Nadia, and would spend my last quetzal (worth $0.12) on darkroom building materials. At first, to create a draft, I actually made lamps that burned cooking oil inside a lightproof chimney. It was a messy, unreliable, and labor-intensive process no one should ever repeat. But it worked long enough for my brain to make the leap to the 20th century and remember the existence of batteries.
 
@@ -291,7 +291,7 @@ I was isolated and just learning. This simple discovery encouraged me after week
 
 Once built, maintain by wiping dust off panel once a week. What a luxury! Of course, if you have reliable wind or hydro power, that's great.
 
-### warmth
+### warmth {#warmth}
 
 For heat, I often use a portable oil-filled heater. It is silent and can be positioned by a window or vent to warm incoming cold fresh air. Before buying, check that its indicator lights are easy to cover (not glowing from the interior through multiple cracks) and that it doesn't rattle or hum. Old or cheap ones often do.
 
@@ -302,7 +302,7 @@ Fine wire heat exchange (fiwihex) technology is my favorite. It is 15x more effi
 
 The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found in Energy Recovery Ventilators such as [____Renewaire's____](http://www.renewaire.com). Made of high-tech paper, the Lossnay recovers heated water vapor as well as heat from air. Lossnay's principle has DIY-potential, using 25m^2^ of non-siliconized parchment paper ("sandwich paper" in supermarkets). I have conceived a design for it. Please write me for details.
 
-### fan idea
+### fan idea {#fan-idea}
 
 A heat recovery ventilator requires two fans. The only trouble with case fans is that they are axial fans. These do not efficiently generate enough pressure to overcome the resistance in ventilation systems (long pipes, heat exchanging cores, filters, convoluted vents). But centrifugal fans can. These are pricey, starting around $50, and usually AC powered, so they hum. DC or EC (Electronically Commutated) centrifugal fans cost even more.
 

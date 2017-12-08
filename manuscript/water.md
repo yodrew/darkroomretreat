@@ -1,12 +1,12 @@
-# 9 - water
+# 9 - water {#water}
 
 If you have a bathroom and kitchen you can easily darken or use with a blindfold, great. 
 
 For short retreats in buildings without plumbing, make the quick, cheap, portable fixtures below. If basic versions are too punk rock for you, try the upgrades. You can incrementally improve them as you find out for yourself the value of retreating.
 
-## sink
+## sink {#sink}
 
-### basic
+### basic {#basic-water}
 
 - table
 - rectangular plastic basin, like a restaurant bus tub
@@ -15,15 +15,15 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 - drinking water (if separate from wash water): in 20L bottle with valve-cap
 - waste (water and food): two, 20L buckets with lids
 
-### upgrade
+### upgrade {#upgrade-water}
 
 - salvaged sink set in a counter-height table
 - drains directly into waste bucket
 - upgrade again by adding a drain tube to outside. 
 
-## toilet
+## toilet {#toilet}
 
-### basic
+### basic {#basic-1-water}
 
 It's a 20L bucket with a toilet seat on top. No kidding.
     
@@ -43,17 +43,17 @@ It's a 20L bucket with a toilet seat on top. No kidding.
     - squeeze to get a small stream of water that runs straight down
     - wash anus with wetted fingers of other hand
 
-### upgrade
+### upgrade {#upgrade-1-water}
 
 A 20L bucket sits inside a box with a hole in the top. The return duct attaches to a hole in the side of the box. So all air exits the room through the toilet, containing all odor. Bucket also collects pee, so empty it every 3-5 days. Making a vented urinal or a toilet that separates pee from poop is possible, too. 
 
 Dimensions: 35cmH x 60W x 60D
 
-[![plan: toilet top](images/toilet-top.png)](/img/plan/toilet-top.pdf)
+[![plan: toilet top](images/toilet-top.png)](http://darkroomretreat.com/img/plan/toilet-top.pdf)
 
-[![plan: toilet frame](images/toilet-frame.png)](/img/plan/toilet-frame.pdf)
+[![plan: toilet frame](images/toilet-frame.png)](http://darkroomretreat.com/img/plan/toilet-frame.pdf)
 
-[![plan: toilet liner](images/toilet-liner.png)](/img/plan/toilet-liner.pdf)
+[![plan: toilet liner](images/toilet-liner.png)](http://darkroomretreat.com/img/plan/toilet-liner.pdf)
 
 - top
     - platform made of 15--20mm tongue and groove boards or 12--19mm plywood
@@ -79,22 +79,22 @@ Dimensions: 35cmH x 60W x 60D
         - fold nearest gusset away from hole
         - hole **B** in plan is just an example: 70mm diameter hole for 100mm diameter duct
 
-## bath
+## bath {#bath}
 
-### basic
+### basic {#basic-2-water}
 
 A washcloth or sponge for a sponge bath
 
-### upgrade
+### upgrade {#upgrade-2-water}
 
 - on waterproof floor (or covered with large plastic sheet) make a 2m diameter border of towels or bedsheets and sit in the middle 
 - put shower water in two 1.5L soda bottles with loose lids or nearly closed drinking spout lids
 - hold a bottle above yourself with one hand and wash with the other
 - wipe up water with towel or sheet
 
-### deluxe
+### deluxe {#deluxe}
 
-[![plan: shower](images/shower.png)](/img/plan/shower.pdf)
+[![plan: shower](images/shower.png)](http://darkroomretreat.com/img/plan/shower.pdf)
 
 It's a simple shower which collapses for storage, requiring no pipes and little water. Parts from top to bottom:
 
@@ -113,9 +113,9 @@ Adjust water temperature with cold water to suit yourself. When ready to bathe, 
 
 Adjust shower length and water flow with different size containers and tubes. Make sure hook can hold the weight.
 
-### conclusion
+### conclusion {#conclusion}
 
-That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [____*introduction > open-source*____](/introduction#open-source).
+That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [____*introduction > open-source*____](#open-source).
 
 That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
 

@@ -1,4 +1,4 @@
-# notes
+# notes {#notes}
 
 ____Underlined____ words are links in printed book and ebook to external resources. When ____*italicized*____ they link internally to other parts of the book and usually say where. Click links in the ebook. Get it at [____darkroomretreat.com/ebook____](darkroomretreat.com/ebook) or [____leanpub.com/darkroomretreat____](leanpub.com/darkroomretreat). 
 

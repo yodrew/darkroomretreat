@@ -1,4 +1,4 @@
-# foreword
+# foreword {#foreword}
 
 This book comes out of a long investigation into the cause of joy. 
 
