@@ -115,7 +115,8 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 
 ### conclusion {#conclusion}
 
-That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [____*introduction > open-source*____](#open-source).
+That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See  
+[____*introduction > open-source*____](#open-source).
 
 That's also the end of the book. Thank you for reading it. I hope it helps you feel joy.
 

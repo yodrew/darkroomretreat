@@ -1,6 +1,6 @@
 # notes {#notes}
 
-____Underlined____ words are links in printed book and ebook to external resources. When ____*italicized*____ they link internally to other parts of the book and usually say where. Click links in the ebook. Get it at [____darkroomretreat.com/ebook____](darkroomretreat.com/ebook) or [____leanpub.com/darkroomretreat____](leanpub.com/darkroomretreat). 
+____Underlined____ words are links in printed book and ebook to external resources. When ____*italicized*____ they link internally to other parts of the book and usually say where. Click links in the ebook. Get it at [____darkroomretreat.com/ebook____](http://darkroomretreat.com/ebook) or [____leanpub.com/darkroomretreat____](http://leanpub.com/darkroomretreat). 
 
 Hygiene is rational. You can validate this work yourself by reason and simple tests. No faith or priests required, not even degrees or laboratories.
 
