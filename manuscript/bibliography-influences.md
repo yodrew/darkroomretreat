@@ -8,7 +8,7 @@
     - _Ishmael_, [____Daniel Quinn____](http://ishmael.org)
     - _Where White Men Fear to Tread_, [____Russel Means____](http://www.russellmeansfreedom.com)
     - [____Prosper Waukon____](http://waukonassociates.com), Winnebago entrepreneur
-    - _Running on Emptiness: The Failure of Civilization_, [____John Zerzan____](http://www.johnzerzan.net)
+    - _Running on Emptiness: The Pathology of Civilization_, [____John Zerzan____](http://www.johnzerzan.net)
 - philosophical and spiritual traditions 
     - my parents, John and LouAnn
     - _Atlas Shrugged_, etc, Ayn Rand, preceptor

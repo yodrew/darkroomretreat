@@ -119,7 +119,7 @@ Like Life's Great Law, the Law of Vital Capacity integrates several existing hyg
 
 Like darkroom retreating itself, I lifted the idea of capacity from esoteric spiritual teaching (Gurdjieff's), and resituated it in hygiene. Now it is in harmony with nature, universally accessibile, and more useful by orders of magnitude.
 
-#### false capacity {#false-capacity}
+## false capacity {#false-capacity}
 
 What one can actually accomplish may change in strange and unnerving ways from retreating. 
 
@@ -133,7 +133,7 @@ I believe doing many short retreats has caused most of my fright. Short retreats
 
 This idea contradicts our perversely moralized perspective. How shocking to discover that years of hard work on oneself accomplish little compared to doing nearly nothing for a few weeks in darkness; that our efforts make us fake; that our pride in them keeps us stuck.
 
-#### integration of laws {#integration-of-laws}
+## integration of laws {#integration-of-laws}
 
 Dr Jennings reworked ideas of Rousseau and gave hygiene 16 laws. But this is too great a number for the mind to apprehend at once. So over time, other integrations will emerge or some laws will be recognized as primary to others. Three to five "Great Laws", with the others as corollaries or sub-laws, will bring hygiene within reach of everyone's understanding.
 
@@ -486,4 +486,7 @@ I am only saying enough here to give you a theoretical basis for doing hygienic 
 [^8]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_
 [^9]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
 [^10]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
+
+[____&lt;____](http://darkroomretreat.com/introduction/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/format/)
+{:.arrow}
 

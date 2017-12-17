@@ -68,7 +68,7 @@ Sewage pipes drain downward but are ventilated upward. Once, friends and I repla
 
 Here are further design constraints, photos, plans, and instructions for making and installing lightproof vents.
 
-#### constraints {#constraints-1-air}
+## constraints {#constraints-1-air}
 
 (helix vent specifications in parentheses){threshold vent specifications in curly braces}:
 
@@ -81,7 +81,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 - elegant (yes: simple compact form, uses common materials, zig-zag-shaped passage accommodates natural helical movement of air){yes}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time}
 
-#### helix vent {#helix-vent}
+## helix vent {#helix-vent}
 
 ![photo: helix vent, complete](images/helix-vent-complete.jpg)
 
@@ -148,7 +148,7 @@ Read through instructions once while studying plans.
     9. attach shell to back of panel over core with tape, glue, or screws going through panel into braces
     10. cover shell with foil and/or white paper to minimize warping by sun
 
-#### threshold vent {#threshold-vent}
+## threshold vent {#threshold-vent}
 
 A bedroom door often has a gap at the bottom---the threshold---for ventilation. In mechanically ventilated dwellings, this gap allows air to flow out of the bedroom toward the dwelling's return vent (or perhaps just a window). The threshold vent lets air out but no light in. Its design adapts to door thickness, the height of the gap between bottom of door and threshold, width of door, and width of vent necessary for sufficient airflow. It works if gap is 15-33mm. 
 
@@ -311,4 +311,7 @@ It would be nice to have cheap, quiet fans for this: large, low RPM [____homemad
 ~~
 
 That's it for ventilation, silence, power, and heat. On to lightproofing doors and windows.
+
+[____&lt;____](http://darkroomretreat.com/make/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/darkness/)
+{:.arrow}
 

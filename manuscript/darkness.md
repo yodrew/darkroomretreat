@@ -365,7 +365,7 @@ This method consists of taping thick black plastic over windows.
 
 ### foil {#foil}
 
-#### disposable {#disposable}
+## disposable {#disposable}
 
 This consists of foil taped over windows.
 
@@ -395,7 +395,7 @@ Also, apply foil directly to the glass. If you tape it to the frame, suspended i
     10. tape foil to frame
     11. tack dark blankets over window to catch any leaks
 
-#### reusable {#reusable}
+## reusable {#reusable}
 
 Use this method to quickly reduce light where absolute lightproofness is not required or practical. For example, an unsealed bedroom door is almost dark enough for nightly sleep, except morning sun comes through a small curtainless hallway window. Or during travel. 
 
@@ -404,4 +404,7 @@ Using white school glue (PVA), attach foil to cardboard or black posterboard. On
 ~~
 
 That's darkness. Now for managing water and waste in a darkroom.
+
+[____&lt;____](http://darkroomretreat.com/air/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/water/)
+{:.arrow}
 

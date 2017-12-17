@@ -23,7 +23,7 @@ This is fully developed in chapter one, _hygiene_. Essentially, because the proc
 ### terminology {#terminology}
 
 **hygiene:** hygienism<!-- hygienics? -->; caring for health by respecting life's self-preserving nature and providing its normal conditions  
-**Natural Hygiene:** the 200 year-old school of health that exemplifies hygiene  
+**Natural Hygiene:** the 185 year-old school of health that exemplifies hygiene  
 **normal:** what is biologically appropriate (not merely usual or average)  
 **psyche:** the faculty of consciousness, including:
 
@@ -82,7 +82,7 @@ My parents had taught me the importance of eating well through their interest in
 
 Natural Hygiene came knocking three times. Once in 1989 through my dad's second wife, a truthseeker among whose fascinating books I found the ecstatic _Fit for Life_ by Harvey and Marilyn Diamond. Again in 1992 through a great friend, Sterling Voss. He told me, in the greatest letter anyone ever wrote me, about _Fasting Can Save Your Life_ by Herbert Shelton, hygiene's systematizer. Finally, in 2001, through friend and colleague, Frederic Patenaude, editor of _Just Eat An Apple_ magazine and author of _The Raw Secrets_. These were about the raw vegan diet.
 
-#### frederic {#frederic}
+## frederic {#frederic}
 
 I worked and was housemates with Frederic Patenaude a total of three years off and on from 1998 till 2003. First at Nature's First Law in California; then Tree of Life in Arizona; then at his new office in Quebec. Frederic had started in hygiene not with Herbert Shelton, but by studying all the works of French hygienic master, Albert Mosseri, with whom he was in contact for many years. Slowly, I absorbed the essence of Natural Hygiene's radical perspective through Frederic. 
 
@@ -92,7 +92,7 @@ In our many conversations, Frederic mentioned Los Angeles hygienist, Bernarr Zov
 
 Frederic's dedication and great knowledge made him immovable where I was merely stubborn. I can only hope to return the favor with the current work. It illuminates certain mysteries of diet that frustrated us. Like why some people can stick with eating healthy food and others can't (see [____*hygiene > capacity*____](#capacity)). And the greater mystery of metaphysical suffering that we, like so many others, failed to solve with diet.
 
-#### finn {#finn}
+## finn {#finn}
 
 I first heard about darkroom retreating in 2004 from my former guru, Purna Steinitz. An American Hindu, he had heard about its use in Ayurveda. "Apparently, after a few weeks of it, one comes out completely renewed," he said. I found the idea very strange. A budding hygienist and attracted to spirituality's Apollonian upper world, I thought we needed _light_. But like a lot of earthy things Purna said, the idea of renewal in darkness stayed with me.
 
@@ -120,7 +120,7 @@ A benevolent Pied Piper and the coolest 60 year-old around, he had inspired all 
 
 But as Finn says, I was just getting started. It would take two more years, the massive shock of leaving my guru, and another successful retreat for me to grasp the significance of retreating in darkness.
 
-#### andrew {#andrew}
+## andrew {#andrew}
 
 How did all this begin?
 
@@ -153,7 +153,7 @@ However, darkness is no escape. Sometimes illness needs to be addressed in other
 
 ### how to use this book {#how-to-use-this-book}
 
-Above all, this book presents an idea for consideration. For now, applying it is not at issue. You can only do something like this if you want to. And you can only want to if you know enough about it. So take your time absorbing the idea. Natural motivation comes from rational belief, which comes from knowledge. Thus, first invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
+Above all, this book presents an idea for consideration. For now, doing it is not at issue. To do something like this, you must want to. To want to, you must believe in it. To believe, you must know enough about it. So first absorb the idea. Natural motivation comes from rational belief, which comes from knowledge. Invest your time in knowledge by reading every word, cover to cover. As Finn says, "Nothing costs more than what you don't pay for."
 
 Once you are motivated, use the book as a manual for making basic darkness for yourself at your own place. Download the [____companion zip file____](http://darkroomretreat.com/darkroom-retreat.zip) to get all the plans for components as well as some reference reading.
 
@@ -235,4 +235,7 @@ You can contribute by:
 Thanks for reading and best wishes. 
 
 Now on to the life-restoring perspective of hygiene and how darkness completes it.
+
+[____&lt;____](http://darkroomretreat.com/preface/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/hygiene/)
+{:.arrow}
 

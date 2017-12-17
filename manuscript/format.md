@@ -46,7 +46,7 @@ Many aspects of modern life seem increasingly out of control. Blackout blinds of
 
 ### short {#short}
 
-#### mini-retreat {#mini-retreat}
+## mini-retreat {#mini-retreat}
 
 _Note: I do not recommend mini-retreats for everyone, just if you feel strongly called to it and find yourself able to do it without cutting corners and endangering yourself. I cannot do them properly, so I don't try anymore. I just include it because I saw it was possible and I can imagine there are people whose capacity and circumstances make it appropriate._
 
@@ -69,7 +69,7 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 > Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
-#### 4-day retreat {#4-day-retreat}
+## 4-day retreat {#4-day-retreat}
 
 _Note: Read this section as the 8-day retreat section builds on it. But I no longer recommend 4-day retreats for most people. It is much better to begin with an 8-day retreat. If you really need rest, a 4-day retreat will just get your head above water without beginning to address what put you under in the first place. If you are truly well-rested, a 4-day retreat will be too short for you to have a strong experience of yourself in darkness._ 
 
@@ -87,7 +87,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema, but spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-#### transition {#transition}
+## transition {#transition}
 
 It takes time to properly readjust to light and ordinary life. So a period of unstressed transition back to it is _just as important as darkness itself_. For every three days of darkness, plan at least 24 hours of identical conditions except with sunlight and walks during the daylight.
 
@@ -101,7 +101,7 @@ Ease back into your regular life. I mean avoid non-routine activities the first 
 
 If your location has no running water, it's no problem. For this short of a period, it is unnecessary. See [____*water*____](#water) for a short list of requirements.
 
-#### 8-day retreat {#8-day-retreat}
+## 8-day retreat {#8-day-retreat}
 
 This is the most beneficial retreat I have yet experienced and the best way for most people to begin retreating. Most people who can retreat for 4 days can go 8 days and benefit more than twice as much. The organism's response to darkness is cumulative; the healing process deepens every day.
 
@@ -156,7 +156,7 @@ Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom
 I would like to find the simplest way health, including sanity, can be fully restored in one shot. Like perfect healing of a broken bone. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
 
 - medium and long darkroom retreats
-- fasts (a la Albert Mosseri's groundbreaking [____method____](http://www.truthseekerz.com/Albert.Mosseri.the_Fast.Nature.s.Best.Remedy.htm))
+- fasts (a la Albert Mosseri's groundbreaking [____method____](http://darkroomretreat.com/other-writings/mosseri))
 - physical retraining
 - training in healthy lifeway, including both lifestyle and livelihood
 - open source research and development of the above
@@ -182,4 +182,6 @@ It may take a few generations of healthy living to fully restore our health and 
 
 Now that we have examined different formats of the restful use of darkness for different circumstances and purposes, let's look ahead to more of what happens in a retreat and exactly how to conduct it.
 
+[____&lt;____](http://darkroomretreat.com/hygiene/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/protocol/)
+{:.arrow}
 

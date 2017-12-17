@@ -74,3 +74,6 @@ Don't go anywhere yet. First make darkness happen in your own home for sleeping,
     
     Naturally, I disagree. Relativism makes fashionable philosophy but poor physiology.
 
+[____&lt;____](http://darkroomretreat.com/appendix-pathology/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/bibliography-and-influences/)
+{:.arrow}
+

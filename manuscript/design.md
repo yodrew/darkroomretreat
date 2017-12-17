@@ -177,4 +177,6 @@ Happily, a handful of elegant, cheap, quick, [____round shelter designs____](htt
 
 Now, let's learn to actually make escape vehicles out of prison cells. The next chapter gives detailed instructions and computer-drawn plans for your very own darkroom.
 
+[____&lt;____](http://darkroomretreat.com/prepare/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/make/)
+{:.arrow}
 
