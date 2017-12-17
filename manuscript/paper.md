@@ -324,7 +324,7 @@ Projects, projects. Sigh.
 
 I used the mask to go to the bathroom and kitchen. I even made a smoothie while blindfolded. Sight can be a crutch. The pee bottle worked like a charm.
 
-![pee bottle](#img/photo/pee-bottle.jpg) 
+![pee bottle](images/pee-bottle.jpg) 
 
 Today, a guy told me about a WWII bunker in his hometown that he explored. It is big, with offices, bedrooms, equipment rooms, gunning rooms, etc. It is perfectly silent two floors down, about 5m underground. The whole room became like a big seashell to his ears. He started freaking out from it and had to snap his fingers to make his hearing work normally.
 
@@ -350,7 +350,7 @@ All my retreats have culminated in this one. It is a milestone. Now I can functi
 
 
 
-# lindsey vona {#lindsey-vona}&#8217;s 14-day darkness retreat
+# lindsey vona& {#lindsey-vona&}#8217;s 14-day darkness retreat
 
 \[Her vivid account, republished in toto with my comments in \[brackets\]. Background follows.\]
 
@@ -465,7 +465,7 @@ One thing I note is how similar the "cell" where he spent his time is to a womb.
 
 
 
-# dark vader in the 3-day sith bathchamber of sleep {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep}, rejuvenation, and lust
+# dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep,-rejuvenation,-and-lust}
 
 \[Brian Riggs Sullivan, a close friend*, just did a short darkness retreat and wrote this entertaining report about his experience.\]
 
@@ -1198,7 +1198,7 @@ In KC, I have been helping around the home of some groovy peeps who needed some 
 
    [1]: http://hexayurt.com
 
-# dark vader in the 3-day sith bathchamber of sleep {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep}, rejuvenation, and lust
+# dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust {#dark-vader-in-the-3-day-sith-bathchamber-of-sleep,-rejuvenation,-and-lust}
 2009/06
 
 Now a report. See [dark vader in the 3-day sith bathchamber of sleep, rejuvenation, and lust](#reports/3-day-sith-bathchamber).
@@ -1412,7 +1412,7 @@ What else am I missing?
    [3]: http://conicshelter.com
    [4]: http://planetsave.com/blog/2008/10/01/radical-simplicity-living-car-free-petroleum-free-and-electricity-free-at-the-possibility-alliance/
 
-# darkness {#darkness}, take 6
+# darkness, take 6 {#darkness,-take-6}
 2009/08
 
 My 5th attempt to arrange for a darkness retreat has failed. So tonight I start my 6th attempt.
@@ -1585,7 +1585,7 @@ I'm now promoting my [health proposal][1], starting on facebook. Though publishe
 
    [1]: /darkness-conjecture/proposals/health-proposal
 
-# new pages - poems {#new-pages-poems}, ashers
+# new pages - poems, ashers {#new-pages-poems,-ashers}
 2009/10
 
 I have made two new pages of some older writings: my [poems][1] from 1992 to the present and a short memoir, [The Ashers, a River, and I][2] of a canoe trip I took as a boy with the Boy Scouts, my Scoutmaster, Jack Asher, and his wife, LaVerne, which I wrote for their 50th Wedding Anniversary.
@@ -1593,7 +1593,7 @@ I have made two new pages of some older writings: my [poems][1] from 1992 to the
    [1]: /other-writings/poems
    [2]: /other-writings/ashers
 
-# natural hygiene 2 {#natural-hygiene-2}.0
+# natural hygiene 2.0 {#natural-hygiene-2.0}
 2009/10
 
 So far, Natural Hygienists have said that toxemia is the cause of illness \[NOTE: actually only some say this. See CORRECTION below\], and that toxemia itself results from misinformed behavior. But how did this cycle get started? I do not think it just started out of the blue, as if otherwise healthy people started eating incorrectly and then lost their way. Something else had to have happened inbetween.
@@ -1653,7 +1653,7 @@ A friend just said we should take this fear as a sign we are doing something rig
 2009/10
 
 For a long time, I have wanted to move to the tropics. It is warm, the people are not insane in the same way that they are insane here, and the food I would rather eat grows there. In short, the grass in Guatemala is not greener than it is here, but it _is_ green year-round. I leave Nov 9.
-# so long {#so-long}, secret design
+# so long, secret design {#so-long,-secret-design}
 2009/10
 
 secret design, the site I made in late 2001 to present my design for Tribal Housing and a bunch of writings that followed, closed Monday with the rest of GeoCities.
@@ -1895,7 +1895,7 @@ But maybe hallucinations are not fabrications of consciousness after all. With e
    [2]: http://en.wikipedia.org/wiki/Phosphene
    [3]: http://en.wikipedia.org/wiki/Prisoner's_cinema
 
-# atlas shrugged {#atlas-shrugged}. the movie. is. coming.
+# atlas shrugged. the movie. is. coming. {#atlas-shrugged.-the-movie.-is.-coming.}
 2011/02
 
 Visit the Official [Atlas Shrugged Movie][1] Web Site!
@@ -1941,7 +1941,7 @@ I replied:
    [1]: /blog/2011/01/e-ink-writing-device-a-plea/ (e-ink writing device: a plea)
    [2]: http://www.mobileread.com/forums/showthread.php?t=159007
 
-# new articles - make darkness  {#new-articles-make-darkness-}& retreat manual
+# new articles - make darkness & retreat manual {#new-articles-make-darkness-&-retreat-manual}
 2011/03
 
 EDIT: these articles were renamed "make" and "protocol"
@@ -1951,7 +1951,7 @@ I wrote instructions for retreating in my darkroom here in Guatemala in [protoco
    [1]: /protocol/
    [2]: /make/
 
-# cool site - photoperiodeffect {#cool-site-photoperiodeffect}.com
+# cool site - photoperiodeffect.com {#cool-site-photoperiodeffect.com}
 2011/03
 
 [photoperiodeffect.com][1]
@@ -2415,7 +2415,7 @@ Hmm. Except when the children are 6, they are all confiscated by the state for b
 # tao versus moralism {#tao-versus-moralism}
 2012/05
 
-## tao te ching {#tao-te-ching}, chapter 38
+## tao te ching, chapter 38 {#tao-te-ching,-chapter-38}
 
 The Master doesn't try to be powerful;  
 thus he is truly powerful.  
@@ -2621,7 +2621,7 @@ A mini-retreat is not as impressive as regular ones. But it is safe, it feels re
 It is actually just a slight modification of a normal night's rest, in which one goes to bed early, wakes up in the wee hours for a bit, then sleeps again. That was common until artificial light came a hundred years ago. We haven't adapted to sleeping the night through. We have just accommodated with chronic exhaustion.
 
 
-# revisions {#revisions}, book
+# revisions, book {#revisions,-book}
 2013/08
 
 I am working with professional writers to edit the darkness conjecture in preparation for publishing a proper book based on it. Several of the articles have changed significantly. Rapture and hygiene are extended. The retreat manual is now divided into design and protocol, and make was divided into format and design. All of these are better organized. More changes to come. These will include a re-organization of the articles into sections and a migration away from WordPress.
@@ -2954,7 +2954,7 @@ _revised 5 July 2008_
 
 # From Where {#From-Where}?
 
-## understanding Quinn {#understanding-Quinn}, part 2
+## understanding Quinn, part 2 {#understanding-Quinn,-part-2}
 
 A year ago, I wrote an essay called, "Understanding Quinn" to help an acquaintance grasp something about Daniel Quinn's writings. Then, in an online discussion a few months ago, I offered it to Mr Quinn himself as a possible aid to his explaining his own thinking process, which he was pondering out loud. He politely thanked me and said I had not gotten it.*
 
@@ -2976,7 +2976,7 @@ _revised 2 Dec 03_
 
 
 
-# Nothing to Fear {#Nothing-to-Fear}, Even Fear Itself
+# Nothing to Fear, Even Fear Itself {#Nothing-to-Fear,-Even-Fear-Itself}
 
 ## big brother {#big-brother}'s achilles's heel
 
@@ -3294,7 +3294,7 @@ Find the latest version of this secret-dense article and other New Tribal writin
 
 There is no, one, right way to create Tribal Housing. We can take minutes or months. We can do it bankrolled or broke, quick and dirty, or slow and precise. We can be few or many, rude or courteous, learned or just plain gung ho. However it happens, this house is a place for us, as we are.
 
-## Bibliography {#Bibliography}, Influences, Acknowledgements and Dedication
+## Bibliography, Influences, Acknowledgements and Dedication {#Bibliography,-Influences,-Acknowledgements-and-Dedication}
 
 _The Continuum Concept_, Jean Liedloff (tribal relationship); _The Path of Least Resistance for Managers_, Robert Fritz (organizational structure and creativity); _Gardening Without Digging_, A. Guest; _The Geography of Nowhere_, James Howard Kunstler (New Urbanism); _Hundertwasser: The Painter King with the 5 Skins_, Pierre Restany; _Just Eat An Apple!_, Frederic Patenaude (raw diet magazine); _Magical Child Matures_, Joseph Chilton Pearce; _Mucusless Diet Healing System_, Arnold Ehret; _The Moon Is a Harsh Mistress_, Robert Heinlein; _Nature's First Law_, Arlin, Dini, Wolfe; _ORDO: An American Art of Placement_ (article), Andrew Durham; _Origins of Agriculture_ (article), Greg Wadley and Angus Martin; _The Songlines_, Bruce Chatwin, (aboriginal recalcitrance and worldview); _Summerhill: A Radical Approach to Childrearing_, A.S. Neill; _Teenage Liberation Handbook_, Grace Llewellyn; _Where White Men Fear to Tread_, Russell Means. By Victor Papanek: _Design for a Real World_; _Nomadic Furniture_. By Daniel Quinn: _Ishmael_ (another story to be in); _The Story of B_ (inclusive human history); _My Ishmael_ (concretes and criticism); _Beyond Civilization_ (tribalism, business). By Ayn Rand: _Atlas Shrugged_ (realist metaphysics, industrial culture); _Introduction to Objectivist Epistemology_ (logic). And by Frank Lloyd Wright: many books, especially _The Natural House_. My experiences as a guest and with camping, communities, co-ops and raw eating; and my exposure to eco-villages, co-housing, microhousing, feng shui and humanure have also informed the design. Thanks to my ancestors, family, elders and friends, including: Dick and Anna Lou Callen; John and Lou Ann, Paul and Francois Durham; Jack and Rae Nuckols, Jack and LaVerne Asher, John Boyer, and my former teacher; Laservida (Micha); my hosts while writing: Christopher, Nicole, Frederic and Danny; Sterling, for enduring; Joanie Williamson for leading that week at church camp; and the countless interested and supportive people I have met on my way, especially my hosts. Special thanks to Brian Sullivan for perfecting Tribal Housing's name, sticking to your guns, and above all, for taking up the torch. This article is for Bleu and Meir, who by the depth of their yearning and recognition, inspired it.
         
@@ -3492,7 +3492,7 @@ What would it be?
 By definition  
 Philosophy
 
-### My Father Lives in Twin Falls {#My-Father-Lives-in-Twin-Falls}, Idaho
+### My Father Lives in Twin Falls, Idaho {#My-Father-Lives-in-Twin-Falls,-Idaho}
 
 I am not the kind  
 Who can walk down a main street with impunity  
@@ -3810,7 +3810,7 @@ Again and again and again and again
 
 LV 2001 Mar
 
-### 1 {#1}.19.02 4 b
+### 1.19.02 4 b {#1.19.02-4-b}
 
 Did I storm your yard?  
 I bid you relax  
@@ -4372,7 +4372,7 @@ Chorus
 
 
 
-# The Ashers {#The-Ashers}, a River, and I
+# The Ashers, a River, and I {#The-Ashers,-a-River,-and-I}
 
 for my childhood neighbors, LaVerne and Jack Asher, on their 50th Wedding Anniversary
 
