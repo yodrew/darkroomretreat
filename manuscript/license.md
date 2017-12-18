@@ -20,4 +20,5 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
     
 The idea is to make the book and components available with minimal friction in every way, at every level of distribution, so that we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
 
+&nbsp;&nbsp;&nbsp;[____&lt;____](../disclaimer)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../services)
 

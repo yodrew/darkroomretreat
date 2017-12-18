@@ -44,6 +44,7 @@ Have me design and build your darkroom in an existing building or from scratch.
 (&euro;15/hr + materials, travel, & shelter)
 
 
+&nbsp;&nbsp;&nbsp;[____&lt;____](../license)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../)
 
 
 <!--
