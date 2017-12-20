@@ -1,6 +1,4 @@
 # introduction {#introduction}
-navprev: preface
-navnext: hygiene
 
 Imagine:
 

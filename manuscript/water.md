@@ -1,6 +1,4 @@
 # 9 - water {#water}
-navprev: darkness
-navnext: appendix-laws-of-life
 
 If you have a bathroom and kitchen you can easily darken or use with a blindfold, great. 
 

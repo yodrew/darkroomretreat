@@ -1,6 +1,4 @@
 # 1 - hygiene {#hygiene}
-navprev: introduction
-navnext: format
 
 Hygiene is a complete system of health and healing based on the self-preserving nature of life and an appreciation for its normal conditions. More than mere cleanliness, hygiene is a 200 year-old, globally established health care system. We hardly discuss it because it's just how things are done. Little known in its fullness, yet its depth and details strike newcomers as oddly familiar.
 

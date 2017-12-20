@@ -1,6 +1,4 @@
 # 6 - make {#make}
-navprev: design
-navnext: air
 
 > "The time for half-measures and talk is over."  
 --Maximus in _Gladiator_

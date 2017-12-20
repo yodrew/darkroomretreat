@@ -1,6 +1,4 @@
 # 8 - darkness {#darkness}
-navprev: air
-navnext: water
 
 There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. There is a million-percent difference between 99@@ and 100@@ dark. Then the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.
 

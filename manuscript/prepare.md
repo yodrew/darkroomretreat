@@ -1,6 +1,4 @@
 # 4 - prepare {#prepare}
-navprev: protocol
-navnext: design
 
 These are a few things that will help you prepare for a retreat: the registration form I have used with clients, the food menu, and a list of things to bring. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
 

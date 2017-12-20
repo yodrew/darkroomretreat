@@ -1,6 +1,4 @@
 # 7 - air {#air}
-navprev: make
-navnext: darkness
 
 The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
 

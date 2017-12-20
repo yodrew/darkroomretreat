@@ -1,6 +1,4 @@
 # foreword {#foreword}
-navprev: notes
-navnext: preface
 
 This book comes out of a long investigation into the cause of joy. 
 

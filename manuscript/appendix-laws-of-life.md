@@ -1,6 +1,4 @@
 # appendix - laws of life {#appendix-laws-of-life}
-navprev: water
-navnext: appendix-pathology
 
 1. **Life's Great Law**: Every living cell of the organized body is endowed with an instinct of self-preservation, sustained by an inherent force in the organism called "vital force" or "life force." The success of each living organism whether it be simple or complex is directly proportional to the amount of its life force and inversely proportional to the degree of its activity.
 2. **The Law of Order**: The living organism is completely self-constructing, self-maintaining, self-directing, self-repairing, self-defending, and self-healing.

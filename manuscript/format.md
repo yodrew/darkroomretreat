@@ -1,6 +1,4 @@
 # 2 - format {#format}
-navprev: hygiene
-navnext: protocol
 
 We can use darkness in different formats for different reasons. Here, I describe the formats in which I have experienced deep rest and observed positive results in my energy level, psychic state, and general well-being.
 

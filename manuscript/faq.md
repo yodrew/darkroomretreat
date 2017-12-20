@@ -1,6 +1,4 @@
 # faq {#faq}
-navprev: appendix-pathology
-navnext: bibliography-and-influences
 
 ## mechanics {#mechanics-faq}
 
