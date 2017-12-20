@@ -1,6 +1,8 @@
 # 8 - darkness {#darkness}
+navprev: air
+navnext: water
 
-There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. There is a million-percent difference between 99% and 100% dark. Then the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.
+There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. There is a million-percent difference between 99@@ and 100@@ dark. Then the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.
 
 Though often easier to deal with than ventilation, light is relentless. It sneaks sideways through a single layer of clear plastic tape; through heavy fabric; around multiple, darkened corners; and at joints and edges of everything. After suffering many defeats at its hands, I have developed equally formidable means of eliminating it. I will now bestow them upon you so that you, too, can become a Conan the Barbarian of lightproofing.
 
@@ -18,7 +20,7 @@ Usually, using fewer layers means:
 - neater appearance
 - greater need for precision
 
-If improvising: use many layers. With each layer, block as much light as close to the source as possible. First, block 99% the light. Then 99% of what's left. Then the last 0.01% is easier to address. Close any curtains in rooms or hallways outside a darkroom's door. Where possible, prevent direct sunlight from hitting your darkening measures. 
+If improvising: use many layers. With each layer, block as much light as close to the source as possible. First, block 99@@ the light. Then 99@@ of what's left. Then the last 0.01@@ is easier to address. Close any curtains in rooms or hallways outside a darkroom's door. Where possible, prevent direct sunlight from hitting your darkening measures. 
 
 Edges are tricky. Black polar fleece is the best thing I have found for sealing edges. It's like a sponge for light. It is widely available, cheap, and forgiving. A knit fabric, its edges require no hem. Just cut and attach with school glue or tape.
 
@@ -89,11 +91,11 @@ Some measurements in the drawing are marked with a tilde (~). This means they ar
 
 ### instant {#instant}
 
-Staple this one together in a few minutes. It's the mask above with no seals. It blocks 95% of light and lets me sleep in and nap. Ch-ch-ch-check it out:
+Staple this one together in a few minutes. It's the mask above with no seals. It blocks 95@@ of light and lets me sleep in and nap. Ch-ch-ch-check it out:
 
 ![photo: sleeping mask, instant](images/sleeping-mask-instant.jpg)
 
-The black fabric is 100% cotton jersey from a T-shirt, 250mm x 440. Fold it in 4 layers. Staple it along its length. The 4 strap anchors have 2 staples each. Knot where comfortable, endknots on one end, two half-hitches or slip knots on the other.
+The black fabric is 100@@ cotton jersey from a T-shirt, 250mm x 440. Fold it in 4 layers. Staple it along its length. The 4 strap anchors have 2 staples each. Knot where comfortable, endknots on one end, two half-hitches or slip knots on the other.
 
 Next, I'm going to try stapling the seals on then bind them as in step 5 of the standard sleeping mask.
 
@@ -405,6 +407,5 @@ Using white school glue (PVA), attach foil to cardboard or black posterboard. On
 
 That's darkness. Now for managing water and waste in a darkroom.
 
-[____&lt;____](http://darkroomretreat.com/air/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/water/)
-{:.arrow}
+
 

@@ -1,4 +1,6 @@
 # foreword {#foreword}
+navprev: notes
+navnext: preface
 
 This book comes out of a long investigation into the cause of joy. 
 
@@ -12,6 +14,5 @@ Effort, our lifeway's smug panacea, gives false and fleeting results. With the w
 
 For 10,000 years, we civilized people have been correct that something is terribly wrong with ourselves and that we must do something about it. But we've mistaken which part of ourselves must do it. At long last, this book puts the issue _to rest_.
 
-[____&lt;____](http://darkroomretreat.com/notes/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/preface/)
-{:.arrow}
+
 

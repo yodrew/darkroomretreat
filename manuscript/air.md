@@ -1,4 +1,6 @@
 # 7 - air {#air}
+navprev: make
+navnext: darkness
 
 The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
 
@@ -312,6 +314,5 @@ It would be nice to have cheap, quiet fans for this: large, low RPM [____homemad
 
 That's it for ventilation, silence, power, and heat. On to lightproofing doors and windows.
 
-[____&lt;____](http://darkroomretreat.com/make/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/darkness/)
-{:.arrow}
+
 

@@ -1,4 +1,6 @@
 # preface {#preface}
+navprev: foreword
+navnext: introduction
 
 When I first retreated in darkness, I just did it to rest. It worked. After 56 hours, I felt caught up on all the sleep I had ever lost, truly awake for the first time in decades. I was stunned.
 
@@ -17,8 +19,7 @@ Hygienic darkroom retreating requires minimal effort and no faith. Darkness is n
 ad  
 Spain, 2017
 
-[____&lt;____](http://darkroomretreat.com/foreword/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/introduction/)
-{:.arrow}
+
 
 
 

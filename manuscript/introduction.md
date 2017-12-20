@@ -1,4 +1,6 @@
 # introduction {#introduction}
+navprev: preface
+navnext: hygiene
 
 Imagine:
 
@@ -236,6 +238,5 @@ Thanks for reading and best wishes.
 
 Now on to the life-restoring perspective of hygiene and how darkness completes it.
 
-[____&lt;____](http://darkroomretreat.com/preface/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/hygiene/)
-{:.arrow}
+
 

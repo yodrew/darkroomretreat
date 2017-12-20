@@ -1,4 +1,6 @@
 # 4 - prepare {#prepare}
+navprev: protocol
+navnext: design
 
 These are a few things that will help you prepare for a retreat: the registration form I have used with clients, the food menu, and a list of things to bring. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
 
@@ -18,15 +20,15 @@ Register for your retreat here. Follow instructions carefully.
 
 - Price: (European example)&euro;40 + &euro;80/day (eg, 4-day retreat=&euro;360)
 - Discounts: 
-    - Local, student, or friend: 25% 
-    - Local and student or friend: 50%
-    - Offers of 35% + remainder in trade are gladly considered
+    - Local, student, or friend: 25@@ 
+    - Local and student or friend: 50@@
+    - Offers of 35@@ + remainder in trade are gladly considered
     - No one serious turned away for lack of funds
-- Reserve dates with a 50% deposit. Balance due on arrival.
-- Cancelation fees (% of _total_ price): 
-    - 30+ days before retreat: 5%
-    - 7+ days before retreat: 25% (half the deposit)
-    - 1-29 days if someone else can take your spot: 10% 
+- Reserve dates with a 50@@ deposit. Balance due on arrival.
+- Cancelation fees (@@ of _total_ price): 
+    - 30+ days before retreat: 5@@
+    - 7+ days before retreat: 25@@ (half the deposit)
+    - 1-29 days if someone else can take your spot: 10@@ 
 
 &nbsp;
 
@@ -99,6 +101,5 @@ Here is the hygienic food plan:
     - If you must bring any of these things, unless critical for your health, turn them off and store them during the retreat or ask to store them with your supporter.
     - contraband, psychedelics, alcohol: disallowed on the premises
 
-[____&lt;____](http://darkroomretreat.com/protocol/)&nbsp;&nbsp;&nbsp;[____`____^`](http://darkroomretreat.com/)&nbsp;&nbsp;&nbsp;[____&gt;____](http://darkroomretreat.com/design/)
-{:.arrow}
+
 

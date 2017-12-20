@@ -43,9 +43,8 @@ Have me design and build your darkroom in an existing building or from scratch.
 
 (&euro;15/hr + materials, travel, & shelter)
 
-
-&nbsp;&nbsp;&nbsp;[____&lt;____](../license)&nbsp;&nbsp;&nbsp;[____`____^`](../)&nbsp;&nbsp;&nbsp;[____&gt;____](../)
-
+%(../license)[____&gt;____](../)
+{:.arrow}
 
 <!--
 booklets at quantity discounts on my website. Prices postpaid. Write for world prices or see [____license____](http://darkroomretreat.com/about/license) for an alternative.
