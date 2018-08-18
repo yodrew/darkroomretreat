@@ -217,6 +217,7 @@ In the past year, I built two box silencers into window openings. They were simp
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
 [![plan: silencer](images/silencer.png)](http://darkroomretreat.com/img/plan/silencer.pdf)
+[![plan: silencer](images/silencer16.png)](http://darkroomretreat.com/img/plan/silencer.pdf)
 
 The plan is straightforward. It is just a wooden box with two internal half walls. The resulting channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a rectangle for a doubled helix vent, or a slot in end for helix vent. The fan mount is adaptable to all 4 locations.
 
