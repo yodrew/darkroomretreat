@@ -6,7 +6,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 
 ## sink {#sink}
 
-### basic {#basic-water}
+### basic {#basic-sink}
 
 - table
 - rectangular plastic basin, like a restaurant bus tub
@@ -15,7 +15,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 - drinking water (if separate from wash water): in 20L bottle with valve-cap
 - waste (water and food): two, 20L buckets with lids
 
-### upgrade {#upgrade-water}
+### upgrade {#upgrade-sink}
 
 - salvaged sink set in a counter-height table
 - drains directly into waste bucket
@@ -23,7 +23,7 @@ For short retreats in buildings without plumbing, make the quick, cheap, portabl
 
 ## toilet {#toilet}
 
-### basic {#basic-1-water}
+### basic {#basic-toilet}
 
 It's a 20L bucket with a toilet seat on top. No kidding.
     
@@ -43,7 +43,7 @@ It's a 20L bucket with a toilet seat on top. No kidding.
     - squeeze to get a small stream of water that runs straight down
     - wash anus with wetted fingers of other hand
 
-### upgrade {#upgrade-1-water}
+### upgrade {#upgrade-toilet}
 
 A 20L bucket sits inside a box with a hole in the top. The return duct attaches to a hole in the side of the box. So all air exits the room through the toilet, containing all odor. Bucket also collects pee, so empty it every 3-5 days. Making a vented urinal or a toilet that separates pee from poop is possible, too. 
 
@@ -81,11 +81,11 @@ Dimensions: 35cmH x 60W x 60D
 
 ## bath {#bath}
 
-### basic {#basic-2-water}
+### basic {#basic-shower}
 
 A washcloth or sponge for a sponge bath
 
-### upgrade {#upgrade-2-water}
+### upgrade {#upgrade-shower}
 
 - on waterproof floor (or covered with large plastic sheet) make a 2m diameter border of towels or bedsheets and sit in the middle 
 - put shower water in two 1.5L soda bottles with loose lids or nearly closed drinking spout lids
@@ -113,7 +113,7 @@ Adjust water temperature with cold water to suit yourself. When ready to bathe, 
 
 Adjust shower length and water flow with different size containers and tubes. Make sure hook can hold the weight.
 
-### conclusion {#conclusion}
+## conclusion {#conclusion}
 
 That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See  
 [____*introduction > open-source*____](#open-source).

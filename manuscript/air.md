@@ -28,7 +28,7 @@ This means either:
 
 Somehow, it must be done. Forget darkness a moment. Along with not freezing to death and being safe from injury, we have no greater concern in life than arranging to breathe fresh air continuously and comfortably.
 
-### constraints {#constraints-air}
+### constraints {#constraints-ventilation}
 
 - provides plenty of fresh air
 - lightproof
@@ -64,11 +64,11 @@ Similarly, we hung 7m of ducting that ran through three rooms; attached a silenc
 
 Sewage pipes drain downward but are ventilated upward. Once, friends and I replaced a flush toilet with a composting toilet. The exposed drain pipe, being oversize and in a single-story house, wasn't subject to backflow. So it proved a perfect exhaust duct for a case fan at floor level. Imagination conquers all obstacles (and renews itself in darkness).
  
-### lightproof {#lightproof}
+## lightproof {#lightproof}
 
 Here are further design constraints, photos, plans, and instructions for making and installing lightproof vents.
 
-## constraints {#constraints-1-air}
+### constraints {#constraints-lightproof}
 
 (helix vent specifications in parentheses){threshold vent specifications in curly braces}:
 
@@ -81,7 +81,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 - elegant (yes: simple compact form, uses common materials, zig-zag-shaped passage accommodates natural helical movement of air){yes}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time}
 
-## helix vent {#helix-vent}
+### helix vent {#helix-vent}
 
 ![photo: helix vent, complete](images/helix-vent-complete.jpg)
 
@@ -99,15 +99,16 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
-The helix vent can go anywhere. Flaps of its face opening poke through a 40 x 282mm slot and fold down with tape or glue. 
+The helix vent can go anywhere. Flaps of either its edge or face opening poke through a slot and get taped or glued down. 
 
  - window: attach it to the back of a blind and crack the window behind it. 
  - door: cut slot(s) in it and use helix vent instead of a threshold vent. 
- - wall vent (leading outside or to another room): attach vent to a cardboard box and attach box to the wall over the vent. Vents can be either supply or return vents; air flows either direction through the vent.
+ - wall (leading outside or to another room): attach vent to a flat cardboard box and attach box to the wall over the vent. Vent can be either supply or return
+ - silencer: inside (without shell) or out, attached at face or edge
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
-Do you need a more compact vent or wish to manufacture vents? I prototyped some based on the same helix principle that proved too difficult to make by hand. Write me for photos, plans, and instructions. It is 280H x 180W x 60D (where W is distance through vent). Further reductions are possible (down to W of 65) for compact applications.
+Do you need a more compact vent? I used the 3-4-5 triangle ratio in the channels, so it can be shrunk to make a narrower, shorter air passage. Do you wish to manufacture vents? A set of simple wooden or sheet metal templates and jigs can speed production tremendously while keeping equipment and investment to a minimum. Start in your garage.
 
 Materials are simple and non-toxic: heavy black acid-free paper, cardboard, fabric, and wood glue. Look in art or office supply shops for the paper. North Americans, use this paper weight and size [____conversion chart____](http://www.paper-paper.com/weight.html). If large sheets are unavailable, glue small sheets together between folds in plan. Wood glue has high tack and quick drying time, easing assembly. School glue will work, too.
 
@@ -115,40 +116,45 @@ Read through instructions once while studying plans.
 
 1. materials (see plans for quantities)
     1. paper (for channels and walls)
-        - black, acid-free bond or coverstock
-        - available at art supply and fine stationery and book shops
+        - black, acid-free bond, coverstock
+        - available at art supply, stationery, and book shops. In Europe, common posterboard is often acid-free.
+        - two posterboard-size sheets (500 x 650 minimum) per vent
         - weights
-            - channel: 120-300gsm
-            - wall: 200--400gsm
-            - total: 390--600gsm
-    2. cardboard, single layer, 3--4.2mm thick (for shell)
-    3. fabric, polar fleece, black, medium weight (for gaskets; 10 layers of it in a stack should measure 30-35mm high) 
-2. follow instructions in basics section above
+            - channel: 120--300gsm
+            - wall: 180--400gsm
+            - total: 350--600gsm
+    2. cardboard, single layer, 3--4.2mm thick (for shell, unnecessary inside silencer)
+    3. fabric: polar fleece, black, medium weight (for seal. Quality check: 10 layers of it in a stack should measure 30-35mm high) 
+2. follow instructions in [____air > fabricate____](http://darkroomretreat.com/air/#fabricate)
 3. sub-assembly
-    1. attach channels and gaskets to walls
-        1. referring to key, get a clear idea of how parts go together
-        2. glue channel and wall joints in alphabetical order
-        3. glue gasket inside top and bottom of outer wall
+    1. attach channels to walls
+        1. referring to assembly and key, get a clear idea of how parts go together
+        2. glue channel and wall joints in alphabetical order between question marked holes. Channels lie between dash-dotted lines.
     2. glue joints of shell together with shell seals
 4. assemble core
     1. glue 20mm wide flaps of inner wall to outer wall
     2. glue 20mm wide flaps of outer wall to inner wall
-5. if not using immediately, store core inside shell, covering exposed part of core with scrap piece of cardboard to prevent crushing.
+5. shell
+	- when using shell, put core inside and attach fleece seal with glue. This is a 20mm wide double-layer strip of fleece that goes around the flaps of the face opening. Three sides of the seal attach to the shell flaps. The fourth side goes across the core. Double-layers overlap at corners.
+	- when not in use, store core inside shell, taping up flap by edge opening. Cover exposed part of core with scrap piece of cardboard to protect core from being crushed.
 6. installation
-    1. determine vent location in panel
-        - edge opening of vent should face window opening
+    1. determine vent location 
+    	- in blind, panel or silencer
+    	- whether it will attach at edge or face opening
+    	- shell is likely unnecessary when core is attached inside silencer
         - vent should not touch window handles, locks, and frame 
-    2. on panel, mark slot exactly the size of the vent's face opening, 40mm x 282mm 
+    2. mark slot with slot template: 
+    	- face opening, 50 x 216 (most common, uses shell unless inside silencer)
+    	- edge opening, 63 x 216 (no shell, inside silencer)
     3. cut out slot
-    4. from the back, position vent core over hole and fit vent flaps through it
-    5. lay panel on table, core down and panel up
-    6. pulling top flap up snugly, use back of table knife tip to crease the outside of it right where it passes through hole
-    7. fold flap at crease and glue or tape it to front of panel
-    8. repeat with bottom flap, then with side flaps
-    9. attach shell to back of panel over core with tape, glue, or screws going through panel into braces
-    10. cover shell with foil and/or white paper to minimize warping by sun
+    4. position vent over slot and fit vent flaps through it
+    5. when attaching to soft window covering like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
+    6. fold flap at crease and tape it to cover. Tape is removable for vent reuse in another configuration later if you like. Only glue it in place if you are certain of not moving it for years.
+    7. repeat with other long flap, then with short flaps
+    8. attach shell to cover with tape, glue, or screws going through cover, into wooden braces if cover is soft
+    9. cover shell with foil and/or white paper to minimize warping by sun
 
-## threshold vent {#threshold-vent}
+### threshold vent {#threshold-vent}
 
 A bedroom door often has a gap at the bottom---the threshold---for ventilation. In mechanically ventilated dwellings, this gap allows air to flow out of the bedroom toward the dwelling's return vent (or perhaps just a window). The threshold vent lets air out but no light in. Its design adapts to door thickness, the height of the gap between bottom of door and threshold, width of door, and width of vent necessary for sufficient airflow. It works if gap is 15-33mm. 
 
@@ -164,7 +170,7 @@ Block light that reaches the door from the outside as much as possible. For exam
     - paper, acid-free, 400-600gsm bond or coverstock (empty cereal and frozen pizza boxes work, too)
     - muslin fabric, black
     - fleece fabric, black
-2. follow instructions in basics section
+2. follow instructions in [____air > fabricate____](http://darkroomretreat.com/air/#fabricate)
 3. blacken inside of ends (grey area) with marker
 4. cut fabric to cover:
     1. area of bottom of door surrounded by vent + 30mm above each side (180--2_h_ x _w_)
@@ -210,22 +216,21 @@ You can make or buy duct silencers.
 - [____DIY straight tube design____](https://www.420magazine.com/forums/do-it-yourself/176589-diy-duct-silencer-muffler-super-cheap.html) 
 - [____acoustic ducting____](http://www.fantronix.com/acatalog/Acoustic_Ducting.html), at least 3m with 2-3 bends
 - [____silencer for sound booths____](http://www.whisperroom.com/sound-booth-optional-features.php#vent). With dark insulation and enough bends, this eliminates the need for a lightproof vent.
-- standard silencers are made of metal and super durable materials and cost $100-200.
+- manufactured silencers are made of metal and super durable materials and cost $100-200.
 
-In the past year, I built two box silencers into window openings. They were simpler and much more effective than I hoped. They swallowed up sound. The window pane formed one face of the box. The window opening provided the 4 sides. Boards formed the box's other face, covering the window on the outside, against the inside of the bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See [____*darkness > window > hard panel*____](#hard-panel) section for more about adapting the design below.
+In the past year, I built two box silencers into window recesses. They were simpler and much more effective than I hoped. They swallowed up sound. One of two window panes formed one face of the box. The window recess in the thick wall provided the 4 sides. Boards formed the box's outer face against the inside of security bars, about 20cm from the glass. I bought shredded fabric insulation to line it. See [____*darkness > window > hard panel*____](#hard-panel) section for more about adapting the design below.
 
 Thanks to Richard Nöjd of Skattungbyn, Sweden, for finding these cool solutions. Silencers and acoustic ducting are standard industrial components, making buildings quiet worldwide. 
 
 [![plan: silencer](images/silencer.png)](http://darkroomretreat.com/img/plan/silencer.pdf)
-[![plan: silencer](images/silencer16.png)](http://darkroomretreat.com/img/plan/silencer.pdf)
 
-The plan is straightforward. It is just a wooden box with two internal half walls. The resulting channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a rectangle for a doubled helix vent, or a slot in end for helix vent. The fan mount is adaptable to all 4 locations.
+The plan is straightforward. It is just a wooden box with two baffles (internal half walls). The resulting zig-zag channel has a hole at each end. Each hole has 4 possible locations: faces, side, or end. Cut a circle for ducting or fan, a slot for a helix vent. The fan mount adapts to all 4 locations.
 
-The box is lined with porous insulation. Acoustic foam, shredded fabric, wood fiber, cellulose, fiberglass, or rockwool (mineral fiber, much like fiberglass), quilt batting and pillow filling all work. The fabric and wood fiber I've tried had faint smells I disliked. I feel hesitant to use acoustic foam and fiberglass because I don't know what chemicals are in them. Cellulose, quilt batting, pillow filling, and rockwool seem neutral. Like fiberglass, rockwool is unpleasant to work with but stable once installed. Do not use closed cell foam like styrofoam, polyisocyanurate boards, camping pads, etc, as these do not conform to the silencer principle.
+The box is lined with porous non-toxic insulation. Pillow filling, quilt batting, cellulose, clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. I feel hesitant to use acoustic foam because I don't know what chemicals are in it. Fiberglass and rockwool are unpleasant to work with and fiberglass often smells of chemicals. Closed cell foam like styrofoam, polyisocyanurate boards, camping pads, etc, is not porous so will not work.
 
-Discarded furniture is made of an excellent material for silencer boxes called melamine: particle board with plastic veneer, usually 19mm thick. Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, maybe including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30mm wide for this reason.
+Discarded furniture is made of melamine, an excellent material for silencer boxes. It is particle board with plastic veneer, usually 15 or 19mm thick. Use a table saw to cut the 8 pieces so they come out square. Or have a carpenter do it for you, including the holes. Just take the drawing with you, modified for your needs. The carpenter probably has some extra melamine laying around to sell you cheap. To screw pieces together, first drill pilot holes so edges don't break. I always drill pilot holes in wood less than 30mm wide for this reason.
 
-Glue insulation in place. Roughen the plastic surface first with sandpaper so glue sticks. For rockwool, use screws and large plastic washers cut from bottles. For cellulose, make tubes of metal screen covered in porous fabric to form the cavity. Stuff the cellulose around it and close the box.
+To insulate, make square tubes of metal screen covered in porous fabric to form the channel. Stuff insulation around it and close the box. Or cut and glue sheet insulation in place. Roughen the plastic surface first with sandpaper so the glue sticks. 
 
 ## machines {#machines}
 
@@ -250,32 +255,30 @@ More about an [____ideal fan____](#fan-idea), below.
 
 [![plan: fan mount](images/fan-mount.png)](http://darkroomretreat.com/img/plan/fan-mount.pdf)  
 
-This mount greatly dampens vibration from the fan. The silencer can then absorb the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
+This mounting design totally dampens vibration from the fan. The silencer then absorbs the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 
 The design is fairly self-explanatory:
 
 - description
-	- 4 concentric rings of 1.5-2mm rubber make a web that holds the fan in mid-air
-	    - ring touching the fan is wide: 15mm
-	    - other 3 rings are narrow: 3mm
-	    - 4 wooden sticks with notches cut in the ends are suspended in the middle of the web to make the two outer rings possible in such a small space.
+	- a fan held in mid-air by a web of 4 concentric rings of rubber sprung by 4 sticks in the web's middle, hung on screw posts anchored in a wood base
+	- modular, fitting on or in silencer in any configuration
 - materials
-	- base: 19 x 240 x 240 (hole 120 diameter)
-    - fan: 20 x 120 x 120
-	- base-fan gap: 3
-	- screws: 5 x 50 machine, 12 nuts and washers
-	- spacers: 5 ID (inner diameter) x 9-15 OD x 3 (2 of each size); rubber, plastic, wood, or metal
-	- wood: 3 x 10 x 160 (notch at 158)
-	- rubber: 1.5 thick, 3 wide (15 on fan body)
-	- tie: wire, twist ties, zip ties, or string
+	- base: 20 x 240 x 240 (center hole, 120 diameter). I suggest having a carpenter cut this for you to get a precisely round hole.
+    - case fan: 120mm
+	- screws: 4@5 x 50 machine + 8 nuts, 16 washers
+	- wood sticks: 4@3 x 10 x 154
+	- rubber: (from bicycle inner tube) 4 strips, 1.5--2 thick, 15 wide. Lengths: 1@500, 2@660, 1@820
+	- tie: wire, twist ties, zip ties, staples, or string
+	- base-fan gap: 0.5--1
+
 - assembly
-	- align fan directly over the hole in base. Gravity may pull it to one side or another. Use 1-3 spacers of rubber tubing or wood over the screws with washers to adjust fan position. 
-	- Adjust base-fan gap with nuts and washers. It prevents transmission of vibration to the resonant base. But it also makes the fan less efficient due to air pressure drop. This could be sealed with plastic film, loosely applied or a bit of fleece. The next iteration of the design will provide a tested way to seal this gap without transmitting vibration.
-	- ties: thin wire, twist ties, zip ties, or just string that connects each ring to the next. 
-    - In wide ring, make 2 holes or slits 3mm apart on either side of narrow ring where they connect. Tie them together through holes.
-	- screw module onto silencer over hole in any position
+	- overlap ends of each rubber strip into rings by 20mm and stapled once at first, 4 times after getting the lengths right. They should be barely stretched, just taut enough to suspend the fan.
+	- ties: connect each ring to the next 
+	- trim rubber to 12mm width at screws
+	- align fan directly over the hole in base. Gravity may pull it to one side or another. Tug on webbing to reposition it.
+	- adjust base-fan gap with nuts and washers and tugging webbing.
+	- screw base onto silencer over a hole in any position
 	- keep wires clear of outer 3 rings to prevent them from transmitting vibration.
-	- design is new. Send complaints and suggestions. Check back for new prototypes.
 
 ### power {#power-air}
 
@@ -307,7 +310,7 @@ The most interesting plate exchangers use the Mitsubishi _Lossnay_ core, found i
 
 A heat recovery ventilator requires two fans. The only trouble with case fans is that they are axial fans. These do not efficiently generate enough pressure to overcome the resistance in ventilation systems (long pipes, heat exchanging cores, filters, convoluted vents). But centrifugal fans can. These are pricey, starting around $50, and usually AC powered, so they hum. DC or EC (Electronically Commutated) centrifugal fans cost even more.
 
-It would be nice to have cheap, quiet fans for this: large, low RPM [____homemade centrifugal fans____](http://gingerybookstore.com/product36.html) with DC motors _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 50cm diameter fan from wood, cardboard, paper, and steel (photos upon request). The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it. Air friction in the fan caused a surprising amount of noise. Each airstream would require a silencer. But this design ought to totally eliminate fan noise. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
+It would be nice to have cheap, quiet fans for this: large, low RPM [____homemade centrifugal fans____](http://gingerybookstore.com/product36.html) with DC motors _outside_ the airstream in a separate, soundproofed case. In late 2016, I prototyped a 50cm diameter fan from wood, cardboard, paper, and steel (photos upon request). The AC motor I salvaged from a discarded fan taught me the hard way about AC hum. The rubber inner tube motor mount and foam driveshaft did not fully decouple and dampen it. And air friction in the fan across the blades caused a surprising amount of noise. Each airstream would require a silencer. But this design ought to totally eliminate fan noise while producing high volume. The fan's parts could be metal or plastic and lasercut according to an open-source, electronic plan file.
 
 ~~
 

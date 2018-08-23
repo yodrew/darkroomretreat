@@ -5,39 +5,41 @@
 
 &nbsp;
 
-The ideas in this book can bring relief and hope. But 99% of their value lies in applying them. This requires a darkroom. Since darkrooms are uncommon, these last 4 chapters explain how to build them inside existing buildings yourself. The chapters includes detailed plans and instructions for components: vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost and work off-grid.
+Just the ideas in this book can bring relief and hope. But 99% of their value lies in their application. This requires a darkroom. Since darkrooms are uncommon, these last four chapters explain how to build darkrooms inside existing buildings. 
 
-A darkroom is normal, not exceptional. It a real thing you see and touch, make, use, and show others. It is not a metaphor. It takes knowledge, imagination, design, measurement, plans, materials, construction, testing, and improvement. 
+This chapter provides basic information that applies to all components of a darkroom. The next three chapters provide blueprints and instructions for components related to three elements: air, darkness, water. They are vents, silencers, seals, blinds, and kitchen and bathroom fixtures. Designs are low-cost, low-tech, and work off-grid.
 
-These are normal human activities everyone can do to some degree and get help with the rest. You can walk down stairs without falling, hit a plate when you aim food at it, cognize sentences, tell light from dark, and feel a breeze. So you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Perhaps your time has come.
+A darkroom is a real thing you see and touch, make, use, and offer others. It is not a metaphor. It takes a knowledge, imagination, design, measurement, plans, materials, craftsmanship, construction, testing, and improvement. Not too much, but a reasonable degree.
 
-I suggest you read the prose introductions to each section now and save the lists of instructions for when it comes time to build. The instructions make dense reading. Eventually, I'll replace them with graphical assembly instructions like IKEA's. For now, slog through with me.
+These are normal human activities everyone can do to some degree and get help with the rest. If you can walk down stairs without falling, hit a plate when you aim food at it, hold a pencil, cognize sentences, tell light from dark, and feel a breeze, you are mechanically sufficient to begin. As Jack Nuckols, an engineer and my grand-elder, once told me when my time came, "Become a craftsman." Consider your time has come.
 
-All components refer to the following basic instruction sections: the **metric system**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
+I suggest that, your first time through these chapters, you read everything in this one but just the prose parts of the last three. Save the lists of instructions for when it comes time to build. They make dense reading. Eventually, they'll be replaced with graphical assembly instructions like IKEA's. For now, slog through with me.
+
+All components rely on the basic instructions in the following sections: **metric**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
 [____7&nbsp; air____](#air)  
 [____8&nbsp; darkness____](#darkness)  
 [____9&nbsp; water____](#water)  
 
-After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone and, uh, you won't be able to see anything, either.
+After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone. And you won't be able to see anything, either. Haha.
 
-If you need more specific advice for darkening your space, I provide [____*design consultation*____](#services). Likewise, feel free to use these [____*open-source*____](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](#license).
+If you need more specific advice for darkening your space, I provide [____*design consultation*____](#services). Yes, guiding people by word and picture on a chat application toward a completed darkroom and successful retreat actually works, and I have done it. Likewise, feel free to use these [____*open-source*____](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](#license) for my liberal terms.
 
 ## metric {#metric}
 
 I give all measurements in metric, mostly millimeters. Are you used to inches, pounds, and gallons? Get a handle on the brain-descrambling metric system in a split-minute:
 
-1. understand you will simply be counting to 10 and multiplying by 10 as normal, not wrestling with fractions and multiple conversion factors
+1. understand that, with metric, you will simply be counting to 10 and multiplying by 10 like normal. You will not, thank god, be wrestling with fractions and multiple conversion factors as in the imperial system.
     - basic metric conversions:
         - length: 1m=100cm=1000mm (meter, centimeter, millimeter)
         - volume: 1L=10dL=1000mL (liter, deciliter, milliliter)
-        - mass: 1kg=10hg=1000g (kilogram, hectagram, gram. Mass is like weight. But it uses a balance, not a spring scale, so it does not depend on Earth's gravity.)
+        - mass: 1kg=10hg=1000g (kilogram, hectagram, gram. Mass is like weight. But it uses a balance, not a spring scale, so it does not depend on Earth's gravity. Build a darkroom in space!)
     - cool intra-conversions: 
         - 1L=10cm x 10cm x 10cm (1000cm^3^)
         - 1L water=1kg
         - thus, 1mL water=1cm^3^=1g 
 		- brilliant! simple! humane! 
-2. use these imperial _near_-equivalents to practice the metric system, visualize my descriptions, and make estimations. Not for precise conversions or large quantities. (*My favorites):
+2. use these imperial near-equivalents to practice the metric system, visualize my descriptions, and make estimations. Not for precise conversions or large quantities. (*My favorites):
     - length
 		- *25mm = 1" (inch)
 		- *100mm = 4"
@@ -47,7 +49,7 @@ I give all measurements in metric, mostly millimeters. Are you used to inches, p
 	- area
 		- 1m^2^ = 11'^2^
 		- 4' x 8' sheet = 120cm x 240cm (~3m^2^)
-		- just wait till you learn the genius A1-A8 paper size system
+		- the genius &radic;2-based A1-A8 paper size system
 	- volume
 		- *4L = 1 gallon
 		- 1.7cmh = 1cfm (cubic meter/hour; cubic feet/minute of air)
@@ -78,21 +80,21 @@ Making components requires some or all of these tools:
     3. black marker
     4. straight pin with colored plastic head or masking tape handle
     5. magnifying glass (even a tiny plastic one works, like the one in a Swiss Army knife)
-4. cut, score, crease
+4. crease, score, cut 
     1. straight edge 200mm longer than your longest piece will be. 1-2mm-thick steel is best. An aluminum door or window frame member also works well. A board less than 12mm thick with a perfectly straight edge (check it!) is fine.
-    2. razor knife with new blade
-    3. table knife
+    2. table knife: use back of tip for creasing
+    3. razor knife with new blade: use for scoring and cutting. To score is to cut halfway through thickness of material with razor knife so it remains one piece and folds very easily
     4. scissors for both paper and fabric
 5. join
     1. masking tape
     2. wood glue, unthickened, any grade
     3. glue syringe, 20-50mL for precise, efficient gluing
         - available at:
-            - woodworking shops, with needles
             - as kitchenware along with 2-3mm stainless needles
             - pharmacies. Also get a 2mm x 40--50mm needle. Perhaps cut off the tip. If unavailable, use a cartridge from ballpoint pen, the fat (4-5mm) tapering type. Clean it out and trim it down to point in taper that fits over nipple of syringe
+            - woodworking shops, with needles
         - remove needle and plunger. Cover nipple with finger and fill from back, leaving 10mm unfilled. Replace plunger barely. Point nipple upward and uncover it. Wait for air bubble to rise to top. Then push plunger in till air is cleared from syringe. Replace needle and use.
-6. for roller blind:
+6. for [____roller blind____](http://darkroomretreat.com/darkness/#roller-blind):
     1. drill
     2. screwdriver
     3. gluing clamp (for roller blind)
@@ -103,24 +105,33 @@ Making components requires some or all of these tools:
 
 ## plans {#plans}
 
-I have drawn the plans on a computer for precision, clarity, and ease of modification. They can be baffling to look at first. Use the **key** to understand the symbols and marks. Compare drawings to photos. Then simply _follow the instructions_, one step at a time, and you ought to end up with the intended component. If this does not work, write me and I'll try to sort out the confusion I've caused you and maybe improve the instructions and drawings for others, too.
+I have drawn the plans on a computer for precision, clarity, and ease of modification. However, at first, they can be baffling to look at. 
+
+1. Use the **key** to understand the symbols and marks
+2. Compare drawings to photos.
+3. Read the instructions through a couple times in the days before making begins.
+4. Then _follow the instructions_, one step at a time, and you ought to end up with the intended component. 
+
+Understanding often comes through action. If this does not work, write me and I'll try to sort out the confusion and maybe improve the instructions and drawings for others, too.
 
 A drawing has one or two _views_, depending on the best way to communicate its information:
 
 - _plan:_ from above, two dimensional (2D). Default view if unlabeled.
 - _elevation:_ from the side (2D)
 - _section:_ a cutaway or slice of the object showing all parts when assembled (2D)
-- _perspective:_ from non-right-angled point of view to capture more sides (3D)
+- _perspective:_ from a non-right-angled point of view to capture more sides (3D)
 - _exploded:_ all parts separated but in correct order and linear relation (3D)
 
-For example, the helix vent has plan views of its flat parts and one section view showing how parts are assembled. The toilet frame has both plan and elevation views, while the shower has an exploded view.
+For example, the [____helix vent____](http://darkroomretreat.com/darkness/#helix-vent) has plan views of its flat parts and one section view showing how parts are assembled. The [____toilet frame____](water/#upgrade-toilet) has both plan and elevation views, while the [____shower____](http://darkroomretreat.com/water/#shower) has an exploded view.
 
-All plans can be reused except sleeping mask plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. Images below are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in; click each image to open the corresponding full-size plan as an individual PDF; or:
+All plans can be reused except [____sleeping mask____](http://darkroomretreat.com/darkness/sleeping-mask) plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. 
+
+Images in this book are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in. Click each image to open the corresponding full-size plan as an individual PDF.
 
 1. download all plans at once with the [____darkroom retreat zip file____](http://darkroomretreat.com/darkroom-retreat.zip). Extract (decompress) the file. In the _make_ folder, find:
     - a complete set of PDF plans
     - all photos below plus extras from website
-    - SVG source files of plans for modifying them, originally drawn in [____Inkscape____](http://inkscape.org)
+    - SVG source files of plans for modifying them, originally drawn in [____Inkscape____](http://inkscape.org). Use v0.92.3.
     - I would love it if someone made 
         - 3D versions of these drawings with Sketchup
         - assembly instructions for the components like IKEA
@@ -146,13 +157,22 @@ All plans can be reused except sleeping mask plan, which is destroyed as you mak
             1. cut a small wedge out of overlapping cut mark to align it with matching cut mark on sheet below
             2. align cut marks at perimeter of plan first, then the one(s) in the middle. 
             3. use masking tape to join sheets
-    3. hand-reproducing plans from book or screen
-        1. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An Incra ruler will help a lot with this. See above, [____basics > tools____](#tools) 
-        2. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements. 
-        3. use grey-numbered cumulative measurements in plan to quickly mark lines
+    3. by hand
+    	1. ruler and magnifying glass
+			1. get large white paper to make a reusable pattern with. Don't measure directly on materials.
+    	    2. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [____Incra ruler____](incra.com) will help a lot with this. 
+			3. use magnifying glass to see plans and measurements in the book correctly or draw from PDFs
+            4. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements with arithmetic. 
+            5. use grey-numbered cumulative measurements in plan to quickly mark lines
+		2. trace
+			1. trace directly from a flat screen monitor
+			2. zoom image till stated measurements match a ruler both horizontally and vertically
+			3. tape paper to the screen
+			4. mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later
+			5. you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.
 3. key
 
-    Here is a key to the computer-drafted plans. Find further explanation of symbols in fabricate section below.
+    Here is a key to the computer-drafted plans. Find further explanation of symbols, especially dash-dotted lines, in **fabricate** section below.
 
 [![plan key](images/key.png)](http://darkroomretreat.com/img/plan/key.pdf)
 
@@ -161,15 +181,15 @@ All plans can be reused except sleeping mask plan, which is destroyed as you mak
 These instructions apply to all components, or as indicated. Read special instructions for each component in its respective section afterward.
 
 1. prepare plans
-    1. for fabric parts (sleeping mask, helix vent gasket, roller blind seals)
+    1. for fabric parts ([____sleeping mask____](http://darkroomretreat.com/darkness/#sleeping-mask), [____roller blind seals____](http://darkroomretreat.com/darkness/#roller-blind))
         1. using ruler and razor knife, cut out parts at outlines (except roller blind seals: cut around group of 8 seals)
         2. cut out tape holes on dash-dotted lines
         3. skip to step "3. make parts" (about two pages below)
-    2. customize roller blind plans 
+    2. customize [____roller blind plans____](http://darkroomretreat.com/darkness/#roller-blind)
         1. cut out parts, leaving as much paper around them as possible 
         2. measure variables (_h_, _w_, _t_) and derive measurements for parts. Write measurements on parts next to variables.
         4. cut lines running through stretch arrows
-    3. customize threshold vent
+    3. customize [____threshold vent____](http://darkroomretreat.com/air/#threshold-vent)
         1. using straight edge and razor knife, cut vertical lines running through shrink arrows in grey areas
         2. shrink left and right sections (push them inward, overlapping center section) until cut edges match center section's top and bottom mm marks equal to _h_ 
         3. draw vertical lines through mm marks in corners of plan equal to _h_
@@ -181,28 +201,35 @@ These instructions apply to all components, or as indicated. Read special instru
         7. cut vertical line running through center stretch arrow
 2. transfer plans to material
     1. tape plans to materials
-        1. helix vent shell: align plan diagonally to corrugations (or edges or folds) of cardboard
-        2. where necessary, cut small wedges into outlines of plans to align them with edges of materials. With some roller blind frame parts, dash-dotted extensions of outlines aid in this step.
+        1. [____helix vent shell____](http://darkroomretreat.com/air/#helix-vent): align plan diagonally to corrugations (or edges or folds) of cardboard
+        2. where necessary, cut out small wedges from outlines of plans to align them with edges of materials. With some roller blind frame parts, dash-dotted extensions of outlines aid in this step.
         3. parts with stretch arrows
             1. tape one half to edge of material
             2. using derived measurements and tape measure, mark material where opposite edge of part should be and tape it there
         4. lay out other plans on materials and tape opposite corners
-    2. put 3 layers (10mm+) of scrap cardboard on work surface
+    2. put three layers (10mm+) of scrap cardboard on work surface
     3. transfer plan to material
-        - poke straight pin through centers of all lines close to ends as well as centers of holes
-        - use magnifying glass for marking ease and geeky precision thrills
+        - poke straight pin through 
+        	- all lines close to ends
+        	- centers of holes
+        - in cardboard
+        	- poke all the way through dotted lines
+        	- poke just the surface layer through dashed lines
+        - use magnifying glass for ease of marking and geeky precision thrills
     4. remove plan from material
-    5. mark holes in material with pen
-        - circle holes from dashed lines
-        - draw triangles around holes from dotted lines 
-        - add asterisk to circle or triangle where indicated 
-        - draw squares around holes from solid lines
-        - draw short lines from circles, triangles, and squares in the same direction as lines in plan
-        - double-circle holes for holes
-        - copy joint labels
+    5. mark holes in material (from: with)
+        - dashed lines: circles (asterisk where indicated)
+        - dotted lines: triangles (asterisk where indicated)
+        - solid lines: squares
+        - dash-dotted lines: question mark
+        - holes: double-circle
+	6. mark marked hole
+	    - draw short lines from circles, triangles, and squares in the same direction as lines in plan
+        - circles & triangles: add asterisk where indicated 
+        - copy joint labels (A, B, C, etc)
 3. make parts:
     1. keep scrap cardboard on work surface
-    2. fabric parts only (sleeping mask, helix vent gaskets, roller blind seals)
+    2. fabric parts (sleeping mask, roller blind seals)
         1. tape plans to fleece over tape holes
         2. roller blind locking seals: cut 8mm slits through plan with razor knife 
         3. cut parts exactly around plan outline with scissors 
@@ -211,31 +238,30 @@ These instructions apply to all components, or as indicated. Read special instru
         6. repeat steps 1-4 to make
             - 2 sleeping mask center seals
             - 4 sleeping mask covers. For the 4th cover, use optional cotton fabric, add 20mm on side for seam allowance, and leave plan taped to fabric.
-            - 2 helix vent gaskets
             - 4 roller blind locking seals
         7. skip remaining steps 2-4 and resume special instructions
-    2. tools: metal straight edge, table knife, razor knife
-    3. between pairs of:
-        - triangled holes in shell
-            - make sure holes go all the way through the cardboard to back side
-            - turn cardboard over and lightly crease its back side with back of table knife tip, avoiding breaking the surface of cardboard 
-            - press sharpest edge of straight edge into crease to deepen it before folding
-        - holes with asterisks in paper
-            - between pairs of triangled holes, score* front side to fold backward
-            - between pairs of circled holes, score back side to fold forwards
-            - *score: to cut halfway through thickness of material with razor knife so it remains one piece and folds very easily
-        - circled and triangled holes in paper
-            - between all pairs of holes, crease front side with back tip of table knife 
-            - fold material at all creases toward yourself
-            - then, where crease lies between triangled holes, fold it backward
-        - between squared holes, cut with razor knife
-    4. widen double-circled holes to diameter indicated in plan
-        - use a pointed dowel of appropriate diameter
-        - spin it with your fingers or a power drill as you gently push it into hole
-
+    3. cardboard shell of helix vent
+        1. trim excess cardboard around pattern but don't cut its edges yet
+        2. lightly crease between circled holes with back of table knife tip, avoiding breaking the surface of cardboard 
+        3. press straight edge into creases to deepen them
+        4. turn cardboard over and repeat steps 2 & 3 with triangled holes
+        5. cut between squared holes
+        6. fold cardboard at creases, bending it well past 90&deg;
+    4. paper parts
+    	1. holes with asterisks
+			- triangled pairs, score front, fold backward
+            - circled pairs, score back, fold forward
+        2. circled and triangled holes
+            - crease front side with back of table knife tip
+            - fold at creases forward
+            - then, fold triangled creases backward
+        3. squared holes: cut with razor knife
+        4. double-circled holes 
+    		- to diameter indicated in plan
+        	- use a pointed dowel of appropriate diameter
+        	- spin it with your fingers or a power drill as you gently push it into hole
+	5. voila
+	
 ~~
 
 Now that we've covered the basics that apply to all darkroom components, let's look at those in the air, silence, and warmth department.
-
-
-
