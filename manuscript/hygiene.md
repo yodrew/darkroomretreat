@@ -13,7 +13,7 @@ What is health like according to hygiene?
 
 Euphoria is exactly the sign of long-lost function that my adolescent rapture hinted at. Once tasted, nothing else will do. The thing is to come by it on purpose, not just by chance. What conditions would make it possible? Identifying and providing conditions is hygiene's forte. It accomplishes this by making ordinary observations of life in nature along certain lines. 
 
-So we will learn these lines---these principles---in the first section, which relates the **theory** of hygiene. The second section makes natural observations of the **psyche and darkness**, shows how hygiene applies to them, and fully reveals the secret of exactly why darkroom retreating works. **Distinctions** between hygiene and other approaches further aid understanding. Then I introduce the **logistics** of retreating before heading into its **depths**, the uncharted territory of hygienic psychology.
+So we will learn these lines---these principles---in the first section, which relates the **theory** of hygiene. The second section, **darkroom retreating**, makes natural observations of psyche and darkness; shows how hygiene applies to them; and fully reveals the secret of exactly why darkroom retreating works. **Distinctions** between hygiene and other approaches further aid understanding. Then I introduce the **mechanics** of retreating before heading into its **depths**, the uncharted territory of hygienic psychology.
 
 ## theory {#theory}
 
@@ -419,7 +419,7 @@ If the hygienic view of health and sanity is the brain of my method, and darkroo
 
 ### causation {#causation}
 
-Pathology is the study of illness, especially its causation: the chain of cause and effect that leads to symptoms. 
+Pathology is the study of illness, especially its etiology: the chain of cause and effect that leads to symptoms. John Tilden gave the classic statement of hygienic pathology. It is essential to know. Please read it either now or after this section or chapter in [____appendix: pathology____](#appendix-pathology).
 
 Hygiene is radical because it deals unflinchingly in first causes. It begins by observing that health is the normal state of organisms under normal conditions. Life itself started out in integrity and health. Nature cannot generate a diseased species. Disease only occurs when something goes wrong with conditions, when harmful ones are present and beneficial ones are absent or in poor proportion. 
 
