@@ -6,6 +6,8 @@ preface.md
 mainmatter.txt
 introduction.md
 hygiene.md
+darkroom-retreat.md
+psychology.md
 format.md
 protocol.md
 prepare.md
