@@ -28,7 +28,7 @@ In the meantime, this format helps us remember just how important darkness is. W
 
 ### nightly {#nightly}
 
-We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (the [____*Law of Vital Accommodation*____](#appendix-laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
+We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (see the [____*Law of Vital Accommodation*____](http://darkroomretreat.com/theory#laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
 
 From simply darkening his bedroom, a friend reported to me a huge difference in the quality of sleep he and his mate experienced, as well as a return of vivid dreams. I have experienced the same thing whenever I have been able to darken the room I sleep in. As a rule, the darker the room, the better the sleep. 100% darkness is 1000% better than a 99.9% dark room. Extinguishing that last bit of light leaves the mind nothing to hang onto, giving new meaning to "falling asleep". See for yourself.
 
@@ -146,7 +146,7 @@ Just say no to:
 
 1. Mini-retreating behind schedule. See mini-retreat section above.
 2. Ending a retreat without transition days. See [____*4-day retreat*____](#4-day-retreat) above and [____*protocol > post-retreat*____](#post-retreat).
-3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. See [____*4-day retreat*____](#4-day-retreat) above and [____*hygiene > false capacity*____](#false-capacity), where I have understated the matter because it cannot be overstated.
+3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. See [____*4-day retreat*____](#4-day-retreat) above and [____*theory > false capacity*____](http://darkroomretreat.com/theory#false-capacity), where I have understated the matter because it cannot be overstated.
 4. I know I said three dangerous ways, but maybe there are more. And worse. Why find out? Stick to the tried and true. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.

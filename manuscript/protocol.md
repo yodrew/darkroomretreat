@@ -80,7 +80,7 @@ Most of what you consume in fruit and leafy greens is water. So you must eat 3-5
 
 For more about food, see:
 
-- [____*hygiene > food*____](#food) and [____*prepare > menu*____](#menu)
+- [____*distinctions & mechanics> food*____](http://darkroomretreat.com/distinctions-mechanics#food) and [____*prepare > menu*____](#menu)
 - [____*The 80/10/10 Diet*____](http://foodnsport.com) by Dr Douglas Graham, and [____Loren Lockman's videos____](http://youtube.com/user/LorenLockman).
 
 I strongly believe in fasting. It is a cornerstone of hygiene. But I believe in keeping these two processes separate until regaining significant capacity. They seem to have opposite metabolic requirements. At first, healing in darkness is more psychical in nature, in fasting more physical. The activity of one supports the inactivity and resting of the other. I have tried both at the same time and it is very intense. I look forward to more, but for now, I am taking one at a time. I recommend the same to you till you receive strong clear opposite signals from your organism.
