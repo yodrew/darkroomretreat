@@ -2,7 +2,7 @@
 
 ## relief, rest, recovery {#relief-rest-recovery}
 
-Hygienic darkroom retreating means resting in an absolutely dark room for days, alone, with food. Why do this? 
+Hygienic darkroom retreating is resting in an absolutely dark room for days, alone, with food. Why do it? 
 
 - instant relief from distress and overstimulation
 - profound rest from exhaustion
@@ -10,7 +10,7 @@ Hygienic darkroom retreating means resting in an absolutely dark room for days, 
 
 Healing super-intensifies. Energy, clarity, and joy return. Health and sanity are restored. 
 
-The book is a complete manual. It explains why a retreat works, how to do it, and how to make a darkroom.
+This is a complete manual. It explains why a retreat works, how to do it, and how to make a darkroom at home.
 
 ## toward a hygienic psychology {#toward-a-hygienic-psychology}
 
