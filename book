@@ -5,7 +5,7 @@
 cd ../yodrew.github.io/img
 rsync -auv book-cover.png ../../darkroomretreat/manuscript/images/title_page.png
 rsync -auv photo/*.jpg ../../darkroomretreat/manuscript/images
-rsync -auv photo/book/*.jpg ../../darkroomretreat/manuscript/images
+# rsync -auv photo/book/*.jpg ../../darkroomretreat/manuscript/images
 rsync -auv plan/image/*.png ../../darkroomretreat/manuscript/images
 rsync -auv plan/image/book/*.png ../../darkroomretreat/manuscript/images
 # text
@@ -31,18 +31,8 @@ sed -i 's,</sup>,^,g' *.md
 perl -p -i -e 's,(^|[^!])\[([^^!\]]+),\1\[____\2____,g' *.md
   #links
     # image
-# sed -i 's,](/img/plan/image/,](images/,g' *.md
-# sed -i 's,](/img/photo/,](images/,g' *.md
-
-
 perl -pi -e 's,\]\(/img/plan/image/,\]\(images/,g' *.md
 perl -pi -e 's,[a-z:\, ]+\]\(/img/photo/,\]\(images/,g' *.md
-# \[[a-z](/img/plan/image/,[](images/,g' *.md
-# \[[a-z ,-]+\](/img/photo/,][](images/,g' *.md
-
-
-
-
     # cross
       # /chapter#section to #section
 perl -p -i -e 's,\]\(\/(notes|foreword|preface|introduction|hygiene|darkroom-retreat|psychology|format|protocol|prepare|design|make|air|darkness|water|faq|bibliography-influences|acknowledgments|services|license|bio)#,\]\(#,g' *.md
