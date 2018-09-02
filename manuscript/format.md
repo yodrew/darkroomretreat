@@ -24,11 +24,11 @@ Put dark, dense sheet material over your bedroom windows and doors to get relief
 
 We all know how it feels to sleep a lot after too many short nights: we feel sluggish afterward. Some people call this getting too much sleep, a physiological impossibility. They just do not know how tired people can get and still not get fired from their jobs. In fact, we are tapping into the first layer of a backlog of lost sleep. Feeling groggy is the first phase of catching up. This can take days. Reversing sleep deprivation is like withdrawing from strong drug. Like me, you may need a retreat to get to the other side of it without backsliding.
 
-In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, [____*make*____](#make) [____*blackout blinds*____](#blinds), a [____*silencer*____](#silencer) and [____*lightproof vents*____](#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
+In the meantime, this format helps us remember just how important darkness is. When you decide you want perfect darkness for sleeping nightly, make [____*blackout blinds*____](#blinds), a [____*silencer*____](#silencer) and [____*lightproof vents*____](#lightproof) so your room is dark, quiet, airy, _and_ easily reopened to light during the day.
 
 ### nightly {#nightly}
 
-We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (see the [____*Law of Vital Accommodation*____](http://darkroomretreat.com/theory#laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
+We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light right outside your bedroom, but only at the expense of overall function (see the [____*Law of Vital Accommodation*____](#laws-of-life)). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
 
 From simply darkening his bedroom, a friend reported to me a huge difference in the quality of sleep he and his mate experienced, as well as a return of vivid dreams. I have experienced the same thing whenever I have been able to darken the room I sleep in. As a rule, the darker the room, the better the sleep. 100% darkness is 1000% better than a 99.9% dark room. Extinguishing that last bit of light leaves the mind nothing to hang onto, giving new meaning to "falling asleep". See for yourself.
 
@@ -146,7 +146,7 @@ Just say no to:
 
 1. Mini-retreating behind schedule. See mini-retreat section above.
 2. Ending a retreat without transition days. See [____*4-day retreat*____](#4-day-retreat) above and [____*protocol > post-retreat*____](#post-retreat).
-3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. See [____*4-day retreat*____](#4-day-retreat) above and [____*theory > false capacity*____](http://darkroomretreat.com/theory#false-capacity), where I have understated the matter because it cannot be overstated.
+3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see [____*4-day retreat*____](#4-day-retreat) above and [____*hygiene > false capacity*____](#false-capacity), where I have understated the matter because it cannot be overstated.
 4. I know I said three dangerous ways, but maybe there are more. And worse. Why find out? Stick to the tried and true. Be reckless about some other part of your life. The most amazing thing you ever do is bound to have rough edges if handled incorrectly. Don't pet pigs backwards, either.
 
 Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom retreating.
