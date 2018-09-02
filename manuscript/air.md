@@ -84,17 +84,11 @@ Here are further design constraints, photos, plans, and instructions for making 
 ### helix vent {#helix-vent}
 
 ![](images/helix-vent-complete.jpg)
-
 ![](images/helix-vent-core-exploded.jpg)
-
 [![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)
-
 [![plan: helix vent, channels](images/helix-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-channels.pdf)
-
 [![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-inner-wall.pdf)
-
 [![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-outer-wall.pdf)
-
 [![plan: helix vent, shell](images/helix-vent-shell.png)](http://darkroomretreat.com/img/plan/helix-vent-shell.pdf)
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 

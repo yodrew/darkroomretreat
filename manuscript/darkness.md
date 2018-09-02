@@ -328,11 +328,8 @@ Thus, these (untested) improvements should make it work.
 ### roller blind {#roller-blind}
 
 ![](images/roller-blind-closed.jpg)
-
 ![](images/roller-blind-panel&joint.jpg)
-
 ![](images/roller-blind-frame&parts.jpg)
-
 ![](images/roller-blind-rail-section.jpg)
 
 This design takes considerable time. I've built it only once. The price of manufactured fully sealed blackout roller blinds annoyed me so much, I wanted to see if it could be done for a tenth the price.

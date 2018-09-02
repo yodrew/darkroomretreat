@@ -49,11 +49,9 @@ A 20L bucket sits inside a box with a hole in the top. The return duct attaches 
 
 Dimensions: 35cmH x 60W x 60D
 
-[![plan: toilet top](images/toilet-top.png)](http://darkroomretreat.com/img/plan/toilet-top.pdf)
-
-[![plan: toilet frame](images/toilet-frame.png)](http://darkroomretreat.com/img/plan/toilet-frame.pdf)
-
-[![plan: toilet liner](images/toilet-liner.png)](http://darkroomretreat.com/img/plan/toilet-liner.pdf)
+[![plan: toilet top](images/toilet-top.png)](http://darkroomretreat.com/img/plan/toilet-top.pdf)  
+[![plan: toilet frame](images/toilet-frame.png)](http://darkroomretreat.com/img/plan/toilet-frame.pdf)  
+[![plan: toilet liner](images/toilet-liner.png)](http://darkroomretreat.com/img/plan/toilet-liner.pdf)  
 
 - top
     - platform made of 15--20 tongue and groove boards or 12--20 plywood
