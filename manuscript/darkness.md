@@ -1,4 +1,4 @@
-# 8 - darkness {#darkness}
+# 10 - darkness {#10---darkness}
 
 There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. There is a million-percent difference between 99% and 100% dark. Then the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.
 
@@ -46,7 +46,7 @@ Some measurements in the drawing are marked with a tilde (~). This means they ar
 
 ### instant {#instant}
 
-![photo: sleeping mask, instant](images/sleeping-mask-instant.jpg)
+![](images/sleeping-mask-instant.jpg)
 
 Put this one together in a few minutes. It's the mask below with no seals. Combined with a mostly darkened room, it blocks 95% of light and lets me sleep in and nap.
 
@@ -327,13 +327,13 @@ Thus, these (untested) improvements should make it work.
 
 ### roller blind {#roller-blind}
 
-![photo: roller blind, closed](images/roller-blind-closed.jpg)
+![](images/roller-blind-closed.jpg)
 
-![photo: roller blind, panel and joint](images/roller-blind-panel&joint.jpg)
+![](images/roller-blind-panel&joint.jpg)
 
-![photo: roller blind, frame and parts](images/roller-blind-frame&parts.jpg)
+![](images/roller-blind-frame&parts.jpg)
 
-![photo: roller blind, rail section](images/roller-blind-rail-section.jpg)
+![](images/roller-blind-rail-section.jpg)
 
 This design takes considerable time. I've built it only once. The price of manufactured fully sealed blackout roller blinds annoyed me so much, I wanted to see if it could be done for a tenth the price.
 

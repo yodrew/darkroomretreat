@@ -41,7 +41,3 @@
     - 8 seconds in dreamtime with elder, [____Adrian Wolfe____](http://www.efn.org/~wolfe), Oregon, 2008
     - 18 months with the Maya at Lake Atitlan, Guatemala, 2011
     - 2 months of life-altering sex, Sweden, 2012
-
-%(../faq)[____&gt;____](../acknowledgments)
-{:.arrow}
-

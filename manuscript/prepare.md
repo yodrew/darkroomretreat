@@ -1,4 +1,4 @@
-# 4 - prepare {#prepare}
+# 6 - prepare {#prepare}
 
 These things will help you prepare for a retreat. When I have offered retreats, I used the following registration form with clients as well as the menu and list of things to bring. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
 

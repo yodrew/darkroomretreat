@@ -1,4 +1,4 @@
-# 7 - air {#air}
+# 9 - air {#air}
 
 The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
 
@@ -83,9 +83,9 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ### helix vent {#helix-vent}
 
-![photo: helix vent, complete](images/helix-vent-complete.jpg)
+![](images/helix-vent-complete.jpg)
 
-![photo: helix vent core, exploded](images/helix-vent-core-exploded.jpg)
+![](images/helix-vent-core-exploded.jpg)
 
 [![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)
 

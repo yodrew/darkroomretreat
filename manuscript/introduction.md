@@ -1,6 +1,6 @@
 # introduction {#introduction}
 
-Relief. Rest. Recovery.
+Experience relief, rest, recovery:
 
 - instant relief from over-stimulation and distress
 - profound rest from exhaustion

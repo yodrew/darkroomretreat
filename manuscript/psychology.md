@@ -1,4 +1,4 @@
-# 4 - psychology {#psychology}
+# 3 - psychology {#psychology}
 
 Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects, namely trauma. Trauma doesn't happen every day. It lies beyond one's control. Change of habit affects it little. It just strikes. Suddenly it incapacitates whole systems, distorting their character and behavior beyond recognition. Trauma is the most influential force in our lives besides life itself. Hygiene was helpless. All it could do was pass the buck to doctors or priests.  This subordinated hygiene to medicine and religion for over a century.
 
