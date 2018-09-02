@@ -1,17 +1,19 @@
 # 6 - prepare {#prepare}
 
-These things will help you prepare for a retreat. When I have offered retreats, I used the following registration form with clients as well as the menu and list of things to bring. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
+The following registration form, menu, and list of things to bring help one prepare for a retreat. Whether retreating at home or at a center, I suggest you read it and fill out the questionnaire to help you prepare mentally for the retreat. Likewise, give it to those whose retreats you support.
+
+Marion Abbott amassed a [____long list of centers____](http://darknessretreats.wordpress.com) at her new blog about darkroom retreating. She also [____mapped them____](https://www.zeemaps.com/map?group=2075542). Most are spiritual or therapeutic centers, but some will support a hygienic retreat if you know what to ask for and what you are doing. More centers appear each year.
 
 ## register {#register}
 
-Register for your retreat here. Follow instructions carefully.
+Follow instructions carefully.
 
 ### general {#general}
 
-1. Read this book. Quiz later.
+1. Finish reading this book. Quiz later.
 2. Select dates for your retreat from the calendar below. Retreats begin at 18:00 and end at 12:00 four or eight mornings later. For example, a 4-day retreat that begins on Monday evening would end on Friday morning.
 3. Respond by [____*email*____](#bio) to the questionnaire below. Responses of one or two sentences per question are sufficient. 
-4. Send deposit by Bitcoin, PayPal, credit card
+4. Send deposit by cryptocurrency, PayPal, credit card, or inquire for other methods
 5. Bring things listed below
 
 ### terms {#terms}
@@ -56,10 +58,12 @@ alternate:\_\_\_\_\_\_\_\_\_\_\_\_ +/-\_\_\_ days
 13. How does the menu sound to you?
 14. Would you like to maintain silence during your retreat?
 15. Quiz:
-	a. What is the purpose of retreating?
-	b. What do I say heals you in darkness?
+	a. What is the hygienic purpose of retreating?
+	b. What heals you in darkness?
  	c. What does this imply about what to do with your will and attention?
 	d. Where is a good place to put your attention if you feel crazy or tormented by thoughts or imagery?
+	e. How much does the air you breathe weigh compared to the food you eat, and what does that imply about the importance of fresh air?
+	f. How much does a silent location matter for a successful retreat?
 16. What fears or concerns do you have that might interfere with your retreat? (fear of the dark, claustrophobia, superstition, etc)? How will you handle them? What support might you need?
 17. Assuming I am correct that practically everyone is [____psychotic____](http://darkroomretreat.com/darkness-conjecture/psychosis) how do you feel darkness might significantly affect you, for better or worse?
 18. Is there anything else you would like to add?
@@ -128,27 +132,28 @@ bitter, sweet, sour, salty, savory, spicy, crunchy, fatty
 - crunchy: lots of things
 - fatty
 	- tricky because it is surprisingly easy to overeat fat
-	- 1 time in a 4-day retreat
-	- oiliness of lettuce is usually enough
-	- eat a small quantity once per 2 days: 1/2 avocado, 15 olives
+	- with sufficient chewing, oiliness of lettuce is usually enough
 	- eat only one kind of fatty food at a time
+	- eat a small quantity once per 2-4 days: 1/2 avocado, 15 olives
 	- stick mostly to fruits, avocado and olives (rinse off oil). Eat nuts or seeds only 1-2 times/month
-	- eat no more than 10% of your daily calories from fat. 5-6% is fine. Look up calories for a week to learn this.
+	- eat no more than 10% of your daily calories from fat. 5-6% is best. Look up calories for a week to learn this at [____fitday.com____](https://fitday.com).
 
 no: 
-- vinegar or other ferments
+- ferments, like vinegar (the second stage of fermentation beyond alcohol and even more toxic. It's a digestive disaster.)
 - onions, garlic, ginger
-- salt or spices 
-- juice, oil, dried food, or other fractured foods
+- spices or salt
+- fractured foods like juice, oil, dried food
 - nuts, seeds
 
-These imbalance, overload, or destroy digestive chemistry, bacteria, and enzymes. Good things you hear about vinegar, garlic, and ginger are hype.
+These imbalance, overload, or destroy digestive chemistry, bacteria, and enzymes. The good things you hear about vinegar, garlic, and ginger are hype.
 
-If you would like to know more about this menu before trying it, read
+If you would like to know more about this menu before trying it, see:
 
-- the food sections in [____*distinctions & mechanics*____](http://darkroomretreat.com/distinctions-mechanics#food) and [____*protocol*____](#food) and Dr Douglas Graham's masterful  
-[____*The 80/10/10 Diet*____](http://foodnsport.com)
-- if you somehow cannot eat this way, eat as simply and naturally as you know how. For suggestions, write me with your limitations.
+- [____*darkroom-retreat > food*____](http://darkroomretreat.com/dadrkroom-retreat#food) and [____*protocol > food*____](#food)
+- Dr Douglas Graham's masterful  [____*The 80/10/10 Diet*____](http://foodnsport.com)
+- [____Loren Lockman's videos____](https://www.youtube.com/user/LorenLockman)
+
+If you somehow cannot eat this way, eat as simply and naturally as you know how. For suggestions, write me with your limitations.
 
 ## bring {#bring}
 
