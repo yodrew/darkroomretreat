@@ -9,9 +9,13 @@ This limitation disappears with two changes:
 
 Hygiene becomes a complete system of health capable of addressing every illness people face, physical and psychic. No longer need anyone bear the perennial costs and failures of medicine and other semi-scientific systems rooted in the mystical doctrine of original sin and practice of exorcism. 
 
-By healing from trauma, we not only end dysfunction and suffering. We prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. Medicine can only treat trauma It's really that simple. We are all moments from relief, days from restedness, weeks from healing, months from total recovery from ten millennia of abysmal problems, failure, disease, and suffering. The cause of joy---an organism restored to wholeness---is at hand.
+By healing from trauma, we not only end dysfunction and suffering. We can prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. It is that simple. 
 
-Safe and comfortable in the submarine of our new understanding, we will plumb the depths of the hygienic use of darkness. We will begin by reviewing and critiquing hygiene's existing framework for understanding illness: its incisive pathology. Then we will go beyond it in frank discussions of trauma, psychosis and their deeper social and natural causes. We will finish with an outline of a new and hygienic psychology, which promises to unleash hygiene's power and lift humanity from its debilitated state.
+Medicine can only deal with trauma after the fact. Its tricks for treating it impress us, and we respect the willingness of doctors to try. Though if medicine we science, it could explain, predict, and prevent further trauma. But look at all the attention it puts on treatment. It represents a declaration of failure to understand and of helplessness to eliminate the cause of our recurring disasters.
+
+We are all a moment from relief, days from restedness, weeks from healing, and months from total recovery from ten millennia of abysmal problems, failure, and suffering. The cause of joy---an organism restored to wholeness---is at hand.
+
+Safe in the submarine of our new understanding, we will plumb the depths of the hygienic use of darkness. We will begin by reviewing and critiquing hygiene's existing framework for understanding illness: its incisive **pathology**. Then we will go beyond it in frank discussions of **trauma**, **psychosis** and their deeper social and natural causes (**cataclysm**). We will finish with an outline of a new and **hygienic psychology**, which promises to unleash hygiene's power and lift humanity from its debilitated state.
 
 ## pathology {#pathology}
 
@@ -213,7 +217,9 @@ In light of the essence of hygiene, _conditional self-preservation_; the restful
 5. Profound psychic rest occurs physiologically in an extended period in absolutely dark environment.
 6. Therefore, by retreating in darkness, we gain relief, rest, and restoration to health, happiness, and harmony.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported. The conscious is helpless in any case. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^5]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. The conscious is otherwise helpless. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^5]
+
+### fasting {#fasting}
 
 Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^6]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
 
@@ -223,23 +229,25 @@ Furthermore, darkroom retreating is inherently much safer to do alone. In darkne
 
 Professional hygienic fasting supervisors attempt to substitute themselves for these prerequisites of fasting or teach them in the usual slow, incomplete way. Consequently, only hundreds of people fast per year in a remotely proper way, not the billions who need to. Hygienic darkroom retreating recontexualizes the work of fasting supervisors. Retreating in darkness themselves, they will regain the capacity to operate at a global scale, not just with the lucky few.
 
+### miracle {#miracle}
+
 As in fasting, one hardly knows in darkness what the organism is doing at its deepest levels. Occasionally there is a chance to consciously participate in the process. Or to find out _why_ things have gone wrong if it is important to change ideas and behavior related to it. At mostly one feels discomfort or a strange subterranean rumbling.
 
 But one always knows the result: restoration of function---recovery of the lost self---usually accompanied by feelings of contentedness, presence, and euphoria. Darkroom retreating reveals the marvelous self-healing power of the organism under proper conditions. But for those who have suffered and failed for years with other approaches, the process is nothing less than miraculous. As with the rest of hygiene, time in darkness shows that if one wants a miracle, one need only provide its conditions.
 
-And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed.
+And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed. 
 
-The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and darkness's greater importance than fasting for resting and healing have massive implications for hygiene's pathology and destiny. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I have developed these implications in [____*hygiene notes*____](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
+The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and darkness's greater importance than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [____*hygiene notes*____](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
 
-I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, you can study further. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
+I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
 [____*The Science and Fine Art of Natural Hygiene*____](https://darkroomretreat.com/nhs.pdf).
 
 &nbsp;
 
 [^1]: Joseph Chilton Pearce, _Evolution's End_
 [^2]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
- [^3]: David Wilcock, "Enigma 2012". https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/
-[^4]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_
-[^5]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_
-[^6]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html), quoted online
+[^3]: David Wilcock, [____Enigma 2012____](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
+[^4]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
+[^5]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
+[^6]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html
 
