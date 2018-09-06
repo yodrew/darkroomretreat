@@ -5,7 +5,7 @@ Welcome to the political-economy of _cool_, where you get rewarded for cooperati
 1. [____Copyleft____](http://sam.zoy.org/wtfpl) 2009-2015 by [____Andrew Durham____](http://darkroomretreat.com/). Copying is an act of [____♥____](http://copyheart.org). Please copy, distribute, and sell (yes, _sell_) this book in its entirety or its industrial applications, ie, darkroom components, in any media or business venture for your own personal gain.
 2. I would like credit where due, so I will recognize and link to you on this site if you:
     1. credit me for a quotation or excerpt and tell me where it appears
-    2. share suggestions for text or designs by [____making pull requests, opening issues____](https://github.com/yodrew/yodrew.github.io), or sending [____*email*____](#bio)
+    2. share suggestions for text or designs by making pull requests or opening issues in my [____github repo____](https://github.com/yodrew/yodrew.github.io), or sending [____*email*____](#bio)
     3. include this license in your partial reprints of my work and with instructions accompanying components
     4. include a printed or electronic copy of this book with components (a link is sufficient)
 3. Furthermore, I will also give you my [____endorsement____](http://questioncopyright.org/creator_endorsed), a visible mark to use in your marketing copy if you: 

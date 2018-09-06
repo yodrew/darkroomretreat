@@ -175,4 +175,4 @@ This is the theory of hygiene as regards our subject. Let us see more precisely 
 &nbsp;
 
 [^1]: TC Fry, [____*The Life Science Health System*____](http://www.scribd.com/doc/225734352/The-Life-Science-Health-System-T-C-Fry), a paraphrase of original quote by Herbert Shelton in  [____*Natural Hygiene: Man's Pristine Way of Life*____](http://soilandhealth.org/wp-content/uploads/02/0201hyglibcat/020125shelton.pristine/020125ch8.htm)
-[^2]: Herbert Shelton, back cover of [____*The Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf)
+[^2]: Herbert Shelton, [____*The Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf), back cover
