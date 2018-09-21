@@ -83,13 +83,13 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ### helix vent {#helix-vent}
 
-![](images/helix-vent-complete.jpg)
-![](images/helix-vent-core-exploded.jpg)
-[![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)
-[![plan: helix vent, channels](images/helix-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-channels.pdf)
-[![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-inner-wall.pdf)
-[![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-outer-wall.pdf)
-[![plan: helix vent, shell](images/helix-vent-shell.png)](http://darkroomretreat.com/img/plan/helix-vent-shell.pdf)
+![](images/helix-vent-complete.jpg)  
+![](images/helix-vent-core-exploded.jpg)  
+[![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)  
+[![plan: helix vent, channels](images/helix-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-channels.pdf)  
+[![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-inner-wall.pdf)  
+[![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-outer-wall.pdf)  
+[![plan: helix vent, shell](images/helix-vent-shell.png)](http://darkroomretreat.com/img/plan/helix-vent-shell.pdf)  
 
 I call it a helix vent because of how air actually moves through it: like a corkscrew. It might look like air would zigzag through like light. But air is a fluid like water and takes the path of least resistance. Which is to maintain the same curved trajectory by _helixing_ through. Because the helix is the natural form of fluids in motion under any circumstance, this minimizes friction within the airstream as well. 
 
@@ -158,8 +158,7 @@ If greater than 33mm, add cardboard or wood to the bottom of the door or build u
 
 Block light that reaches the door from the outside as much as possible. For example, make a [____removable partition____](http://andrewdurham.shutterfly.com/313) in the hallway, which can also darken the path between darkroom and bathroom. It's a wooden frame a little wider than the hallway so it wedges in at an angle, with a fleece seal around the frame, filled with black plastic sheeting with helix vents as needed.
 
-[![plan: threshold vent perspective](images/threshold-vent-perspective.png)](http://darkroomretreat.com/img/plan/threshold-vent-perspective.pdf)
-
+[![plan: threshold vent perspective](images/threshold-vent-perspective.png)](http://darkroomretreat.com/img/plan/threshold-vent-perspective.pdf)  
 [![plan: threshold vent](images/threshold-vent.png)](http://darkroomretreat.com/img/plan/threshold-vent.pdf)
 
 1. materials
