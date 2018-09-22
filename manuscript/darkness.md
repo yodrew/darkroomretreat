@@ -28,6 +28,8 @@ We will start with the simplest and most portable design, which darkens the smal
 
 [![plan: sleeping mask](images/sleeping-mask.png)](http://darkroomretreat.com/img/plan/sleeping-mask.pdf)  
 
+&nbsp;
+
 The quickest way to obtain a large measure of darkness wherever you are is to cover your eyes with a good sleeping mask. No mask is comfortable for long periods while blocking all light and staying in place. And our skin has enough light-receptors for it to wake us up. So it doesn't replace a darkroom. But it is cheap, quick, accessible, discreet, and very effective for immediately improving sleep. It is a good first step toward the profound rest darkness makes possible.
 
 I have not tried every mask on the market. But so far, none has satisfied my requirements. So I designed one that works well. The strap design is very effective and would improve most existing masks. Instant and standard versions described below.
@@ -47,6 +49,8 @@ Some measurements in the drawing are marked with a tilde (~). This means they ar
 ### instant {#instant}
 
 ![](images/sleeping-mask-instant.jpg)
+
+&nbsp;
 
 Put this one together in a few minutes. It's the mask below with no seals. Combined with a mostly darkened room, it blocks 95% of light and lets me sleep in and nap.
 
@@ -250,7 +254,7 @@ Attach a handle to the panel so you can lift it in and out. Just a 30 x 30 x 30 
 Note: the plan view in this drawing shows just the top left corner of the blind and how the various materials come together.   
 [![plan: velcro blind](images/velcro-blind.png)](http://darkroomretreat.com/img/plan/velcro-blind.pdf)
 
-I am still testing this design. At first, I cut the fabric from an IKEA Tupplar blackout blind and attached it to a window frame with adhesive velcro (hook&loop). This was the prototype. It only took an hour and it almost worked! Problems:
+I am still testing this design. At first, I cut the fabric from an IKEA Tupplar blackout blind and attached it to a window frame with adhesive velcro (hook & loop). This was the prototype. It only took an hour and it almost worked! Problems:
 
 - light leaks sideways through the hook and loop of 25mm-wide black velcro!
 - fabric is not perfectly lightproof in one layer
@@ -344,6 +348,8 @@ This design takes considerable time. I've built it only once. The price of manuf
 [![plan: roller blind, frame](images/roller-blind-frame.png)](http://darkroomretreat.com/img/plan/roller-blind-frame.pdf)  
 [![plan: roller blind, panel](images/roller-blind-panel.png)](http://darkroomretreat.com/img/plan/roller-blind-panel.pdf)  
 [![plan: roller blind, parts](images/roller-blind-parts.png)](http://darkroomretreat.com/img/plan/roller-blind-parts.pdf)
+
+&nbsp;
 
 - materials
     - white IKEA Tupplur blackout blind, enough for double layers (don't get black; the coating seems to be thinner and actually leaks more light)
