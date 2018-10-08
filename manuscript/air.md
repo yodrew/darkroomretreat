@@ -31,7 +31,7 @@ Somehow, it must be done. Forget darkness a moment. We have no more urgent conce
 ### constraints {#constraints-ventilation}
 
 - provides plenty of fresh air
-- lightproof
+- absolutely lightproof
 - silent: hum and harmonics from fan and exterior noises extinguished
 - comfortable temperature: no undesired cold drafts
 - economical: ie, no wasted heat to the outdoors. This is more involved and a lower priority than retreating itself, so don't get stuck on it. It requires a heat recovery ventilator (HRV). Besides significantly lowering heating costs, an HRV improves air quality and comfort in nearly all climates. More about it below.
@@ -70,13 +70,14 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ### constraints {#constraints-lightproof}
 
-(helix vent specifications in parentheses){threshold vent specifications in curly braces}:
+(helix vent specifications in parentheses / helix sr version){threshold vent specifications in curly braces}:
 
-- durable (protective cardboard shell){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
+- durable (protective cardboard shell or inside silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (80mm) or door and threshold {adjustable}
 - cross-sectional area >75cm^2^ (90cm^2^){60--120cm^2^}
-- short airway (260mm){140mm} 
-- minimal size (80 x 265 x 280){fits under door, sticks out 20mm each side and up 60mm}
+- fully traps light, sending light around at least 5 corners (7 corners / 5 corners){6 corners} 
+- short airway (240mm / in-silencer version, 160){140mm} 
+- minimal size (87 x 220 x 216 / in-silencer version 87 x 148 x 260){fits under door, sticks out 20mm each side and up 60mm}
 - easy to make (so-so){yes}
 - elegant (yes: simple compact form, uses common materials, zig-zag-shaped passage accommodates natural helical movement of air){yes}
 - cheap ($4 in materials, 2-hour assembly time){$2 in materials, 1-hour assembly time}
@@ -97,10 +98,16 @@ I call it a helix vent because of how air actually moves through it: like a cork
 
 The helix vent can go anywhere. Flaps of either its edge or face opening poke through a slot and get taped or glued down to the other side. 
 
- - window: attach it to the back of a blind and crack the window behind it. 
- - door: cut slot(s) in it and use helix vent instead of a threshold vent. 
- - wall (leading outside or to another room): attach vent to a flat cardboard box and attach box to the wall over the vent. Vent can be either supply or return
- - silencer: inside (without shell) or out, attached at face or edge
+- blind: attach it to the back of a blind and crack the window behind it. 
+- door: cut slot(s) in it and use helix vent instead of a threshold vent. 
+- wall (leading outside or to another room): attach vent to a flat cardboard box and attach box to the wall over the vent. Vent can be either supply or return
+- silencer
+    - outside: with shell, attached at face opening
+    - inside: without shell, attached at face or edge. I also made a second "sr" version. It is simpler, more efficient, higher capacity that attaches at the edge. It has fewer light stopping corners and no shell, so it is only for installing inside the silencer or other enclosure with two or more corners.
+
+[![plan: helix vent sr, assembly](images/helix-vent-sr-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-sr-assembly.pdf)
+
+Find channel and wall drawings in the [____zip file____](http://darkroomretreat.com/darkroom-retreat.zip)
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
