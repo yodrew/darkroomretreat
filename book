@@ -28,8 +28,9 @@ sed -i 's,](/about,](/bio,g' license.md prepare.md
   # superscript
 sed -i 's,<sup>,^,g' *.md 
 sed -i 's,</sup>,^,g' *.md
-perl -p -i -e 's,(^|[^!])\[([^^!\]]+),\1\[____\2____,g' *.md
   #links
+  # underline
+perl -p -i -e 's,(^|[^!])\[([^^!\]]+)\]\(,\1\[____\2____\]\(,g' *.md
     # image
 perl -pi -e 's,\]\(/img/plan/image/,\]\(images/,g' *.md
 perl -pi -e 's,[a-z:\, ]+\]\(/img/photo/,\]\(images/,g' *.md

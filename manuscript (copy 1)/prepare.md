@@ -36,7 +36,7 @@ Follow instructions carefully.
 
 &nbsp;
 
-\[placeholder for google calendar\]
+\[____placeholder for google calendar\____]
 
 &nbsp;
 

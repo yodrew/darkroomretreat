@@ -177,7 +177,7 @@ Sixteen laws is too great a number for the mind to apprehend at once. So over ti
 
 This is the theory of hygiene as regards our subject. Let us see more precisely what it means in practice.
 
-[Editor's note: this chapter was getting long so I divided it in three: hygiene, darkroom retreat, psychology]
+[____Editor's note: this chapter was getting long so I divided it in three: hygiene, darkroom retreat, psychology____]
 
 &nbsp;
 

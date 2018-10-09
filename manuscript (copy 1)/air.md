@@ -107,8 +107,6 @@ The helix vent can go anywhere. Flaps of either its edge or face opening poke th
 
 [![plan: helix vent sr, assembly](images/helix-vent-sr-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-sr-assembly.pdf)
 
-&nbsp;
-
 Find channel and wall drawings in the [____zip file____](http://darkroomretreat.com/darkroom-retreat.zip).
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
