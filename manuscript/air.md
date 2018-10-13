@@ -85,12 +85,15 @@ Here are further design constraints, photos, plans, and instructions for making 
 ### helix vent {#helix-vent}
 
 ![](images/helix-vent-complete.jpg)  
-![](images/helix-vent-core-exploded.jpg)  
+
+This photo is of the old helix vent. The new one is shorter, narrower, thicker, but otherwise the same.
+
 [![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)  
 [![plan: helix vent, channels](images/helix-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-channels.pdf)  
 [![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-inner-wall.pdf)  
 [![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-outer-wall.pdf)  
 [![plan: helix vent, shell](images/helix-vent-shell.png)](http://darkroomretreat.com/img/plan/helix-vent-shell.pdf)  
+[![plan: helix vent, slot](images/helix-vent-slot.png)](http://darkroomretreat.com/img/plan/helix-vent-slot.pdf)  
 
 &nbsp;
 
@@ -103,13 +106,7 @@ The helix vent can go anywhere. Flaps of either its edge or face opening poke th
 - wall (leading outside or to another room): attach vent to a flat cardboard box and attach box to the wall over the vent. Vent can be either supply or return
 - silencer
     - outside: with shell, attached at face opening
-    - inside: without shell, attached at face or edge. I also made a second "sr" version. It is simpler, more efficient, higher capacity that attaches at the edge. It has fewer light stopping corners and no shell, so it is only for installing inside the silencer or other enclosure with two or more corners.
-
-[![plan: helix vent sr, assembly](images/helix-vent-sr-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-sr-assembly.pdf)
-
-&nbsp;
-
-Find channel and wall drawings in the [____zip file____](http://darkroomretreat.com/darkroom-retreat.zip).
+    - inside: without shell, attached at face or edge. I also made a second "s" version (s for short, straight, silencer). It is simpler, more efficient, higher capacity that attaches at the edge. It has fewer light-stopping corners and no shell, so it is only for installing inside the silencer or other enclosure with two or more corners. S version drawings in next section.
 
 If your darkroom's ventilation is passive, put vents both low and high in room to enable convection. This works better the greater the inside and outside temperature difference; the greater the vertical distance between vents; and the more vents. 
 
@@ -146,13 +143,14 @@ Read through instructions once while studying plans.
 	- when not in use, store core inside shell, taping up flap by edge opening. Cover exposed part of core with scrap piece of cardboard to protect core from being crushed.
 6. installation
     1. determine vent location 
-    	- in blind, panel or silencer
+    	- in blind, panel, or silencer
     	- whether it will attach at edge or face opening
-    	- shell is likely unnecessary when core is attached inside silencer
-        - vent should not touch window handles, locks, and frame 
-    2. mark slot with slot template: 
-    	- face opening, 50 x 216 (most common, uses shell unless inside silencer)
-    	- edge opening, 63 x 216 (no shell, inside silencer)
+    	- shell is unnecessary when installed inside silencer or other enclosure
+        - vent should not touch window handles, locks, or frame 
+    2. mark slot with slot plan
+        - the slot plan spaces slot correctly on most blinds and panels
+    	- face opening, 50 x 216, on blinds, panels, or outside silencer, with shell
+    	- edge opening, 63 x 216, inside silencer or other enclosure, without shell
     3. cut out slot
     4. position vent over slot and fit vent flaps through it
     5. when attaching to soft window covering like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
@@ -160,6 +158,16 @@ Read through instructions once while studying plans.
     7. repeat with other long flap, then with short flaps
     8. attach shell to cover with tape, glue, or screws going through cover, into wooden braces if cover is soft
     9. cover shell with foil and/or white paper to minimize warping by sun
+
+### helix-s {#helix-s}
+
+[![plan: helix-s vent, assembly](images/helix-s-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-s-vent-assembly.pdf)  
+[![plan: helix-s vent, channels](images/helix-s-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-s-vent-channels.pdf)  
+[![plan: helix-s vent, inner-wall](images/helix-s-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-s-vent-inner-wall.pdf)  
+[![plan: helix-s vent, outer-wall](images/helix-s-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-s-vent-outer-wall.pdf)  
+[![plan: helix-s vent, slot](images/helix-s-vent-slot.png)](http://darkroomretreat.com/img/plan/helix-s-vent-slot.pdf)  
+
+Follow helix vent instructions above, adapting as necessary.
 
 ### threshold vent {#threshold-vent}
 

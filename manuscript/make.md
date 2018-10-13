@@ -1,7 +1,7 @@
 # 8 - make {#make}
 
 > "The time for half-measures and talk is over."  
---Maximus in _Gladiator_
+ -- Maximus in _Gladiator_
 
 &nbsp;
 
@@ -17,9 +17,9 @@ I suggest that, your first time through these chapters, you read everything in t
 
 All components rely on the basic instructions in the following sections: **metric**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
-[____7&nbsp; air____](#air)  
-[____8&nbsp; darkness____](#darkness)  
-[____9&nbsp; water____](#water)  
+>> [____9&nbsp; air____](#air)  
+[____10&nbsp; darkness____](#darkness)  
+[____11&nbsp; water____](#water)  
 
 After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone. And you won't be able to see anything, either. Haha.
 
