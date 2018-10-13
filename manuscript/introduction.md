@@ -1,6 +1,6 @@
 # introduction {#introduction}
 
-## relief, rest, recovery {#relief,-rest,-recovery}
+## relief, rest, recovery {#relief-rest-recovery}
 
 In our way of life---our media blitz, cities, and economy---we are over-stimulated and distressed. We need relief.
 
