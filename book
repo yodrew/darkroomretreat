@@ -57,7 +57,8 @@ perl -p -i -e 's,\(\/,\(http:\/\/darkroomretreat.com\/,g' *.md
 perl -p -i -e 's/^(#+ )([1-9]+ )*(- )?([A-Za-z0-9 ,_-]+)/\1\2\3\4 \{#\4\}/g' *.md
     # fix
 		# misc
-perl -pi -e 's/{#relief, rest, recovery}/{#relief rest recovery}/g' blurb.md
+perl -pi -e 's/{#relief, rest, recovery}/{#relief rest recovery}/g' blurb.md introduction.md
+perl -pi -e 's,&nbsp;,g' hygiene.md
 		# duplicates
 # remove dashes in titles: perl -p -i -e 's,\{#([^\}-]+)- ,\{#$1,g' *.md
 perl -pi -e '$a=1 if(!$a && s/{#constraints}/{#constraints-ventilation}/);' air.md
