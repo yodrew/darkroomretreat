@@ -9,12 +9,14 @@ rsync -auv photo/*.jpg ../../darkroomretreat/manuscript/images
 rsync -auv plan/image/*.png ../../darkroomretreat/manuscript/images
 rsync -auv plan/image/book/*.png ../../darkroomretreat/manuscript/images
 # text
+
+
   # collect
-cd ../_pages
-cp blurb.md notes.md foreword.md preface.md introduction.md hygiene.md darkroom-retreat.md psychology.md format.md protocol.md prepare.md design.md make.md air.md darkness.md water.md faq.md about/bibliography-influences.md about/acknowledgments.md about/services.md about/license.md about/bio.md ../../darkroomretreat/manuscript
+cd darkroomretreat/manuscript
+cp blurb.md <(echo) notes.md <(echo) foreword.md <(echo) preface.md <(echo) introduction.md <(echo) hygiene.md <(echo) darkroom-retreat.md <(echo) psychology.md <(echo) format.md <(echo) protocol.md <(echo) prepare.md <(echo) design.md <(echo) make.md <(echo) air.md <(echo) darkness.md <(echo) water.md <(echo) faq.md <(echo) bibliography-influences.md <(echo) acknowledgments.md <(echo) services.md <(echo) license.md <(echo) bio.md ../../cat/cat.md
+cd ../../cat
   # YAML
-cd ../../darkroomretreat/manuscript
-perl -p -i -e 's,---\n,,s' *.md
+cd ..perl -p -i -e 's,---\n,,s' *.md
 perl -p -i -e 's,title:,#,s' *.md
 perl -i -nle 'print if !/layout:/' *.md
 perl -i -nle 'print if !/permalink:/' *.md
@@ -25,17 +27,6 @@ sed -i 's/^####/##/g' *.md
   # miscellaneous
 sed -i 's/ {at} /@/g' bio.md license.md
 sed -i 's,](/about,](/bio,g' license.md prepare.md
-  # footnotes
-perl -pi -e 's,\[\^3\],\[\^5\],g' darkroom-retreat.md
-perl -pi -e 's,\[\^2\],\[\^4\],g' darkroom-retreat.md
-perl -pi -e 's,\[\^1\],\[\^3\],g' darkroom-retreat.md
-perl -pi -e 's,\[\^7\],\[\^12\],g' psychology.md
-perl -pi -e 's,\[\^6\],\[\^11\],g' psychology.md
-perl -pi -e 's,\[\^5\],\[\^10\],g' psychology.md
-perl -pi -e 's,\[\^4\],\[\^9\],g' psychology.md
-perl -pi -e 's,\[\^3\],\[\^8\],g' psychology.md
-perl -pi -e 's,\[\^2\],\[\^7\],g' psychology.md
-perl -pi -e 's,\[\^1\],\[\^6\],g' psychology.md
   # superscript
 sed -i 's,<sup>,^,g' *.md 
 sed -i 's,</sup>,^,g' *.md
