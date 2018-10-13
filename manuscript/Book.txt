@@ -1,9 +1,8 @@
-frontmatter.txt
+mainmatter.txt
 blurb.md
 notes.md
 foreword.md
 preface.md
-mainmatter.txt
 introduction.md
 hygiene.md
 darkroom-retreat.md
