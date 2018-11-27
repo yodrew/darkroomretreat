@@ -1,8 +1,8 @@
 # 9 - air {#air}
 
-Ventilating a darkroom is trickier than darkening it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
+The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed! So we'll look at ventilation first and darkness in the next chapter.
 
-Even trickier is making it quiet. With noise, we are usually at the mercy of our neighbors whereas we could buy an air purifier if necessary. Ventilation most affects the silence of a darkroom. It also affects temperature. Let's examine each condition and see how they work together in a mechanical system.
+Even trickier is making it quiet. With noise pollution, we are usually at the mercy of our neighbors whereas with air pollution, we could buy a purifier if necessary. Ventilation most affects the silence of a darkroom. It also affects temperature. Let's examine each condition and see how they work together in a mechanical system.
 
 ## ventilation {#ventilation}
 
@@ -12,7 +12,7 @@ Below, I will give design constraints and describe various systems of ventilatio
 
 I have observed a shocking number of people who seem oblivious to their own need for fresh air. Even though everyone knows we die within minutes without air, the importance of constant fresh air has somehow escaped many. I can only attribute this negligence to mass psychosis, my explanation for other appalling features of civilized life. At the risk of insulting your intelligence, I am bound to address this fact of life, though it is one of the most basic, most obvious ones of all.
 
-Fresh air is always important. It is a normal condition of life and, along with warmth and safety, one of our most urgent necessities. Every second of our lives, pentillions of organic processes occur, and virtually all of them require oxygen. It is the most important nutrient we consume. We can live days without water and weeks without food. Not so, air.
+Fresh air is always important. It is a normal condition of life and, along with warmth and safety, one of our most urgent necessities. Every second of our lives, quintillions of organic processes occur, and virtually all of them require oxygen. It is the most important nutrient we consume. We can live days without water and weeks without food. Not so, air.
 
 Just like food, air becomes a part of one's organism with every breath. This affects quality of life to a very great degree. Though it weighs little, the amount of air you breathe weighs twice as much as the food you eat. In a darkroom, you have little to do all day besides breathe. So if you haven't usually paid attention to air quality, you will likely notice it in darkness. 
 
@@ -72,7 +72,7 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 (helix vent specifications in parentheses / helix sr version){threshold vent specifications in curly braces}:
 
-- durable (protective cardboard shell or inside silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
+- durable (protected by cardboard shell or silencer){subject to damage by kicking but easily rebuilt and can be made of sheet metal or shielded with cardboard or thin wooden boards}
 - thin enough to fit between blind and window (80mm) or door and threshold {adjustable}
 - cross-sectional area >75cm^2^ (90cm^2^){60--120cm^2^}
 - fully traps light, sending light around at least 5 corners (7 corners / 5 corners){6 corners} 

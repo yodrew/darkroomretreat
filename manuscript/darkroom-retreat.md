@@ -8,7 +8,7 @@ Here I make natural observations of the psyche and darkness; show how hygiene ap
 
 ### psyche {#psyche}
 
-Shelton reviews hygienic ideas about the psyche: "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^3] And here is Shelton's own unsentimental view: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^4] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
+Shelton reviews hygienic ideas about the psyche: "Graham pointed out that the 'vital instincts' behaved as though directed by intelligence. Tilden held that physiology is 'organized psychology.'"[^5] And here is Shelton's own unsentimental view: "The conscious functions of the body serve primarily to protect and provide the needs of the subconscious functions."[^4] This means consciousness is not an end in itself. It serves a biological function. Hygiene views consciousness as primarily autonomic (unconscious), secondarily volitional (conscious).
 
 Furthermore, the psyche is the _primary_ system in the human organism. "Consciousness---for those living organisms which possess it---is the basic means of survival," as philosopher, Ayn Rand, put it in her _meta-ethics_[^5]. The psyche coordinates all other systems. It does so consciously, subconsciously, and unconsciously. The psyche is diffuse throughout the organism, functioning at every scale, autonomically monitoring and harmonizing every one of sextillions (1,000,000,000,000,000,000,000) of organic processes per second (trillions of cells X 1 billion processes per cell). Whatever affects the psyche for good or ill greatly affects the rest of the organism likewise.
 
@@ -202,7 +202,7 @@ Deeper preparation than that is made the same way you prepare for weeks in tract
 
 &nbsp;
 
-[^3]: Herbert Shelton, [____*The Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf), p 35
+[^5]: Herbert Shelton, [____*The Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf), p 35
 [^4]: Ibid, p 139
 [^5]: Ayn Rand, _The Virtue of Selfishness_, p18, "The Objectivist Ethics"
 

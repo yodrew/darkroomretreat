@@ -19,6 +19,7 @@ perl -p -i -e 's,title:,#,s' *.md
 perl -i -nle 'print if !/layout:/' *.md
 perl -i -nle 'print if !/permalink:/' *.md
 perl -i -nle 'print if !/navprev:/' *.md
+perl -i -nle 'print if !/navup:/' *.md
 perl -i -nle 'print if !/navnext:/' *.md
   # header hashmarks
 sed -i 's/^####/##/g' *.md
@@ -58,7 +59,7 @@ perl -p -i -e 's/^(#+ )([1-9]+ )*(- )?([A-Za-z0-9 ,_-]+)/\1\2\3\4 \{#\4\}/g' *.m
     # fix
 		# misc
 perl -pi -e 's/{#relief, rest, recovery}/{#relief rest recovery}/g' blurb.md
-perl -pi -e 's,&nbsp;,g' hygiene.md
+perl -p -i -e 's,\n&nbsp;,,s' hygiene.md
 		# duplicates
 # remove dashes in titles: perl -p -i -e 's,\{#([^\}-]+)- ,\{#$1,g' *.md
 perl -pi -e '$a=1 if(!$a && s/{#constraints}/{#constraints-ventilation}/);' air.md

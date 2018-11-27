@@ -1,7 +1,7 @@
 # bibliography and influences {#bibliography-and-influences}
 
 - indigeny vs industry 
-    - Jim Woods at Herrett Museum, Twin Falls
+    - Jim Woods at Herrett Museum, Twin Falls (with thanks to Janie Brumbach, RIP)
     - _Magical Child Matures_, [____Joseph Chilton Pearce____](http://www.ttfuture.org/jcp/front)
     - _The Songlines_, Bruce Chatwin
     - _The Continuum Concept_, [____Jean Liedloff____](http://continuum-concept.org)

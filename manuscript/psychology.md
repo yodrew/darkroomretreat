@@ -1,5 +1,7 @@
 # 3 - psychology {#psychology}
 
+## intro {#intro}
+
 Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects, namely trauma. Trauma doesn't happen every day. It lies beyond one's control. Change of habit affects it little. It just strikes. Suddenly it incapacitates whole systems, distorting their character and behavior beyond recognition. Trauma is the most influential force in our lives besides life itself. Hygiene was helpless. All it could do was pass the buck to doctors or priests.  This subordinated hygiene to medicine and religion for over a century.
 
 This limitation disappears with two changes: 
@@ -23,11 +25,11 @@ Pathology is the study of disease: its symptoms, causes, and nature. Pathology g
 
 The doctrine of original sin says life is inherently corrupt and impotent. Accordingly, allopathy views disease as natural and unavoidable. Nevermind that an intact organism is healthy; that life logically implies health; that disease logically depends on health; that nature requires health; tha without it, we are obviously headed toward the abyss; that near-universal health in the rest of nature contradicts the idea of life's sinfulness. Allopathy just doubles down on its mystical assertions of human exceptionalism while pretending to be rational and scientific. Meanwhile, it views health as an unexplainable stroke of luck. "You have a good constitution," doctors say, as if that is a helpful explanation. But they see nothing really wrong when people get sick. Medicine is not an abject failure. It's just how life is.  
 
-This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look another level of causation down in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, germ theory of disease in hand.
+This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look down another level of causation in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, germ theory of disease in hand.
 
-The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. Trouble is, germs don't always result in the disease associated with them, and they aren't always present in it. So much for the germ theory. 
+The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. Trouble is, germs don't always result in the disease associated with them, they aren't always present in it, and getting rid of them doesn't always get rid of the disease. So much for the germ theory. 
 
-On the other hand, a distinct pattern of vital factors, history, and lifestyle can be detected in those who suffer and a quite different one in those who don't. The differences reveal the decisive causes and their ordinary character. In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^6], so this often works better.
+On the other hand, a distinct pattern of vital factors, history, and lifestyle can be detected in those who suffer and a quite different one in those who don't. The differences reveal the decisive causes and their ordinary character. In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^11], so this often works better.
 
 The hygienist's rational and benevolent view of disease keeps him cool as a cucumber. He does not react. He observes. He studies. Disease is a normal function of an organism under poor conditions, not a foreign entity to attack and expel. Hygiene makes the time necessary to correct allopathy's drunken imbalances with careful etiology (study of causes). 
 
@@ -47,15 +49,15 @@ We have [____Victoria Bidwell____](http://getwellstaywell.com), a tireless conte
 6. Induration: Induration is the result of long-standing, chronic inflammation with bouts of acute inflammation interspersed. The chronic inflammation causes an impairment or sluggishness of circulation: and because some cells succumb, they are replaced with scar tissue. This is the way we lose good, normal-functioning cells — by chronic inflammation and death of cells. Toxins may or may not be encapsulated in a tumor, sac, wen, or polyp. The Toxic Sufferer endures even more physical pain, which is intensified by the emotional distress of realizing that he is only getting worse, regardless of his earnest, obedient, even heroic attempts to get well. Standard medical doctors continue with both drugging and surgery and all other kinds of modalities deemed appropriate, both conventional and experimental. ("Induration" means "hardening" or "scarring" of tissues.)
 7. Fungation (cancer): Cellular integrity is destroyed through their disorganization and/or cancerous proliferation. Tissues, organs, and whole systems lose their ability to function normally. Biochemical and morphological changes from the depositing of Endogenous and Exogenous Toxins bring about degenerations and death at the cellular level. The Toxic Sufferer is "a pathological mess": he is on his deathbed. Standard medical doctors declare at this stage: "There is no hope left. You have just so much longer to live. You need to make preparations accordingly." Failure of vital organs eventually results in death.
 
-### comments {#comments}
+### revision {#revision}
 
-Tilden's analysis shows the close relationship between enervation and toxemia as the two most obvious causes of all illness. Indeed, they play a huge part in ongoing symptomology. It explains hygiene's success for two centuries in supporting the recovery of countless people whose cases allopathy had pronounced hopeless merely by putting them to bed with plenty of water and fresh air, and not poisoning them with drugs. 
+Tilden's analysis shows the close relationship between enervation and toxemia as two of the most obvious causes of all illness. Indeed, they play a huge part in ongoing symptomology. It explains hygiene's success for two centuries in supporting the recovery of countless people whose cases allopathy had pronounced hopeless merely by putting them to bed with plenty of water and fresh air, and not poisoning them with drugs. 
 
-If afterward, they could quit the ultra-toxins of coffee, tea, tobacco, cut back on activity and stress, increase rest, fast sometimes, move away from polluted areas, learn to eat better, take up exercise, then they would heal. It happens every day without media fanfare.
+If afterward, they could quit the ultra-toxins of coffee, tea, tobacco; cut back on activity and stress; increase rest, fasting sometimes; move away from polluted areas; learn to eat better and take up exercise; then they would heal deeply  and stay healthy. It continues to happen every day  without media fanfare as millions in each generation discover hygiene.
 
 But for many, doing all that is a big **if**. If they do not make the necessary lifestyle changes, then hygiene is unable to help them. They drift back to medicine or some alternative. A few get lucky. The rest find ways to cope with semi-recovery or perish quietly. 
 
-We note the text's emphasis on toxemia: internal uncleanliness. This characterizes both hygiene's Puritanical character and Tilden's focus. It is the box canyon medicine trapped hygiene in by reducing it to cleanliness. Its pathology has had a missing link in trauma, undermining hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They viewed it as unrelated to the more important issue of chronic illness, as mere mechanics best left to surgeons. Hygiene unwittingly lent allopathy mythic power by surrendering to it the imperative of trauma.
+We note the text's emphasis on toxemia: internal uncleanliness. This characterizes both hygiene's Puritanical character and Tilden's focus. It is the box canyon medicine trapped hygiene in by reducing it to cleanliness. Its pathology has had a missing link, undermining hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They viewed it as unrelated to the more important issue of chronic illness, as mere mechanics best left to surgeons. Hygiene unwittingly lent allopathy mythic power by surrendering to it the imperative of trauma.
 
 Most hygienic physicians start as allopaths. The fascination with surgery seems hard to shake. It makes people seem powerful on nature's scale. It affirms civilization's fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma. With their little swords, doctors acquire the status of gods for engaging the dragon of trauma, the source of all pain, the repository of all power.
 
@@ -71,7 +73,7 @@ Why are these things so deeply buried?
 
 Trauma causes the first four stages of disease immediately. The organism surges into action with the shock and sudden demand for energy, nutrients, circulation, and hormones to manage pain and awareness. Meanwhile, incapacity and malfunction snowball.
 
-Consciousness contracts with trauma. It withdraws from the world and higher functions like reflection and reason to stabilize critical functions. Awareness of the painful event itself is unnecesarry, often disturbing the process. Thus trauma manifests as amnesia and denial: the inabilities to remember and to admit.
+Consciousness contracts with trauma. It contracts from the world on a sensory level and restricts higher functions like reflection and reason to stabilize critical functions. Awareness of the painful event itself is unnecesarry, often disturbing the process. Thus trauma manifests as amnesia, denial, and stupidity, callousness, clumsiness: the inabilities to remember, to admit, to know, to feel, to move.
 
 Many movies have an amnesiac premise, the protagonist is injured, cannot remember his old life, and has a new adventure. Few of us have personal experience of anyone like this. Why do such movies continue to draw crowds? It is because we all suffer a kind of amnesia and recognize ourselves in these stories. 
 
@@ -79,7 +81,9 @@ In fact, our amnesia is called infant or childhood amnesia. Who remembers his bi
 
 Denial is not moral failure. It is unconscious success. Devastating trauma usually occurs in infancy. It overwhelms the fragile structure of an infant's consciousness. Denial locks down basic functions, preventing trauma from shattering psychic integrity. Otherwise it would cause death, as with SIDS---Sudden Infant Death Syndrome. Escaping with autism or blindness, for example, beats dying. Denial is biologically maintained until the psyche heals enough for to bear witness to the horror of what was denied. 
 
-In darkness, damage begins to heal. Denial begins to lift and traumatic events are remembered or acknowledged. As the general capacity for feeling is restored, frozen ones resurface. Insight comes. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
+Meanwhile, we suffer from three other epidemics: stupidity, callousness, clumsiness. Psychic damage causes decreases in thinking, feeling, and moving intelligence. The normal brightness, love, and grace of most children give way. We marvel at the pitiful results in others, even as they marvel at them in us.
+
+In darkness, damage begins to heal. Denial begins to lift. Traumatic events are remembered or acknowledged. As the general capacity for feeling is restored, frozen ones resurface. Insight comes. Stupidity and uncoordination lift. The energy to recover strength seeps back in. The organism paces this sometimes intense process with great care. The fact that it is happening proves you have the capacity to handle it. 
 
 Gaining confidence in this capacity take a little time. In [____*protocol > discomfort*____](#discomfort), I describe some ways I learned to moderate intense memory and feeling in darkness in the meantime. In a series of [____*reports*____](http://darkroomretreat.com/reports), I have recorded my experiences in darkness of beginning to heal from major trauma.
 
@@ -96,11 +100,11 @@ I'm going to list common examples of the plague of polite violence I refer to. O
 - absent, pushover, smothering, abusive, and negligent parents
 - nannies and day care
 - cribs, playpens, strollers (the worst designs of all time, which crystallize alienation in the nervous systems of billions.)
-- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development.[^7])
+- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development.[^12])
 - factory food (including unripe harvesting, chemical farming, genetic modification, irradiation) 
 - and finally, the last nail so big it splinters the coffin: _school_. 
 
-The violence of job, military, hospital, the street, and prison go without saying. My point is that things just as bad are happening to people with a thousandth the strength to endure them.
+The violence of job, military, hospital, the street, and prison go without saying. My point is that things just as bad are happening to people with a millionth the capacity to endure them, ie, infants.
 
 Of exactly what brutalized _you_, you may already have some idea. I invite you to find out for sure in darkness, where you have a real chance to recover from it once and for all. Between retreats, the depth psychologists mentioned below can also help provide words for what you are going through.
 
@@ -114,11 +118,11 @@ Lastly, unconscious psychic trauma often expresses itself somatically: as physic
 
 Until now, hygienists have regarded the primary causes of disease as enervation, an excessive lowering of vitality, and toxemia, a general poisoning, mostly from internal waste but also food and environmental poisons. These, hygienists have asserted, come from poor habits.
 
-But whence came poor habits? Why would a healthy creature engage in anything less than the perfectly suitable without cause, out of the blue, and persistently? It doesn't make sense. In light of the awesome influence of trauma, it is obviously a deficient explanation.
+But whence came poor habits? A healthy creature has strong self-correcting instincts. How could it persist in unhealthy behavior out of the blue? It makes no sense. Something must have happened to knock it off course. In light of the awesome influence of trauma, poor habits are obviously a deficient explanation.
 
-Much of this comes straight out of modern depth psychology: Wilhelm Reich, Jean Liedloff, Frederick Leboyer, Arthur Janov, Alice Miller, Alexander Lowen, Joseph Chilton Pearce. In describing routine civilized brutality, they took heroic stands for humanity. Only, they did not imagine the psyche could repair itself without therapy. 
+Much of this comes straight out of depth psychology: Wilhelm Reich, Jean Liedloff, Frederick Leboyer, Arthur Janov, Alice Miller, Alexander Lowen, Joseph Chilton Pearce. In describing routine civilized brutality, they took heroic stands for humanity. Only, they did not imagine the psyche could repair itself without therapy. 
 
-Suffice it to say I'm no scientific materialist. This quaint philosophy holds that humans are so special that nature has exempted us from from its laws; and that anything generated through science (and by civilization itself) is inherently good. Find excellent elaborations of the humor in this idea in _Ishmael_ by Daniel Quinn and Rupert Sheldrake's critique of scientism. 
+Suffice it to say I'm no scientific materialist. This quaint philosophy holds that sensation of the bludgeoned is all; that humans are so special that nature has exempted us from from its laws; and that anything generated through science (and by civilization itself) is inherently good. Find excellent elaborations of the humor in this idea in _Ishmael_ by Daniel Quinn and Rupert Sheldrake's critique of scientism. 
 
 The human organism is resilient in some ways and vulnerable in others. Darkness provides our autonomic selves the opportunity to fully put these qualities to healthy use, righting unfathomable wrongs.
 
@@ -138,7 +142,7 @@ Some of us, however, find this delusional. We have experienced joy. And on the o
 - controls in the name of freedom
 - poverty amidst mind-boggling wealth
 - useless work and wearisome recreation
-- undernourishing overfeeding
+- undernourishing over-feeding
 - confusing philosophy and soulless religion
 - alienation---civilization's calling card
 - mass depression, anxiety, schizophrenia
@@ -154,7 +158,7 @@ I submit, we are actually crazy. We weren't always. But something went terribly 
 
 What would we recover? Common sense, memory, and honesty. Joy and empathy. Strength and vigor. Just for starters. But much more awaits us. When the thinking, feeling, and moving centers of intelligence function again, and in harmony with each other, life will improve to an unrecognizable degree. 
 
-I mean engagement with the other basic plane of reality. Because it mirrors spacetime, some cutting edge scientists call it timespace: three dimensions of time---past, present, future---and space fixed to one location at a time.[^9] Kogi Indians call it the _aluna_. Australian Aboriginals call it dreamtime. They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or go out and meet a scarce deer in the middle of nowhere to bring back for food. 
+I mean engagement with the other basic plane of reality. Because it mirrors spacetime, some cutting edge scientists call it timespace: three dimensions of time---past, present, future---and space fixed to one location at a time.[^9] Kogi Indians call it the _aluna_. Australian Aboriginals call it dreamtime. They access it at will for daily living. It is how they can track someone 100 miles through the desert a year later with only a scrap of his clothing. Or talk to people on the other side of the world without telephones. Or go out and meet a scarce deer in the middle of nowhere to bring back for food. 
 
 Dreamtime is perceived primarily through the feeling center of intelligence, not the senses. It is intuition. With psychic integrity, it can be just as precise as the eyes aided by a microscope, but at great distances.
 
@@ -162,7 +166,7 @@ The feeling center, being more fragile than the sensorium and less aggressive th
 
 I will not dwell on something you must see for yourself, as you will in darkness. But this vast and rich side of life that we largely miss must cease going unremarked in psychology and hygiene. It is stupid and embarrassing. The academy likes to ignore the two other great bodies of human knowledge: the spiritual and the indigenous. We will not.
 
-I figure we are currently functioning at 2% of capacity. In other words, things with us are as bad as they can get while still allowing us to reproduce. To embellish the idea, at 1%, you're institutionalized, 0%, dead. 3%, a local hero. 4%, somewhat famous. 5%, a national star. 10%, a genius. 20%, a saint. 30-40%, a messiah. 
+I figure we are currently functioning at 2% of capacity. In other words, things with us are as bad as they can get while still allowing us to raise children to reproductive age. To embellish the idea, at 1%, you're institutionalized, 0%, dead. 3%, a local hero. 4%, somewhat famous. 5%, a national star. 10%, a genius. 20%, a saint. 30-40%, a messiah. 
 
 The greatest people in our history had to lower their level of functioning from a normal 90-100% just so we could stand their otherwise overwhelming presence. But what did each of them say, one way or another? _All this and more ye shall do._ This is our task. And the first person to raise from the dead is oneself.
 
@@ -208,7 +212,7 @@ What if we are the butt of a cosmic joke?
 
 If so, then our wars, big and small, are pointless. No one started it. No one need be punished. Everyone is essentially innocent, thus free to walk away from the conflict and heal. 
 
-Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^10]
+Trauma is natural. Trying to prevent all of it is futile. Hope lies in having a way to recover from it.[^10][^11]
 
 ## hygienic psychology {#hygienic-psychology}
 
@@ -221,11 +225,11 @@ In light of the essence of hygiene, _conditional self-preservation_; the restful
 5. Profound psychic rest occurs physiologically in an extended period in absolutely dark environment.
 6. Therefore, by retreating in darkness, we gain relief, rest, and restoration to health, happiness, and harmony.
 
-Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. The conscious is otherwise helpless. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^11]
+Hygiene upholds basic findings of psychology from several traditions. Hygiene merely shrugs at psychology's conscious over-involvement in the unconscious. The unconscious is competent to fix itself if minimally supported by the conscious. The conscious is otherwise helpless. We are correct in believing we have a problem and need to do something about it. We have been disastrously incorrect about which part of the self has to do it.[^12]
 
 ### fasting {#fasting}
 
-Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^12]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
+Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^13]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
 
 In other words, the psychic system is more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -243,19 +247,19 @@ And then? Healed from trauma, one will no longer be compelled to repeat it. One 
 
 ## conclusion {#conclusion}
 
-The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and darkness's greater importance than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [____*hygiene notes*____](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
+The emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [____*hygiene notes*____](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
 
 I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
 [____*The Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf).
 
 &nbsp;
 
-[^6]: Wherever doctors have gone on strike, life expectancy increases overnight by 9 years and falls again when the strike ends, and a hundred other amusing facts about medicine. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_. See also [____Medical Myths____](http://foodkills.org/medicalmyths/)
-[^7]: Joseph Chilton Pearce, _Evolution's End_
+[^11]: Wherever doctors have gone on strike, life expectancy increases overnight by 9 years and falls again when the strike ends, and a hundred other amusing facts about medicine. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_. See also [____Medical Myths____](http://foodkills.org/medicalmyths/)
+[^12]: Joseph Chilton Pearce, _Evolution's End_
 [^8]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
 [^9]: David Wilcock, [____Enigma 2012____](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
 [^10]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
-[^11]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^12]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
+[^11]: Earlier, I wrote an longer piece about cataclysm, [____catastrophe____](http://darkroomretreat.com/darkness-conjecture/catastrophe)
+[^12]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
+[^13]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
 
-	

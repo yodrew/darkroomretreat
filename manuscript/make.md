@@ -23,7 +23,7 @@ All components rely on the basic instructions in the following sections: **metri
 
 After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone. And you won't be able to see anything, either. Haha.
 
-If you need more specific advice for darkening your space, I provide [____*design consultation*____](#services). Yes, guiding people by word and picture on a chat application toward a completed darkroom and successful retreat actually works, and I have done it. Likewise, feel free to use these [____*open-source*____](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](#license) for my liberal terms.
+If you need more specific advice for darkening your space, I provide [____*design consultation*____](http://darkroomretreat.com/about/services). Yes, guiding people by word and picture on a chat application toward a completed darkroom and successful retreat actually works, and I have done it. Likewise, feel free to use these [____*open-source*____](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](http://darkroomretreat.com/about/license) for my liberal terms.
 
 ## metric {#metric}
 
@@ -64,7 +64,7 @@ Making components requires some or all of these tools:
 1. table or desk
 2. measure
     1. Note: before purchase, test tools for accuracy, which can vary between identical tools, even of good brands. Instructions below.
-    2. metric ruler, 30cm, clear plastic. If reproducing plans by hand rather than printing them, then get an [____Incra ruler____](http://incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
+    2. metric ruler, 30cm, clear plastic. If reproducing plans by hand rather than printing them, then get an [____Incra ruler____](https://www.incra.com). For its effortless marking precision, I recommend it for making anything at all ever. It's the greatest hand tool I have ever used.
     3. meter stick, steel with engraved marks
         1. put marked edges of two sticks together so 40cm mark of one meets 60cm mark of other
         2. push ends of both against a wall and check how well marks line up
@@ -122,9 +122,9 @@ A drawing has one or two _views_, depending on the best way to communicate its i
 - _perspective:_ from a non-right-angled point of view to capture more sides (3D)
 - _exploded:_ all parts separated but in correct order and linear relation (3D)
 
-For example, the [____helix vent____](http://darkroomretreat.com/darkness/#helix-vent) has plan views of its flat parts and one section view showing how parts are assembled. The [____toilet frame____](water/#upgrade-toilet) has both plan and elevation views, while the [____shower____](http://darkroomretreat.com/water/#shower) has an exploded view.
+For example, the [____helix vent____](http://darkroomretreat.com/darkness/#helix-vent) has plan views of its flat parts and one section view showing how parts are assembled. The [____toilet frame____](http://darkroomretreat.com/water/#upgrade-toilet) has both plan and elevation views, while the [____shower____](http://darkroomretreat.com/water/#shower) has an exploded view.
 
-All plans can be reused except [____sleeping mask____](http://darkroomretreat.com/darkness/sleeping-mask) plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. 
+All plans can be reused except [____sleeping mask____](#sleeping-mask) plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. 
 
 Images in this book are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in. Click each image to open the corresponding full-size plan as an individual PDF.
 
@@ -160,7 +160,7 @@ Images in this book are only for reference and hand-reproduction. They are reduc
     3. by hand
     	1. ruler and magnifying glass
 			1. get large white paper to make a reusable pattern with. Don't measure directly on materials.
-    	    2. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [____Incra ruler____](incra.com) will help a lot with this. 
+    	    2. to keep drawing orthogonal, use some combination of graph paper, drafting table, and extra careful measurement and marking. An [____Incra ruler____](https://incra.com) will help a lot with this. 
 			3. use magnifying glass to see small words and numbers in the book
             4. plans are as symmetrical and uniform as possible. If two similar-looking areas of a plan look the same size, they are. So from measurements given in plans, infer the rest. There is some redundancy so you don't have to figure out everything and can double-check essential measurements with arithmetic. 
             5. use grey-numbered cumulative measurements in plan to quickly mark lines

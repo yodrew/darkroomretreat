@@ -1,13 +1,13 @@
 # services {#services}
 
-I do everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build. 
+I do nearly everything related to hygienic darkroom retreating: study, experiment, write, speak, consult, design, build.  At the moment, I am not operating a darkroom or supporting retreats. For that, find darkroom retreat centers on this cool [____global map____](https://www.zeemaps.com/map?group=2075542).
 
 ## writing {#writing}
 
 - Get my ebook from [____leanpub____](http://leanpub.com/darkroomretreat)
 - Quote and excerpt anything in my book and website. Credit me and tell me where it will show up and I will also acknowledge and link to you on my website.
 - Invite me to write for your publication on any subject related to hygienic darkroom retreating and hygienic psychology.  
-- Publish me, make money. See [____*license*____](#license)
+- Publish me, make money. See [____*license*____](http://darkroomretreat.com/about/license/)
 
 (Free or as you please)
 
