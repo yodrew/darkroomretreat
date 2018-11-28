@@ -17,8 +17,6 @@ air.md
 darkness.md
 water.md
 backmatter.txt
-appendix-laws-of-life.md
-appendix-pathology.md
 faq.md
 bibliography-influences.md
 acknowledgments.md
