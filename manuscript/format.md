@@ -87,7 +87,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema, but spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [____false capacity____](#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat._
+> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [____*false capacity*____](#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat._
 
 #### transition {#transition}
 
@@ -146,7 +146,7 @@ Fortunately, it is easy to avoid it once you know. I will just list them here an
 
 Just say no to:
 
-1. Mini-retreating behind schedule. See [____mini-retreat*____](#mini-retreat) section above.
+1. Mini-retreating behind schedule. See [____*mini-retreat*____](#mini-retreat) section above.
 2. Ending a retreat without transition days. See [____*4-day retreat*____](#4-day-retreat) above and [____*protocol > post-retreat*____](#post-retreat).
 3. Doing multiple 4-day retreats rather than quickly advancing to 8-day, medium, and long retreats. Very serious no-no, folks. Again, see  
 _4-day retreat_ above and [____*hygiene > false capacity*____](#false-capacity), where I have understated the matter because it cannot be overstated.

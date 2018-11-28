@@ -17,9 +17,9 @@ I suggest that, your first time through these chapters, you read everything in t
 
 All components rely on the basic instructions in the following sections: **metric**, **tools**, **plans**, and **fabrication**. Each component has special instructions and design constraints in its own section in later chapters:
 
->> [____9&nbsp; air____](#air)  
-[____10&nbsp; darkness____](#darkness)  
-[____11&nbsp; water____](#water)  
+>> [____9&nbsp; *air*____](#air)  
+[____10&nbsp; *darkness*____](#darkness)  
+[____11&nbsp; *water*____](#water)  
 
 After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone. And you won't be able to see anything, either. Haha.
 
@@ -124,7 +124,7 @@ A drawing has one or two _views_, depending on the best way to communicate its i
 
 For example, the [____helix vent____](http://darkroomretreat.com/darkness/#helix-vent) has plan views of its flat parts and one section view showing how parts are assembled. The [____toilet frame____](http://darkroomretreat.com/water/#upgrade-toilet) has both plan and elevation views, while the [____shower____](http://darkroomretreat.com/water/#shower) has an exploded view.
 
-All plans can be reused except [____sleeping mask____](#sleeping-mask) plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. 
+All plans can be reused except [____*sleeping mask*____](#sleeping-mask) plan, which is destroyed as you make it. So make as many prints of it as masks you intend to make. 
 
 Images in this book are only for reference and hand-reproduction. They are reduced to fit book pages. Thus they are neither full-scale nor in proportion to each other. If reading on a screen while online, you can zoom in. Click each image to open the corresponding full-size plan as an individual PDF.
 
