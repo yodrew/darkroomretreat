@@ -30,6 +30,7 @@ sed -i 's,](/about,](/bio,g' license.md prepare.md
 perl -pi -e 's,\[\^3\],\[\^5\],g' darkroom-retreat.md
 perl -pi -e 's,\[\^2\],\[\^4\],g' darkroom-retreat.md
 perl -pi -e 's,\[\^1\],\[\^3\],g' darkroom-retreat.md
+perl -pi -e 's,\[\^8\],\[\^13\],g' psychology.md
 perl -pi -e 's,\[\^7\],\[\^12\],g' psychology.md
 perl -pi -e 's,\[\^6\],\[\^11\],g' psychology.md
 perl -pi -e 's,\[\^5\],\[\^10\],g' psychology.md
