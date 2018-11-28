@@ -77,13 +77,14 @@ perl -pi -e 's/{#attitude}/{#attitude-darkroom-retreat}/g' darkroom-retreat.md
 perl -pi -e 's/{#mechanics}/{#mechanics-darkroom-retreat}/g' darkroom-retreat.md
 perl -pi -e 's/{#food}/{#food-darkroom-retreat}/g' darkroom-retreat.md
 perl -pi -e 's/{#hygiene}/{#hygiene-introduction}/g' introduction.md
-perl -pi -e 's/{#mechanics}/{#mechanics-protocol}/g' protocol.md
+perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-darkroom-retreat\)/);' protocol.md
+perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-protocol\)/);' protocol.md
 perl -pi -e '$a=1 if(!$a && s/{#food}/{#food-protocol}/);' protocol.md
-perl -pi -e '$a=1 if(!$a && s/{#food}/{#food-darkroom-retreat}/);' protocol.md
+perl -pi -e 's/{#mechanics}/{#mechanics-protocol}/g' protocol.md
 perl -pi -e 's/{#attitude}/{#attitude-protocol}/g' protocol.md
 perl -pi -e 's/{#power}/{#power-protocol}/g' protocol.md
-perl -pi -e '$a=1 if(!$a && s/{#food}/{#food-darkroom-retreat}/);' protocol.md
-perl -pi -e '$a=1 if(!$a && s/{#food}/{#food-protocol}/);' protocol.md
+perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-darkroom-retreat\)/);' prepare.md
+perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-protocol\)/);' prepare.md
 perl -pi -e '$a=1 if(!$a && s/{#basic}/{#basic-sink}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#upgrade}/{#upgrade-sink}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#basic}/{#basic-toilet}/);' water.md

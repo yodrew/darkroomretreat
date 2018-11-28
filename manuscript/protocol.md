@@ -80,7 +80,7 @@ Most of what you consume in fruit and leafy greens is water. So you must eat 3-5
 
 For more about food, see:
 
-- [____*darkroom retreat> food*____](#food) and [____*prepare > menu*____](#menu)
+- [____*darkroom retreat> food*____](#food-darkroom-retreat) and [____*prepare > menu*____](#menu)
 - [____*The 80/10/10 Diet*____](http://foodnsport.com) by Dr Douglas Graham
 - [____Loren Lockman's videos____](http://youtube.com/user/LorenLockman).
 
