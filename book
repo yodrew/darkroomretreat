@@ -59,7 +59,7 @@ perl -p -i -e 's,\]\(\/(notes|foreword|preface|introduction|hygiene|darkroom-ret
 perl -p -i -e 's,\(\/,\(http:\/\/darkroomretreat.com\/,g' *.md
   # anchors
     # generate
-perl -p -i -e 's/^(#+ )([1-9]+ )*(- )?([A-Za-z0-9 ,_-]+)/\1\2\3\4 \{#\4\}/g' *.md
+perl -p -i -e 's/^(#+ )([0-9]+ )*(- )?([A-Za-z0-9 ,_-]+)/\1\2\3\4 \{#\4\}/g' *.md
     # fix
 		# misc
 perl -pi -e 's/{#relief, rest, recovery}/{#relief rest recovery}/g' blurb.md
