@@ -37,9 +37,13 @@ perl -pi -e 's,\[\^4\],\[\^9\],g' psychology.md
 perl -pi -e 's,\[\^3\],\[\^8\],g' psychology.md
 perl -pi -e 's,\[\^2\],\[\^7\],g' psychology.md
 perl -pi -e 's,\[\^1\],\[\^6\],g' psychology.md
-  # superscript
+  # superscript, underline, italics
 sed -i 's,<sup>,^,g' *.md 
 sed -i 's,</sup>,^,g' *.md
+sed -i 's,<u>,____,g' *.md
+sed -i 's,</u>,____,g' *.md
+sed -i 's,<em>,*,g' *.md
+sed -i 's,</em>,*,g' *.md
   #links
   # underline
 perl -p -i -e 's,(^|[^!])\[([^^!\]]+)\]\(,\1\[____\2____\]\(,g' *.md

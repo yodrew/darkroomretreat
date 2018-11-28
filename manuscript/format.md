@@ -162,7 +162,7 @@ Ok, now you know, so you are safe. Back to the many wonders of hygienic darkroom
 I would like to find the simplest way health, including sanity, can be fully restored in one shot. Like perfect healing of a broken bone. To this end, I would like to see hygienic retreat centers worldwide with facilities and support for:
 
 - medium and long darkroom retreats
-- fasts (a la Albert Mosseri's groundbreaking [____method____](http://darkroomretreat.com/other-writings/mosseri))
+- fasts (a la Albert Mosseri's groundbreaking [____method____](http://darkroomretreat.com/other-writings/fasting))
 - physical retraining
 - training in healthy lifeway, including both lifestyle and livelihood
 - open source research and development of the above
