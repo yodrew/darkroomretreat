@@ -29,7 +29,7 @@ This is why doctors gloss over causes. They often speak in tautologies, substitu
 
 The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. Trouble is, germs don't always result in the disease associated with them, they aren't always present in it, and getting rid of them doesn't always get rid of the disease. So much for the germ theory. 
 
-On the other hand, a distinct pattern of vital factors, history, and lifestyle can be detected in those who suffer and a quite different one in those who don't. The differences reveal the decisive causes and their ordinary character. In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^11], so this often works better.
+On the other hand, a distinct pattern of vital factors, history, and lifestyle can be detected in those who suffer and a quite different one in those who don't. The differences reveal the decisive causes and their ordinary character. In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^6], so this often works better.
 
 The hygienist's rational and benevolent view of disease keeps him cool as a cucumber. He does not react. He observes. He studies. Disease is a normal function of an organism under poor conditions, not a foreign entity to attack and expel. Hygiene makes the time necessary to correct allopathy's drunken imbalances with careful etiology (study of causes). 
 
@@ -100,7 +100,7 @@ I'm going to list common examples of the plague of polite violence I refer to. O
 - absent, pushover, smothering, abusive, and negligent parents
 - nannies and day care
 - cribs, playpens, strollers (the worst designs of all time, which crystallize alienation in the nervous systems of billions.)
-- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development.[^12])
+- television, computers, games (screen technology causes not mere atrophy, but lifelong damage to the imaginative faculty when much used at critical phases of development.[^7])
 - factory food (including unripe harvesting, chemical farming, genetic modification, irradiation) 
 - and finally, the last nail so big it splinters the coffin: _school_. 
 
@@ -229,7 +229,7 @@ Hygiene upholds basic findings of psychology from several traditions. Hygiene me
 
 ### fasting {#fasting}
 
-Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^13]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
+Focusing on deep psychic rest in absolute darkness is new in hygiene. Until now, it has focused on the profound physiological rest of fasting due to its naive pathology. Fasting has been hygiene's ultimate means of dealing with serious illness. At most, hygiene recommends keeping curtains and eyes closed during fasts because it reduces the significant work of sensory processing of vision[^8]. A darkroom retreat embodies this principle fully while providing the energy and, frankly, the psychic security of food until the underlying psychic system necessary for fasting comfortably has repaired itself.
 
 In other words, the psychic system is more fundamental than the digestive and eliminative systems. Darkroom retreating is thus more urgently needed than fasting in most cases.
 
@@ -254,12 +254,12 @@ I am only saying enough here to give you a solid basis for beginning to do hygie
 
 &nbsp;
 
-[^11]: Wherever doctors have gone on strike, life expectancy increases overnight by 9 years and falls again when the strike ends, and a hundred other amusing facts about medicine. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_. See also [____Medical Myths____](http://foodkills.org/medicalmyths/)
-[^12]: Joseph Chilton Pearce, _Evolution's End_
+[^6]: Wherever doctors have gone on strike, life expectancy increases overnight by 9 years and falls again when the strike ends, and a hundred other amusing facts about medicine. See Dr Robert S Mendelsohn, _Confessions of a Medical Heretic_. See also [____Medical Myths____](http://foodkills.org/medicalmyths/)
+[^7]: Joseph Chilton Pearce, _Evolution's End_
 [^8]: This provides the unconscious motivation for the current over-fascination with genetics, a negligible and corrupt quasi-science shot through with distrust of life and mechanistic control-freakishness.
 [^9]: David Wilcock, [____Enigma 2012____](https://divinecosmos.com/videos/free-videos/374-the-2012-enigma-free-full-length-documentary-film/)
 [^10]: This echoes one of Gurdjieff's main points that a proper psychology and method of living will enable people to deal with life's inevitable _shocks_. See Ouspensky's incomparable spiritual text, _In Search of the Miraculous_.
 [^11]: Earlier, I wrote an longer piece about cataclysm, [____catastrophe____](http://darkroomretreat.com/darkness-conjecture/catastrophe)
 [^12]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
-[^13]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
+[^8]: Hygienist, [____Bernarr Zovluck____](http://www.towardsfreedom.com/wdh/towardsfreedom/RTAlternativeHeal.html)
 
