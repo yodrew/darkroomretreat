@@ -87,10 +87,12 @@ perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-darkroom-retreat\)/);' prepare.m
 perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-protocol\)/);' prepare.md
 perl -pi -e '$a=1 if(!$a && s/{#basic}/{#basic-sink}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#upgrade}/{#upgrade-sink}/);' water.md
+perl -pi -e '$a=1 if(!$a && s/{#deluxe}/{#deluxe-sink}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#basic}/{#basic-toilet}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#upgrade}/{#upgrade-toilet}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#basic}/{#basic-shower}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#upgrade}/{#upgrade-shower}/);' water.md
+perl -pi -e '$a=1 if(!$a && s/{#deluxe}/{#deluxe-shower}/);' water.md
 perl -p -i -e 's,\{#([^ \}]+) ,\{#$1-,g' *.md
 perl -p -i -e 's,\{#([^ \}]+) ,\{#$1-,g' *.md
 perl -p -i -e 's,\{#([^ \}]+) ,\{#$1-,g' *.md

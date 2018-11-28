@@ -23,7 +23,7 @@ If you already have a bathroom and kitchen you can darken easily or mostly, and 
 - drinking water (if separate from wash water): in 20L bottle with valve-cap
 - waste (water and food): two, 20L buckets with lids
 
-### deluxe {#deluxe}
+### deluxe {#deluxe-sink}
 
 - salvaged sink set in a counter-height table
 - drains directly into waste bucket
@@ -101,7 +101,7 @@ A washcloth or sponge for a sponge bath
 - hold a bottle above yourself with one hand and wash with the other
 - wipe up water with towels and squeeze it out into bucket
 
-### deluxe {#deluxe}
+### deluxe {#deluxe-shower}
 
 [![plan: shower](images/shower.png)](http://darkroomretreat.com/img/plan/shower.pdf)
 
