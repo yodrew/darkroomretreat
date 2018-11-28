@@ -65,6 +65,9 @@ perl -p -i -e 's/^(#+ )([0-9]+ )*(- )?([A-Za-z0-9 ,_-]+)/\1\2\3\4 \{#\4\}/g' *.m
 perl -pi -e 's/{#relief, rest, recovery}/{#relief rest recovery}/g' blurb.md
 perl -p -i -e 's,\n&nbsp;,,s' hygiene.md
 		# duplicates
+perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-darkroom-retreat\)/);' prepare.md
+perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-protocol\)/);' prepare.md
+perl -pi -e '$a=1 if(!$a && s/\(#deluxe\)/\(#deluxe-shower\)/);' format.md
 # remove dashes in titles: perl -p -i -e 's,\{#([^\}-]+)- ,\{#$1,g' *.md
 perl -pi -e '$a=1 if(!$a && s/{#constraints}/{#constraints-ventilation}/);' air.md
 perl -pi -e '$a=1 if(!$a && s/{#constraints}/{#constraints-lightproof}/);' air.md
@@ -83,8 +86,6 @@ perl -pi -e '$a=1 if(!$a && s/{#food}/{#food-protocol}/);' protocol.md
 perl -pi -e 's/{#mechanics}/{#mechanics-protocol}/g' protocol.md
 perl -pi -e 's/{#attitude}/{#attitude-protocol}/g' protocol.md
 perl -pi -e 's/{#power}/{#power-protocol}/g' protocol.md
-perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-darkroom-retreat\)/);' prepare.md
-perl -pi -e '$a=1 if(!$a && s/\(#food\)/\(#food-protocol\)/);' prepare.md
 perl -pi -e '$a=1 if(!$a && s/{#basic}/{#basic-sink}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#upgrade}/{#upgrade-sink}/);' water.md
 perl -pi -e '$a=1 if(!$a && s/{#deluxe}/{#deluxe-sink}/);' water.md

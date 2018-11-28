@@ -114,7 +114,7 @@ An 8-day retreat has all the elements of a 4-day retreat, plus:
 - a support team of at least two people. At least one person should be nearby all the time. This creates psychic shielding for the retreatant.
 - after physical restedness is reached in the first cycle, a major psychic issue can arise and be resolved in the second
 - a second day of transition at the end
-- a fully functional bathing facility for emotional as well as physical reasons. For remote locations, see plans for a [____*portable indoor shower*____](#deluxe).
+- a fully functional bathing facility for emotional as well as physical reasons. For remote locations, see plans for a [____*portable indoor shower*____](#deluxe-shower).
 
 ### medium {#medium}
 
