@@ -21,7 +21,8 @@ All components rely on the basic instructions in the following sections: **metri
 [____10&nbsp; *darkness*____](#darkness)  
 [____11&nbsp; *water*____](#water)  
 
-After improvising darkness to sleep in [____*tonight*____](#tonight), the [____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone. And you won't be able to see anything, either. Haha.
+After improvising darkness to sleep in [____*tonight*____](#tonight), the  
+[____*instant sleeping mask*____](#instant) probably comes next. Thus initiated, you can begin your training as a darkroom-building ninja. You will become invisible to everyone for awhile. And you won't be able to see anything, either. Haha.
 
 If you need more specific advice for darkening your space, I provide [____*design consultation*____](http://darkroomretreat.com/about/services). Yes, guiding people by word and picture on a chat application toward a completed darkroom and successful retreat actually works, and I have done it. Likewise, feel free to use these [____*open-source*____](#open-source) designs and my consultation to darken other people's spaces as a service for money. See [____*license*____](http://darkroomretreat.com/about/license) for my liberal terms.
 
