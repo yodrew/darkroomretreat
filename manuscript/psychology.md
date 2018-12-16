@@ -2,14 +2,14 @@
 
 ## intro {#intro}
 
-Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects, namely trauma. Hygiene has focused on daily choices. Trauma lies beyond one's control. It doesn't happen every day. Change of habit affects it little. Trauma just strikes. Suddenly it incapacitates whole systems, distorting their character and behavior beyond recognition. Besides life itself, trauma is the most influential force in our lives. Hygiene was helpless with it. All it could do was pass the buck to doctors or priests.  This has subordinated hygiene to medicine and religion for nearly two centuries.
+Lacking a psychology, hygiene could not penetrate certain depths of human experience nor treat certain subjects, namely trauma. Hygiene has focused on daily choices. Trauma doesn't happen every day. It lies beyond one's control. Change of habit affects it little. Trauma just strikes. Suddenly it incapacitates whole systems. It distorts their character and behavior beyond recognition. Besides sleep (slow and quiet), trauma (sudden and loud) is the most influential force in our lives. Hygiene was helpless with it. All it could do was pass the buck to doctors or priests.  This has subordinated hygiene to medicine and religion for nearly two centuries.
 
 This limitation disappears with two changes: 
 
-- the acknowledgment of trauma as the root of all illness 
+- acknowledgment of trauma at the root of illness 
 - the discovery of darkness as the essential means nature provides us to heal from trauma
 
-Hygiene becomes a complete system of health capable of addressing every illness people face, physical and psychic. No longer need anyone bear the perennial costs and failures of medicine and other semi-scientific systems rooted in the mystical doctrine of original sin and practice of exorcism. 
+Hygiene becomes a complete system of health capable of addressing every illness people face, physical and psychic. No longer need anyone bear the perennial costs and failures of medicine and other quasi-scientific systems rooted in the mystical doctrine of original sin and practice of exorcism. 
 
 The acid test of any science is its ability to predict events and thus prevent them if desired. By healing from trauma, we not only end dysfunction and suffering. We prevent unconscious repetition of trauma through common disasters like car crashes, familial breakdown, and psychosomatic illness. No joke.
 
@@ -21,23 +21,35 @@ Safe in the submarine of our new understanding, we will plumb the depths of the 
 
 ## pathology {#pathology}
 
-Pathology is the study of disease: its symptoms, causes, and nature. Pathology guides our response to disease. Every school of health has a generalized pathology, a theory of disease. Many schools are named for their pathologies because they are basically oriented toward disease: homeopathy (_homeo_: same), naturopathy, osteopathy (_osteo_: osteo), allopathy/medicine (_allo_: other). In hygiene, pathology is a sub-system we call orthopathy (_ortho_: correct).
+Pathology is the study of disease: its nature, causes, and  symptoms. Pathology guides our response to disease. Every school of health has a generalized pathology, a theory of disease. Many schools are named for their responses to disease. They are primarily orientated to disease and their artful responses to it. Examples are homeopathy (_homeo_: same), naturopathy (_natur_: of nature), osteopathy (_osteo_: osteo), allopathy/medicine (_allo_: other). By contrast, hygiene is primarily concerned with the cause and conditions of health. Hygiene's pathology is merely a branch of it called orthopathy (_ortho_: correct).
 
-The doctrine of original sin says life is inherently corrupt and impotent. Accordingly, allopathy views disease as natural and unavoidable. Nevermind that an intact organism is healthy; that life logically implies health; that disease logically depends on health; that nature requires health; tha without it, we are obviously headed toward the abyss; that near-universal health in the rest of nature contradicts the idea of life's sinfulness. Allopathy just doubles down on its mystical assertions of human exceptionalism while pretending to be rational and scientific. Meanwhile, it views health as an unexplainable stroke of luck. "You have a good constitution," doctors say, as if that is a helpful explanation. But they see nothing really wrong when people get sick. Medicine is not an abject failure. It's just how life is.
+Hygiene itself is a partly a reaction to allopathy. So first we will examine the medical pathology we are most exposed to. Then hygiene's traditional pathology. Finally, I will offer a radicalized and simplified pathology hygiene.
+
+Critics of medicine first called it allopathy. This is due to medicine's use of poisons to cause symptoms of _another_ disease. The idea is that, in the body's forced struggle against the other disease, it will overcome the first one. Then the poisonous medicine is removed, the patient quickly recovers from the artificial disease and is left in health. 
+
+When sick, take poison. Make yourself sicker to get well. There is a reason no one likes taking medicine.
+
+The doctrine of original sin underlying allopathy says life is inherently corrupt and impotent. So allopathy views disease as natural and unavoidable. Nevermind that intact organisms are healthy; that survival requires health; that health is the identity of life; that near-universal health in the rest of nature contradicts the idea of life's sinfulness. Allopathy doubles down on its mystical assertions of human exceptionalism. It pretends to be rational and scientific while viewing health as an unexplainable stroke of luck. "You have a good constitution," doctors say, as if that is a helpful observation. But they see nothing wrong when people get sick. It's just how life is. So medicine is not an abject failure. 
 
 This is why doctors gloss over causes. They often speak in tautologies, substituting diagonosis for explanation. For example,  "Your bowels aren't working because you have Crohn's disease," as if the name is an irreducible primary, with nothing left to investigate. It's just life expressing its weak, morbid nature. They might deign to look down another level of causation in explaining illness. But this goes against their premises. They usually skip right to symptomology and treatment, the germ theory of disease in hand.
 
-The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. Trouble is, germs don't always result in the disease associated with them. They aren't always present in it. Getting rid of them doesn't always get rid of the disease. So much for the germ theory. 
+The germ theory of disease says microscopic invaders cause disease. We are victims of infection. The organism is helpless. The doctor is capable and must fight, overcome, and root out the germs with drugs, treatment, and surgery. This is what I meant by exorcism. 
 
-On the other hand, a distinct pattern of vital factors, history, and lifestyle can be detected in those who suffer and a quite different one in those who don't. The differences reveal the decisive causes and their ordinary character. In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^6], so this often works better.
+Trouble is, germs don't always result in the disease associated with them. They aren't always present in it. And getting rid of them doesn't always get rid of the disease. So much for the germ theory. 
 
-The hygienist's rational and benevolent view of disease keeps him cool as a cucumber. He does not react. He observes. He studies. Disease is a normal function of an organism under poor conditions to cooperate with, not a foreign entity to attack and expel. Hygiene makes the time necessary to correct allopathy's drunken imbalances with careful etiology (study of causes). 
+On the other hand, distinct patterns emerge among those who suffer. Those who don't exhibit quite different patterns in their vital factors, history, and lifestyle. The differences reveal the ordinary character of the causes of disease.
 
-This reveals the poor conditions and the ordinary ways to correct them. Indeed, a careful client of a hygienist is really a student and soon learns to take care of himself, then his family and neighbors. It's open source health care. Viral, so to speak.
+In response, medicine continually moves the goalposts by inventing new diagnoses. Logic does not apply to holy war. 
+
+The people tire of this hairsplitting. They just want to be well so they can get on with their lives. They quit the doctors, strike out on their own, and hope for the best. Medicine is astoundingly harmful[^6]. Even doing nothing often works better.
+
+The hygienist's rational and benevolent view of disease keeps him cool as a cucumber. He does not react. He observes. He studies. Disease is a normal function of an organism under poor conditions, so one cooperate with it. It is not a foreign entity to attack and expel. Hygiene makes the time necessary to correct allopathy's drunken imbalances with careful etiology (study of causes).
+
+This reveals the poor conditions and the ordinary ways to correct them. Indeed, a client of a hygienist is really a student and soon learns to take care of himself, then his family and neighbors. It's open source health care. Viral, so to speak.
 
 ### seven stages of disease {#seven-stages-of-disease}
 
-Now we will review hygiene's pathology. Then we will critique and revise it.
+Now we will review hygiene's traditional pathology. Then we will critique and revise it.
 
 In the 1930s, with a century of prior art to work from, hygienist Dr John Tilden formulated the seven stages of all chronic disease.  Each stage describes what happens as our energy level declines ever lower. Note that a sick person can move down the steps and become sicker, or up and become well. It is simple cause and effect. Hygiene proves in theory and repeatedly demonstrates in practice the reversibility of the trend.
 
@@ -59,13 +71,13 @@ If afterward, they could quit the ultra-toxins of coffee, tea, and tobacco; cut 
 
 But for many, doing all that is a big **if**. If they do not make the necessary lifestyle changes, then hygiene is unable to help them. They drift back to medicine or some alternative. A few get lucky there, reducing their worst symptoms. The rest find ways to cope with semi-recovery or perish quietly. 
 
-We note the text's emphasis on toxemia: internal uncleanliness. This characterizes not only Tilden's focus but hygiene's Puritanical character. It is the box canyon in which medicine trapped hygiene by reducing it to cleanliness. In trauma, hygiene's pathology has had a missing link. It's lack has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They missed its relation to the more important issue of chronic illness, viewing it as mere mechanics best left to surgeons. By surrendering the imperative of trauma, hygiene lent allopathy mythic power.
+We note the pathology's emphasis on toxemia: internal uncleanliness. This characterizes not only Tilden's focus but hygiene's Puritanical character. It is the box canyon in which medicine trapped hygiene by reducing it to cleanliness. Orthopathy's missing link is trauma. Its lack has undermined hygiene's status and success. Early hygienists did not grasp the arch-importance of trauma and could not deal with it. They missed its relation to the more important issue of chronic illness, viewing it as mere mechanics best left to surgeons. By surrendering the imperative of trauma, hygiene lent allopathy mythic power.
 
-Most hygienic physicians start as allopaths. The fascination with surgery seems hard to shake. It makes people seem powerful on nature's scale. It affirms civilization's fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma. With their little swords, doctors acquire the status of gods for engaging the dragon of trauma. It is the source of all pain, the repository of all power.
+Most hygienic physicians started as allopaths. The fascination with surgery seems hard to shake. It makes people seem powerful on nature's scale. It affirms civilization's fear of nature and the body. It reinforces the unconscious feeling of infantile helplessness following trauma. Engaging the dragon of trauma with their little swords, doctors acquire the status of gods and heroes. For trauma is the source of all pain, the repository of all power.
 
-However, in the three phases of healing, repair is prior to elimination. The organism cleans itself as it repairs itself. Repair always causes a mess and must be cleaned up as it proceeds. Likewise, the organism reenergizes tissue as it repairs and cleans itself. It is fully charged only when substantive integrity is restored. Therefore, trauma must come before enervation and toxemia in the pathology. Remaining stages become unimportant or subordinate to these primary three. Our revised pathology is:
+However, in the three phases of healing, repair is prior to elimination. The organism cleans itself as it repairs itself. Repair always causes a mess and must be cleaned up as it proceeds. Likewise, the organism reenergizes tissue as it repairs and cleans itself. It is fully charged only when substantive integrity is restored. Therefore, trauma comes before enervation and toxemia in the pathology. Remaining stages become subordinate to these primary three. Our revised pathology is:
 
-1. trauma: a mechanical injury causing immediate damage to living tissue, whether psychical or psychical, subtle or gross. The younger an individual, the wider the variety of, the greater the susceptibility to, and the subtler the form of trauma can be
+1. trauma: a mechanical injury causing immediate damage to living tissue, whether psychical or psychical, subtle or gross. The younger the individual is, the greater his susceptibility to trauma, the subtler its form, and the wider its variety.
 2. enervation: a rapidly lowered energy state from overwork, distress, or abnormal environmental factors: overwhelming danger, temperature, atmospheric pressure, noise, frequencies, vibration, etc
 3. toxemia: sudden introduction of poisonous air, water, food, solids, emotions, ideas.
 
@@ -128,7 +140,7 @@ Until now, hygienists have regarded the primary causes of disease as enervation,
 
 But whence came poor habits? A healthy creature has strong self-correcting instincts. How could it persist in unhealthy behavior out of the blue? It makes no sense. Something must have happened to knock it off course. In light of the awesome influence of trauma, poor habits are obviously a deficient explanation.
 
-Much of this comes straight out of depth psychology: Wilhelm Reich, Jean Liedloff, Frederick Leboyer, Arthur Janov, Alice Miller, Alexander Lowen, Joseph Chilton Pearce. In describing routine civilized brutality, they took heroic stands for humanity. Only, they did not imagine the psyche could repair itself without therapy. 
+Much of this comes straight out of depth psychology: Wilhelm Reich, Jean Liedloff, Frederick Leboyer, Arthur Janov, Alice Miller, Alexander Lowen, Joseph Chilton Pearce. And perhaps the deepest of all, Immanuel Velikovsky. In describing routine civilized brutality, they took heroic stands for humanity. Only, they did not imagine the psyche could repair itself, without therapy or discipline. 
 
 Suffice it to say I'm no scientific materialist. This quaint philosophy holds that sensation of the bludgeoned is all; that humans are so special that nature has exempted us from from its laws; and that anything generated through science (and by civilization itself) is inherently good. Find excellent elaborations of the humor in this idea in _Ishmael_ by Daniel Quinn and Rupert Sheldrake's critique of scientism. 
 
