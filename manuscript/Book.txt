@@ -17,7 +17,7 @@ darkness.md
 water.md
 backmatter.txt
 faq.md
-appendix-laws-of-life
+appendix-laws-of-life.md
 bibliography-influences.md
 acknowledgments.md
 license.md
