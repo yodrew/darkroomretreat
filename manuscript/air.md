@@ -85,16 +85,22 @@ Here are further design constraints, photos, plans, and instructions for making 
 
 ### helix vent {#helix-vent}
 
-![](images/helix-vent-complete.jpg)  
+![](images/helix-vent-complete.jpg)
+
 ![](images/helix-vent-core-exploded.jpg)
 
 This photo is of the old helix vent. The new one is similar but: a bit narrower; triangles inside are more pointy; their edges have flaps; there is no fabric; at the side opening, the cardboard has a lip and the core has flaps.
 
-[![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)  
-[![plan: helix vent, channels](images/helix-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-channels.pdf)  
-[![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-inner-wall.pdf)  
-[![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-outer-wall.pdf)  
-[![plan: helix vent, shell](images/helix-vent-shell.png)](http://darkroomretreat.com/img/plan/helix-vent-shell.pdf)  
+[![plan: helix vent, assembly](images/helix-vent-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-assembly.pdf)
+
+[![plan: helix vent, channels](images/helix-vent-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-channels.pdf)
+
+[![plan: helix vent, inner wall](images/helix-vent-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-inner-wall.pdf)
+
+[![plan: helix vent, outer wall](images/helix-vent-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-outer-wall.pdf)
+
+[![plan: helix vent, shell](images/helix-vent-shell.png)](http://darkroomretreat.com/img/plan/helix-vent-shell.pdf)
+
 [![plan: helix vent, slot](images/helix-vent-slot.png)](http://darkroomretreat.com/img/plan/helix-vent-slot.pdf)
 
 &nbsp;
@@ -180,9 +186,12 @@ Read through instructions once while studying plans.
 
 For inside silencer or other enclosure with two or more corners for light to go around. Follow helix vent instructions above, adapting as necessary.
 
-[![plan: helix vent-z, assembly](images/helix-vent-z-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-z-assembly.pdf)  
-[![plan: helix vent-z, channels](images/helix-vent-z-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-z-channels.pdf)  
-[![plan: helix vent-z, inner-wall](images/helix-vent-z-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-z-inner-wall.pdf)  
+[![plan: helix vent-z, assembly](images/helix-vent-z-assembly.png)](http://darkroomretreat.com/img/plan/helix-vent-z-assembly.pdf)
+
+[![plan: helix vent-z, channels](images/helix-vent-z-channels.png)](http://darkroomretreat.com/img/plan/helix-vent-z-channels.pdf)
+
+[![plan: helix vent-z, inner-wall](images/helix-vent-z-inner-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-z-inner-wall.pdf)
+
 [![plan: helix vent-z, outer-wall](images/helix-vent-z-outer-wall.png)](http://darkroomretreat.com/img/plan/helix-vent-z-outer-wall.pdf)
 
 ### threshold vent {#threshold-vent}
