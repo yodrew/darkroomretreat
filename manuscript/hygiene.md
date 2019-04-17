@@ -73,10 +73,10 @@ Here are all the laws of life, the strongest dose of hygienism you can get.
 
 ### primary {#primary}
 
-- **Force**: _There is life._ A force inherent in organisms, called life force or vital force, sustains the instinct of self-preservation in every cell of the body. (_Life's Great Law_)
-- **Order**: Life's self-preserving nature and conditional existence are its defining characteristics. The constant practical aim of self-preservation is health, life's natural state. The organism is thus completely self-ordering, self-constructing, self-maintaining, self-directing, self-repairing, self-defending, and self-healing. Externally, it needs only its original conditions: air, warmth, water, light and darkness, food, company, etc.
-- **Coordination**: The instinct of self-preservation which coordinates all living processes is a form of consciousness. The faculty of consciousness is the psyche. Thus the psyche is the coordinating system of animals. It works mostly unconsciously. The conscious mostly serves to maintain conditions.
-- **Capacity**: Capacity, the degree of an organism's structural integrity, determines function, its physical, emotional, and mental ability to live. Capacity increases with rest and decreases with trauma. How one is determines what one can do---_and benefit from_.
+- **Force**: A force inherent in organisms, called life force or vital force, sustains the instinct of self-preservation in every cell of the body. (_Life's Great Law_)
+- **Order**: Life's defining characteristics are its self-preserving nature and conditional existence. The constant practical aim of self-preservation is health, life's natural state. Self-preserving means completely self-generating, self-maintaining (self-ordering, directing, and defending), and self-healing (self-repairing, cleaning, and energizing).
+- **Coordination**: The instinct of self-preservation coordinates all living processes. Instinct is a basic form of consciousness. The faculty of consciousness is the psyche. Thus the psyche is the coordinating system of animals. It works mostly unconsciously. The conscious mostly serves to maintain conditions.
+- **Capacity**: Capacity determines function. Capacity is the degree of an organism's structural integrity. Function is its physical, emotional, and mental ability to live. Capacity increases with rest and decreases with trauma. How one is determines what one can do---_and benefit from_.
 
 ### secondary {#secondary}
 
@@ -126,7 +126,7 @@ NOTE: In an earlier edition of this book, I wrote:
 
 > Sixteen laws is too great a number for the mind to apprehend at once. So over time, integrating laws will emerge or some laws will be recognized as primary to others. Three to five "Great Laws", with the others as corollaries or sub-laws, will bring hygiene within reach of everyone's understanding.
 
-In the above list, this work has finally commenced.
+In the above list, this process has commenced.
 
 ### examples {#examples}
 
