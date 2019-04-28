@@ -11,7 +11,7 @@ rsync -auv plan/image/book/*.png ../../darkroomretreat/manuscript/images
 # text
   # collect
 cd ../_pages
-cp blurb.md notes.md foreword.md preface.md introduction.md hygiene.md darkroom-retreat.md psychology.md format.md protocol.md prepare.md design.md make.md air.md darkness.md water.md faq.md appendix-laws-of-life.md about/bibliography-influences.md about/acknowledgments.md about/services.md about/license.md about/bio.md ../../darkroomretreat/manuscript
+cp ../_includes/blurb.md notes.md foreword.md preface.md introduction.md hygiene.md darkroom-retreat.md psychology.md format.md protocol.md prepare.md design.md make.md air.md darkness.md water.md faq.md appendix-laws-of-life.md about/bibliography-influences.md about/acknowledgments.md about/services.md about/license.md ../_includes/bio.md ../../darkroomretreat/manuscript
   # YAML
 cd ../../darkroomretreat/manuscript
 perl -p -i -e 's,---\n,,s' *.md
@@ -21,6 +21,8 @@ perl -i -nle 'print if !/permalink:/' *.md
 perl -i -nle 'print if !/navprev:/' *.md
 perl -i -nle 'print if !/navup:/' *.md
 perl -i -nle 'print if !/navnext:/' *.md
+perl -p -i -e 's,^<!---->,# blurb\n,s' blurb.md
+perl -p -i -e 's,^<!---->,# bio\n,s' bio.md
   # header hashmarks
 sed -i 's/^####/##/g' *.md
   # miscellaneous
