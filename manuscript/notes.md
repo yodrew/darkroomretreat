@@ -8,7 +8,7 @@ The book has links. On the web, they are colored. In the ebook and print, they l
 - ____*internal links*____ to other parts of this book. Chapter and section indicated for readers of print version.
 - ____*books*____, downloadable 
 
-Current version of book:
+To download the current version of book:
 
 - ebook (pdf, epub, mobi):
     - [____leanpub.com/darkroomretreat____](http://leanpub.com/darkroomretreat)
@@ -17,4 +17,4 @@ Current version of book:
     - [____leanpub.com/darkroomretreat/read____](http://leanpub.com/darkroomretreat/read): all on one page, white background
     - [____darkroomretreat.com____](http://darkroomretreat.com): one chapter per page, dark background
 - plans: [____darkroom-retreat.zip____](http://darkroomretreat.com/darkroom-retreat.zip/ ): all pdfs and svg source code
-
+- printable pdf: write me
