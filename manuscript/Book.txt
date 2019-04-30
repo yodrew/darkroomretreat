@@ -16,6 +16,7 @@ air.md
 darkness.md
 water.md
 backmatter.txt
+participate.md
 faq.md
 appendix-laws-of-life.md
 bibliography-influences.md
