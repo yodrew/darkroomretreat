@@ -1,5 +1,7 @@
 mainmatter.txt
+dedication.md
 notes.md
+blurb.md
 foreword.md
 preface.md
 introduction.md
@@ -15,11 +17,11 @@ air.md
 darkness.md
 water.md
 backmatter.txt
-participate.md
 faq.md
 appendix-laws-of-life.md
 bibliography-influences.md
 acknowledgments.md
-license.md
+participate.md
 services.md
+license.md
 bio.md
