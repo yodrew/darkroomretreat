@@ -70,11 +70,11 @@ A mini-retreat helps maintain restedness between 4- and 8-day retreats. Some ben
 
 W> __CAUTION:__ Do _not_ start a mini-retreat after 20:00, nor stay in longer than 16 hours. In me, these induced mild shock and very negative feelings and thoughts that took a 4-day retreat to recover from.
 
-W> In retreat, the organism strongly resets natural biological rhythms. Namely, going to sleep whenever tired, especially at nightfall. If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour or two late is less than ideal, but it still works because the organism has time to compensate. This is not the case with mini-retreating.
+> In retreat, the organism strongly resets natural biological rhythms. Namely, going to sleep whenever tired, especially at nightfall. If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour or two late is less than ideal, but it still works because the organism has time to compensate. This is not the case with mini-retreating.
 
 W> __48-hour cycle:__ The human organism in darkness seems to go through a 48-hour cycle with a point of no return after 16--18 hours. So either exit before going past this point or complete the cycle with a 4-day retreat. Otherwise you may experience very negative consequences. It's like jumping out of a Ferris wheel after it has gone too far up. Read my blog post, [____how not to retreat____](http://darkroomretreat.com/blog/2013/05/how-not-to-retreat), for a longer explanation. 
 
-W> Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
+> Biological rhythms are very powerful and apparently cannot be messed with in this way. So, better safe than sorry, at least until you have retreated enough to feel confident about experimenting with mini-retreats. 
 
 #### 4-day retreat {#4-day-retreat}
 
@@ -90,7 +90,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema, but spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-W> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [____*false capacity*____](#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat._
+W> __CAUTION__: I got caught in a whirlpool made of a several 4-day retreats that was increasingly difficult to break out of. I lost too much [____*false capacity*____](#false-capacity) before restored normal capacity could compensate. Avoid this mistake. If you do one, just do **one or two** 4-day retreat, absolutely no more than three, then steam ahead with arrangements for an 8-day retreat.s_
 
 #### transition {#transition}
 
