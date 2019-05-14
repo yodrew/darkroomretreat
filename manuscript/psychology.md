@@ -2,7 +2,7 @@
 
 ## intro {#intro}
 
-It's time to get down and dirty. Something's broken and we have to fix it.
+It's time to get our hands dirty. Something is broken and we have to fix it.
 
 Hygiene's basic structure is sound. It is objective. It deals in universal facts of biology. It constrains its analyses and recommendations to the abilities of a reasonable person living an ordinary life anywhere in the world. If hygiene has a problem, it is only due to not being hygienic enough. It is because its secondary ideas or practices contradict its fundamental principles. Once we discover a problem, we can use hygiene's own principles and methods to correct it.
 
@@ -110,7 +110,7 @@ The hygienist's rational and benevolent view of disease keeps him cool as a cucu
 
 This approach reveals the poor conditions and the ordinary ways to correct them. Indeed, a client of a hygienist is really a student. He soon learns to take care of himself, then his family and neighbors. It's open source health care. Viral, so to speak.
 
-For further study of hygienic pathology, see Herbert Shelton's two volumes on orthopathy. One is on [____general pathology____](http://soilandhealth.org/book/the-hygienic-system-vol-vi-orthopathy/), one is on [____specific symptoms and responses____](http://health4thebillions.org/product.php?id_product=91). Now we will more closely examine the primary cause of disease, trauma. 
+For further study of hygienic pathology, see Herbert Shelton's two volumes on orthopathy. One is on [____general pathology____](http://soilandhealth.org/book/the-hygienic-system-vol-vi-orthopathy/), one is on specific [____symptoms and responses____](http://health4thebillions.org/product.php?id_product=91). Now we will more closely examine the primary cause of disease, trauma. 
 
 ## trauma {#trauma}
 
@@ -203,8 +203,6 @@ However, some of us find this common state to be, well, sheer insanity, if you d
 - sickening health care
 
 I could go on. No doubt, you could extend the list yourself. Perhaps you have wept over the world's desperate madness. Perhaps you have wept over your own.
-
-I said this chapter would get down and dirty. But light shines at the end of the tunnel.
 
 Calling something crazy usually halts further consideration and conversation. After all, "you can't fix crazy." So what good does it do to think about it? Is it even craziness? Or is it human nature, as we have long assumed? That is what most religion and philosophy say. Since nothing overcomes nature. So they render themselves helpless by their own pronouncements. Also, they excuse themselves.
 
@@ -303,7 +301,8 @@ And then? Healed from trauma, one will no longer be compelled to repeat it. One 
 
 The maturation of hygiene's laws; the emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [____*hygiene notes*____](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
 
-I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's [____*The Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf).
+I am only saying enough here to give you a solid basis for beginning to do hygienic darkroom retreats. If you like what happens, further study is natural. For a thorough introduction to hygiene's principles, practices, and intriguing history, read Shelton's  
+[____*Science and Fine Art of Natural Hygiene*____](http://darkroomretreat.com/nhs.pdf).
 
 &nbsp;
 

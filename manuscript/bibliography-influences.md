@@ -18,7 +18,7 @@
     - _Pleasure_, Alexander Lowen, a faithful student of Reich
     - _Banished Knowledge: Facing Childhood Injuries_, Alice Miller
 - philosophical and spiritual traditions 
-    - my parents, John and LouAnn
+    - my parents, John and LouAnn, and brother, [____Paul____](http://blacklabworld.com)
     - _Atlas Shrugged_, etc, Ayn Rand, preceptor
     - [____Tantric Hinduism____](http://hohmpress.com/books-hohm-press/alchemy-transformation-book.html) with guru, [____Purna Steinitz____](http://goo.gl/dEcMwg)
     - _In Search of the Miraculous_, Ouspensky (Gurdjieff's basic teachings)
@@ -27,11 +27,11 @@
 - health
     - my parents
     - initiated into Natural Hygiene by [____Frederic Patenaude____](http://fredericpatenaude.com)
-    -  [____The Science and Fine Art of Natural Hygiene____](http://darkroomretreat.com/nhs.pdf), Herbert Shelton
+    -  [____Science and Fine Art of Natural Hygiene____](http://darkroomretreat.com/nhs.pdf), Herbert Shelton
     - _The 80/10/10 Diet_, [____Dr Douglas Graham____](http://foodnsport.com)
     - _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, Sterling Voss, for finding this rare work)
 - design and art 
-    - my parents and brother, [____Paul____](http://blacklabworld.com)
+    - my parents and brother
     - grandelder and grandmaster craftsman and engineer, [____Jack Nuckols____](http://rockcreekmetalcraft.com)
     - childhood teacher, Steve Parks (Horizons School, Twin Falls)
     - accompanist and mentor, [____Willetta Warberg____](http://willettawarberg.com)

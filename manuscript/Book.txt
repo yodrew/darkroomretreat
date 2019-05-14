@@ -21,7 +21,7 @@ faq.md
 appendix-laws-of-life.md
 bibliography-influences.md
 acknowledgments.md
-participate.md
 services.md
 license.md
+participate.md
 bio.md
