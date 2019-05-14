@@ -56,11 +56,15 @@ It's a 20L bucket with a toilet seat on top. No kidding.
 
 A 20L bucket sits inside a box with a hole in the top. The return duct attaches to a hole in the side of the box. So all air exits the room through the toilet, containing all odor. Bucket also collects pee, so empty it every 3-5 days. Making a vented urinal or a toilet that separates pee from poop is possible, too. 
 
-Dimensions: 35cmH x 60W x 60D
+Overall dimensions: 35cmH x 60W x 60D
 
-[![plan: toilet top](images/toilet-top.png)](http://darkroomretreat.com/img/plan/toilet-top.pdf)  
-[![plan: toilet frame](images/toilet-frame.png)](http://darkroomretreat.com/img/plan/toilet-frame.pdf)  
-[![plan: toilet liner](images/toilet-liner.png)](http://darkroomretreat.com/img/plan/toilet-liner.pdf)  
+&nbsp;
+
+[![plan: toilet top](images/toilet-top.png)](http://darkroomretreat.com/img/plan/toilet-top.pdf)
+
+[![plan: toilet frame](images/toilet-frame.png)](http://darkroomretreat.com/img/plan/toilet-frame.pdf)
+
+[![plan: toilet liner](images/toilet-liner.png)](http://darkroomretreat.com/img/plan/toilet-liner.pdf)
 
 &nbsp;
 
@@ -104,6 +108,8 @@ A washcloth or sponge for a sponge bath
 ### deluxe {#deluxe-shower}
 
 [![plan: shower](images/shower.png)](http://darkroomretreat.com/img/plan/shower.pdf)
+
+&nbsp;
 
 It's a simple shower which collapses for storage, requiring no pipes and little water. Parts from top to bottom:
 
