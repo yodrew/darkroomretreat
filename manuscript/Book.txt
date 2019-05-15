@@ -1,6 +1,4 @@
 mainmatter.txt
-blurb.md
-dedication.md
 notes.md
 foreword.md
 preface.md
