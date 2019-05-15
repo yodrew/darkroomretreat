@@ -128,7 +128,7 @@ Adjust water temperature with cold water to suit yourself. When ready to bathe, 
 
 Adjust shower length and water flow with different size containers and tubes. Make sure hook can hold the weight.
 
-## conclusion {#conclusion}
+~/~
 
 That's the state of my art of low-cost DIY darkroom design and construction. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See  
 [____*introduction > open-source*____](#open-source).

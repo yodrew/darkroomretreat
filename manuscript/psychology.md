@@ -298,7 +298,7 @@ But one always knows the result: restoration of function---recovery of the lost 
 
 And then? Healed from trauma, one will no longer be compelled to repeat it. One will absorb and redeem its history and consequences. As with the rest of hygiene, hygienic psychology's bad news is much worse, and its good news is far better than anyone dreamed. 
 
-~~
+~/~
 
 The maturation of hygiene's laws; the emergence of a hygienic psychology; the identification of trauma at the root of all illness; and the greater importance of darkness than fasting for resting and healing have massive implications for hygiene's pathology and destiny, and humanity's as well. Hygiene has said illness originates with enervation (low energy) and toxemia. Trauma explains how these conditions themselves originate. And in coming to terms with trauma, hygiene can finally meet and obsolete allopathy (Western medicine) in its stronghold. I discuss these implications further in [____*hygiene notes*____](http://darkroomretreat.com/darkness-conjecture/hygiene-notes).
 
