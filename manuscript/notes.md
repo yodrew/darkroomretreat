@@ -19,6 +19,5 @@ This book has links. On the web, they are colored. In the ebook and print, they 
     - direct: [____darkroomretreat.com/ebook____](http://darkroomretreat.com/ebook)
     - get notified of new versions:  
     [____leanpub.com/darkroomretreat____](http://leanpub.com/darkroomretreat)
-- plans [____darkroom-retreat.zip____](http://darkroomretreat.com/darkroom-retreat.zip/ )
-- print-worthy pdf: write me
+- plans: [____darkroom-retreat.zip____](http://darkroomretreat.com/darkroom-retreat.zip/ )
 

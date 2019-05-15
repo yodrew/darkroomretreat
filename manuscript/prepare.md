@@ -157,7 +157,7 @@ These imbalance, overload, or destroy digestive chemistry, bacteria, and enzymes
 If you would like to know more about this menu before trying it, see:
 
 - [____*darkroom-retreat > food*____](#food-darkroom-retreat) and [____*protocol > food*____](#food-protocol)
-- Dr Douglas Graham's masterful  [____*The 80/10/10 Diet*____](http://foodnsport.com)
+- Dr Douglas Graham's masterful  [____*80/10/10 Diet*____](http://foodnsport.com)
 - [____Loren Lockman's videos____](https://www.youtube.com/user/LorenLockman)
 
 If you somehow cannot eat this way, eat as simply and naturally as you know how. For suggestions, write me with your limitations.

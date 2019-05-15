@@ -316,7 +316,7 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 The effects of a retreat continue afterward, sometimes with an intensity greater than the retreat's. It can feel like a storm sometimes. So I call it the aftermath. This is another phase of exploration, metamorphosis, and insight. It can last from a few days to several weeks. The transition days of a retreat reduce its length and intensity to tolerable levels. 
 
-W> __CAUTION__
+> __CAUTION__
 
 > Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____format > warning____](http://darkroomretreat.com/format/) for more.
 
@@ -336,7 +336,9 @@ Darkroom retreating provides the conditions in which the organism restores one's
 
 The full application of the [____**idea**____](http://darkroomretreat.com/darkness-conjecture) behind hygienic darkroom retreating consists of 
 
-> **doing retreats of increasing length, alternated with periods of radical lifeway change, until health is fully restored.** 
+> **doing retreats of increasing length  
+alternated with periods of radical lifeway change  
+until health is fully restored.** 
 
 "Health through healthful living," as we hygienists like to say.
 
@@ -344,13 +346,11 @@ You already know some changes you would like to make. Now you can make some of t
 
 ## summary {#summary}
 
-I have tried to impress you with the idea that you are not the main actor in darkness. But in truth, a part of you is. It is the part we are taught to ignore, deny, and disown: the autonomic self. In darkness, we cease to identify so closely with the conscious self. And it is revealed as the servant of the autonomic self. This corrects the conventional relationship, which mistakenly attempts to harness the unfailing processes of life to the desperate agenda of a crippled will we view as our sole identity.
+I have tried to impress upon you the idea that you are not the main actor in darkness. But, of course, a part of you is. We are taught to belittle, deny, and disown it: the autonomic self. In darkness, we cease to identify so closely with the conscious. It emerges as the servant of the unconscious. The conventional relationship is corrected. We have mistakenly tried to harness life's unfailing virtues to the desperate agenda of a crippled will, which we view as our sole identity.
 
 In ordinary life, you must arrange certain conditions to live. You must keep your wits about you. You are accountable for your own experience. These basic facts not only persist in the darkroom, they become especially clear. In darkness, it is your job to maintain certain conditions of the retreat. 
 
-Your non-expert, non-mind-reading, non-therapist supporter (if you have one) will be on the outside helping you do that. She will be maintaining the darkroom, bringing food, perhaps finding your lost shoes. Like any decent person would, she will talk to you for a few minutes if you need. It's your retreat. If something is not working, say so.
+Your non-expert, non-mind-reading, non-therapist supporter will be on the outside helping you do that. He will be maintaining the darkroom, bringing food, perhaps finding your lost shoes. Like any decent person would, he will talk to you for a few minutes if you need. It's your retreat. If something is not working, say so.
 
-On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and please send me a link. I have found these reports very useful in improving the darkroom, understanding the process, and learning to explain it to people. More writers and readers of reports will help spread hygienic darkroom retreating and advance its theory and practice.
-
-
+On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and send me a link. I have found these reports useful in improving darkrooms, understanding the process, and explaining it to people. More writers and readers of reports will help spread hygienic darkroom retreating, advancing its theory and practice.
 
