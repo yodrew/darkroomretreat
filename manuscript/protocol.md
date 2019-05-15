@@ -316,7 +316,9 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 The effects of a retreat continue afterward, sometimes with an intensity greater than the retreat's. It can feel like a storm sometimes. So I call it the aftermath. This is another phase of exploration, metamorphosis, and insight. It can last from a few days to several weeks. The transition days of a retreat reduce its length and intensity to tolerable levels. 
 
-> __CAUTION__: Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____format > warning____](http://darkroomretreat.com/format/) for more.
+W> __CAUTION__
+
+> Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____format > warning____](http://darkroomretreat.com/format/) for more.
 
 For about a week after your retreat, plan only usual things: job, school, family. This most quickly returns you to functional stability, minimizes exposure to disturbance, and maximizes your chance of absorbing the value of the retreat. Avoid traveling or big new things. Stay in when you might go out. The party will still be there in a week. Be subdued. Keep to yourself. Whose life is it anyway?
 
@@ -334,11 +336,9 @@ Darkroom retreating provides the conditions in which the organism restores one's
 
 The full application of the [____**idea**____](http://darkroomretreat.com/darkness-conjecture) behind hygienic darkroom retreating consists of 
 
-> **doing retreats of increasing length  
-alternated with periods of radical lifeway change  
-until health is fully restored.** 
+> **doing retreats of increasing length, alternated with periods of radical lifeway change, until health is fully restored.** 
 
-We attain, "Health through healthful living," as we hygienists like to say.
+"Health through healthful living," as we hygienists like to say.
 
 You already know some changes you would like to make. Now you can make some of them. Those you do not know, you will, in darkness, become capable of discovering, learning, and applying. Resources and opportunities that were right under your nose, on the tip of your tongue, out of the corner of your eye suddenly become visible, compelling, accessible. Having restored a lost part of yourself, _how_ you are changes. You notice and attract different things. Once you see you can walk through the front door of a bakery and get whatever you like, you will stop begging crumbs out its back door.
 

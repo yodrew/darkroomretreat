@@ -2,13 +2,13 @@
 
 This book is an integrated whole. It presents the idea immediately in brief, then in detail. Every word contributes to understanding, including the blurb, dedication, etc. Each paragraph builds upon the last.
 
-The book has links. On the web, they are colored. In the ebook and print, they look like this:
+This book has links. On the web, they are colored. In the ebook and print, they look like this:
 
 - ____external links____ to other webpages
 - ____*internal links*____ to other parts of this book. Chapter and section indicated for readers of print version.
 - ____*books*____, downloadable 
 
-Get latest version:
+### get latest version {#get-latest-version}
 
 - web
     - one chapter per page, dark background:  
