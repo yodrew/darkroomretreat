@@ -1,4 +1,4 @@
-# participate  {#participate-}{#participate}
+# participate {#participate}
 
 Join the dolphin economy: I help you help me help you...
 
@@ -15,7 +15,7 @@ Here is how:
     - tell me about spelling and grammatical errors you find in the book
     - improve the website
     - improve the method and designs; see below
-    - publish the book; see [________license________](http://darkroomretreat.com/about/license)
+    - publish the book; see [____license____](http://darkroomretreat.com/about/license)
     - invite me to speak at an event
 - further
     - help me organize a retreat so I can heal from my own psychosis

@@ -11,7 +11,7 @@ rsync -auv plan/image/book/*.png ../../darkroomretreat/manuscript/images
 # text
   # collect
 cd ../_pages
-cp dedication.md ../_includes/blurb.md notes.md foreword.md preface.md introduction.md hygiene.md darkroom-retreat.md psychology.md format.md protocol.md prepare.md design.md make.md air.md darkness.md water.md participate.md faq.md appendix-laws-of-life.md about/bibliography-influences.md about/acknowledgments.md about/services.md about/license.md ../_includes/bio.md ../../darkroomretreat/manuscript
+cp dedication.md ../_includes/blurb.md notes.md foreword.md preface.md introduction.md hygiene.md darkroom-retreat.md psychology.md format.md protocol.md prepare.md design.md make.md air.md darkness.md water.md faq.md appendix-laws-of-life.md about/bibliography-influences.md about/acknowledgments.md about/services.md about/license.md about/participate.md ../_includes/bio.md ../../darkroomretreat/manuscript
   # YAML
 cd ../../darkroomretreat/manuscript
 perl -p -i -e 's,---\n,,s' *.md
@@ -56,9 +56,9 @@ perl -pi -e 's,\]\(/img/plan/image/,\]\(images/,g' *.md
 perl -pi -e 's,[a-z:\, ]+\]\(/img/photo/,\]\(images/,g' *.md
     # cross
       # /chapter#section to #section
-perl -p -i -e 's,\]\(\/(notes|foreword|preface|introduction|hygiene|darkroom-retreat|psychology|format|protocol|prepare|design|make|air|darkness|water|faq|bibliography-influences|acknowledgments|services|license|bio)#,\]\(#,g' *.md
+perl -p -i -e 's,\]\(\/(notes|foreword|preface|introduction|hygiene|darkroom-retreat|psychology|format|protocol|prepare|design|make|air|darkness|water|faq|bibliography-influences|acknowledgments|services|license|participate|bio)#,\]\(#,g' *.md
       # /chapter to #chapter
-perl -p -i -e 's,\]\(\/(notes|foreword|preface|introduction|hygiene|darkroom-retreat|psychology|format|protocol|prepare|design|make|air|darkness|water|faq|bibliography-influences|acknowledgments|services|license|bio)\),\]\(#$1\),g' *.md
+perl -p -i -e 's,\]\(\/(notes|foreword|preface|introduction|hygiene|darkroom-retreat|psychology|format|protocol|prepare|design|make|air|darkness|water|faq|bibliography-influences|acknowledgments|services|license|participate|bio)\),\]\(#$1\),g' *.md
       # (/ to (http://darkroomretreat
 perl -p -i -e 's,\(\/,\(http:\/\/darkroomretreat.com\/,g' *.md
   # anchors
