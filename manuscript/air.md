@@ -210,6 +210,8 @@ Block light that reaches the door from the outside as much as possible. For exam
 
 [![plan: threshold vent](images/threshold-vent.png)](http://darkroomretreat.com/img/plan/threshold-vent.pdf)
 
+&nbsp;
+
 1. materials
     - paper, black, acid-free, 400-600gsm
     - muslin fabric, black
@@ -269,6 +271,8 @@ Thanks to Richard Nöjd of Skattungbyn, Sweden, for pointing out these cool solu
 
 [![plan: silencer](images/silencer.png)](http://darkroomretreat.com/img/plan/silencer.pdf)
 
+&nbsp;
+
 The plan is straightforward. It is just a wooden box with insulation. The zig-zag channel has a hole at each end. Each hole has 4 possible locations: either face, side, or end. Cut a circle for ducting or fan, a slot for a helix vent. The fan mount adapts to all 4 locations, inside or out.
 
 The box is lined with porous non-toxic insulation. Pillow filling, quilt batting, cellulose, clean wool, shredded fabric, wood fiber could all work. Note, the shredded fabric and wood fiber I've tried had faint smells that I disliked. I feel hesitant to use acoustic foam because I don't know what chemicals are in it. Fiberglass and rockwool are unpleasant to work with and fiberglass often smells of chemicals. Closed cell foam like styrofoam, polyisocyanurate boards, camping pads, etc, is not porous so will not work.
@@ -307,6 +311,8 @@ I just discovered cheap centrifugal "blower" fans in the same size. $10-20 on eB
 ### fan mount {#fan-mount}
 
 [![plan: fan mount](images/fan-mount.png)](http://darkroomretreat.com/img/plan/fan-mount.pdf)
+
+&nbsp;
 
 This mounting design totally dampens vibration from the fan, which is already smooth and quiet. The silencer then absorbs the fan's airborne noise. It is inspired by studio microphones and tensegrity structures. The resulting module fits over any hole in the silencer.
 
