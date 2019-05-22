@@ -1,6 +1,6 @@
 # acknowledgments {#acknowledgments}
 
-Thanks to hundreds of people in 8 countries on 2 continents over 28 years, who morally and materially aided me during my prodigal search, especially my:
+Thanks to hundreds of people in a dozen countries on 2 continents for over 3 decades, who morally and materially aided me during my prodigal search, especially my:
 
 ### editors {#editors}
 
@@ -41,11 +41,11 @@ Each of you gave me the world.
 
 ### old friends {#old-friends}
 
-- John Roberts: lifelong best friend, tremendous supporter, host
+- John Roberts: lifelong best friend, tremendous supporter, and host
 - Daniel Meulbroek: guardian, supporter, and host extraordinaire 
-- Brian Riggs Sullivan: full-throttle collaborator, who gave first help in developing these ideas and, as always, trying them out yourself
+- Brian Riggs Sullivan: full-throttle collaborator, who gave first help in developing these ideas and, as always, trying them out
 - Evelyn Thomas and Alton Sterling Voss: supporters, fellow investigators and survivors 
-- Ian Robertson, for the life-ring of rationality when it mattered most
+- Ian Robertson: for the life-ring of rationality when it mattered most
 
 ### since darkness {#since-darkness}
 
