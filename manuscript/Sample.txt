@@ -1,11 +1,10 @@
 mainmatter.txt
-sample-note.md
 blurb.md
-notes.md
 foreword.md
 preface.md
 introduction.md
 hygiene.md
+sample-note.md
 format.md
 air.md
 backmatter.txt
