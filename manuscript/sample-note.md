@@ -1,3 +1,3 @@
 # sample
 
-This sample includes 3 out of 11 chapters, plus front and back matter. You can read the entire book online at [darkroomretreat.com](https://darkroomretreat.com).
+This sample leaves out 8 chapters (of 11). The entire book is online at [darkroomretreat.com](https://darkroomretreat.com).
