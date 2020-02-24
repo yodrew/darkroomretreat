@@ -1,4 +1,5 @@
 mainmatter.txt
+samplenote.md
 blurb.md
 notes.md
 foreword.md
@@ -6,9 +7,6 @@ preface.md
 introduction.md
 hygiene.md
 format.md
-prepare.md
-design.md
-make.md
 air.md
 backmatter.txt
 faq.md
