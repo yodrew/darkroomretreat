@@ -1,5 +1,5 @@
 mainmatter.txt
-samplenote.md
+sample-note.md
 blurb.md
 notes.md
 foreword.md
