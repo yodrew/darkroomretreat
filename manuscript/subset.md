@@ -55,7 +55,9 @@ The book is an integrated whole. Every word aids comprehension, including front 
 
 #### links {#links}
 
-- [____underlined____](https://hygienicdarkretreat.com/) words are links- external links are listed at the very end of this book, in element _z_- a link followed by a letter or number is a "crosslink", a cross reference to another section within the book. For example, [____media____](#media) _-b_ crosslinks to the section below, "media", in this element, _b_ &nbsp; notes.
+- [____underlined____](https://hygienicdarkretreat.com/) words are links
+- external links are listed at the very end of this book, in element _z_
+- a link followed by a letter or number is a "crosslink", a cross reference to another section within the book. For example, [____media____](#media) _-b_ crosslinks to the section below, "media", in this element, _b_ &nbsp; notes.
 - [____*italicized*____](https://foodnsport.com) links are book titles
 - if also [____*asterisked*____](https://hygienicdarkretreat.com/f/hygiene.pdf)\*, book is free to download or read online
 
@@ -3073,6 +3075,8 @@ Below is the key to the plans. Find further explanation of symbols in **fabricat
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; plan: key - [____download____](https://hygienicdarkretreat.com/img/plan/key.pdf)
 
+{pagebreak}
+
 ## fabricate {#fabricate}
 
 These instructions apply to all components, or as indicated. Read further instructions for each component in its respective chapter and section afterward.
@@ -4795,7 +4799,13 @@ I accept payments by:
 - Cash, check, money order, metal, Goldbacks, bank transfer, deposit, commodities, etc: email me. Include your location.
 
 
-### contact {#contact}- email: info@andrewdurham.com - text/voicemail: +1 541 210 8470 (in the US) [____hygienicdarkretreat.com____](https://hygienicdarkretreat.com/)
+### contact {#contact}
+
+- email: info@andrewdurham.com 
+- text/voicemail: +1 541 210 8470 (in the US) 
+
+[____hygienicdarkretreat.com____](https://hygienicdarkretreat.com/)
+
 
 # _y_ &nbsp; bio {#bio}
 
@@ -4829,9 +4839,9 @@ In 2008, I discovered darkness as the means nature provides us to heal from trau
 
 # _z_ &nbsp; external links {#external-links}
 
-Replace § with hygienicdarkretreat.com when retyping links
+Replace § with hygienicdarkretreat.com when retyping links.
 
- #### notes
+#### notes
 
 underlined - [§/](https://hygienicdarkretreat.com/)  
 *italicized* - [foodnsport.com](https://foodnsport.com)  

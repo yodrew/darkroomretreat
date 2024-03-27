@@ -2,7 +2,7 @@
 
 Replace § with hygienicdarkretreat.com when retyping links
 
- #### notes
+#### notes
 
 underlined - [§/](https://hygienicdarkretreat.com/)  
 *italicized* - [foodnsport.com](https://foodnsport.com)  

@@ -221,6 +221,8 @@ Below is the key to the plans. Find further explanation of symbols in **fabricat
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; plan: key - [____download____](https://hygienicdarkretreat.com/img/plan/key.pdf)
 
+{pagebreak}
+
 ## fabricate {#fabricate}
 
 These instructions apply to all components, or as indicated. Read further instructions for each component in its respective chapter and section afterward.
