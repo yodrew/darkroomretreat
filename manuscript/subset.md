@@ -1,5 +1,6 @@
 {mainmatter}
 
+
 -# front
 
 &nbsp;
@@ -446,6 +447,7 @@ Now, on to the life-restoring perspective of hygiene and how darkness and psycho
 _1_ &nbsp; hygiene  
 _2_ &nbsp; darkroom retreat  
 _3_ &nbsp; psychology
+
 
 # _1_ &nbsp; hygiene {#hygiene}
 
@@ -1568,6 +1570,8 @@ I discuss these implications further in [____hygiene notes____](https://hygienic
 _4_ &nbsp; format  
 _5_ &nbsp; protocol  
 _6_ &nbsp; prepare
+
+
 # _4_ &nbsp; format {#format}
 
 We can use darkness in various formats for different reasons. Here, I describe formats in which I have experienced deep rest and gotten positive results in my energy level, psychic state, and general well-being. I also explain ways darkness can go wrong and how to easily avoid them. 
@@ -2603,6 +2607,8 @@ _8_ &nbsp; make
 _9_ &nbsp; air  
 _10_ &nbsp; darkness  
 _11_ &nbsp; water
+
+
 # _7_ &nbsp; design {#design}
 
 Nature works. Occasionally, disaster strikes and chaos ensues. We must restore order. We need a plan. So we design.
@@ -4209,6 +4215,7 @@ That's also the end of the body of my book. Thank you for reading. I hope it hel
 
 {backmatter}
 
+
 -# back
 
 &nbsp;
@@ -4225,6 +4232,8 @@ _w_ &nbsp; license
 _x_ &nbsp; services  
 _y_ &nbsp; bio
 _z_ &nbsp; links
+
+
 # _s_ &nbsp; faq {#faq}
 
 ## mechanics {#mechanics3}
