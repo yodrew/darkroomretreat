@@ -1,6 +1,6 @@
 # _z_ &nbsp; external links {#external-links}
 
-Replace § with hygienicdarkretreat.com when retyping links
+Replace § with hygienicdarkretreat.com when retyping links.
 
 #### notes
 

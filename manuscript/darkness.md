@@ -120,7 +120,6 @@ I put this one together in a few minutes. It's like the standard mask below but 
 	3. melt all ends with flame to prevent fraying
 	4. tie figure-8 knots in ends of elastic
 8. attach straps
-	1. 
 	1. fold cord in half, making a loop. Sew loop to front of mask at points **x** and **z** so loops stick out over corners from cover 1- and cord ends are pointed toward center of cover
 	2. tie one end of a 500- piece to a loop at point **x** with a slip knot
 	3. tie other end at other point **x** with taut line hitch
