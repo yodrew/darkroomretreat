@@ -6,7 +6,7 @@ Light is easier to deal with than ventilation. There are fewer factors involved,
 
 But light is relentless. It sneaks sideways through a single layer of clear plastic tape and the hook and loop of black velcro; through the weave and fibers of heavy fabric; around multiple, darkened corners; and past all edges and joints.
 
-I suffered many defeats at the mighty hands of light. Eliminating it demanded equally formidable techniques. I wandered continents for years to find them. Now I bestow them upon you, oh, future [____Conan the Barbarian____](https://www.youtube.com/watch?v=Oo9buo9Mtos) of lightproofing.
+I suffered many defeats at the mighty hands of light. Eliminating it demanded equally formidable techniques. I wandered continents for years to find them. Now I bestow them upon you.
 
 NOTE: Numerals with marks are in millimeters (see [____metric____](#metric) _-8_).
 

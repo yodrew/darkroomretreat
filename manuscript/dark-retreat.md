@@ -357,7 +357,7 @@ Buckle up. We are heading into the abysmal and pregnant psychology behind hygien
 [^15]: _Raw Courage World_ a fun-park ride of a book by the gonzo Fouad "Raw Courage" Dini. While reading it, many wonder if it is really happening. Yes, it is.
 [^16]: [____*Political Ponerology*____](https://hygienicdarkretreat.com/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms, and simple preventatives. Here is an [____excellent introductory interview____](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
 [^17]: [____"Psychopaths Among Us"____](http://www.hare.org/links/saturday.html), on the critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.
-[^18]: [____*Malignant Self-Love: Narcissism Revisited*____](https://narcissistic-abuse.com) by Sam Vaknin is _the_ book for narcissists who seek conscious aid in reforming.
+[^18]: [____*Malignant Self-Love: Narcissism Revisited*____](https://narcissistic-abuse.com) by Sam Vaknin is _the_ book for narcissists (and their victims) who seek conscious aid in understanding and reforming their condition.
 
 
 

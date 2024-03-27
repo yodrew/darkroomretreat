@@ -410,7 +410,7 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 ### post-retreat {#post-retreat}
 
-The effects of a retreat continue afterward. Sometimes their intensity is even greater. The time afterward can feel like a storm. So I call it the aftermath. It is another phase of exploration, metamorphosis, and insight. It can last from a few days to a few weeks. The transition days of a retreat reduce its length and intensity to tolerable levels. 
+The effects of a retreat continue afterward. Sometimes their intensity is even greater. The time afterward can feel like a storm. So I call it the aftermath. It is another phase of exploration, metamorphosis, and insight. It can last from a few days to a few weeks. The transition days of a retreat reduce its length and intensity to tolerable levels.
 
 **_CAUTION:_** Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____warning____](#warning) _-4_ for more.
 

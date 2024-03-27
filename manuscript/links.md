@@ -150,7 +150,6 @@ PCO - [sciencedirect.com/science/article/pii/S0926337316308001](https://www.scie
 
 #### darkness
 
-Conan the Barbarian - [youtube.com/watch?v=Oo9buo9Mtos](https://www.youtube.com/watch?v=Oo9buo9Mtos)  
 zip file - [§/hygienicdarkretreat.zip](https://hygienicdarkretreat.com/hygienicdarkretreat.zip)  
 
 #### water
