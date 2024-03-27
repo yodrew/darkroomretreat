@@ -416,3 +416,5 @@ I discuss these implications further in [____hygiene notes____](https://hygienic
 [^26]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
 [^27]: Bernarr Zovluck, [____Alternative Healing____](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/): What Nobody Understands. Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. His comment would help me connect darkness with hygiene a decade later.
 [^28]: Panacea is, in Greek legend, the sister of Hygieia. 
+
+

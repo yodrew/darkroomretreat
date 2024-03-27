@@ -202,3 +202,5 @@ If, for whatever reason, you cannot yet eat this way in a retreat, eat as simply
 ~/~
 
 This ends the retreat part of the book. You've learned how to arrange and do a retreat. The hygienic theory you learned before is sinking in. Now, you just need a darkroom.
+
+

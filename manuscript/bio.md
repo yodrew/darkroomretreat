@@ -26,3 +26,5 @@ In 2008, I discovered darkness as the means nature provides us to heal from trau
 &nbsp;
 
 [____contact info____](#contact) _-x_
+
+

@@ -320,3 +320,5 @@ This is the general theory of hygiene 3.0. Now we can better apprehend our main 
 [^2]: White helped renew the spirit of Reformation in America with her books and visions. Sadly, she did it by plagiarizing much of her brilliant books. And she started a tradition of abusing people from the pulpits of Adventist churches. I recommend against visiting. But the lecture series of Adventist, Walter Veith, [____"Total Onslaught"____](https://adtv.watch/series/total-onslaught), is electrifying. He  correlates the Bible and its prophecies with major historical figures, events, and ideas—and the dark forces often at work in them.
 [^3]: Herbert Shelton, [____*Science and Fine Art of Natural Hygiene*____](https://hygienicdarkretreat.com/f/hygiene.pdf)\*, back cover.
 [^4]: religion, Latin, re (_again_) + leg (_law_), an internal binding to law. It is a desperate act, making people strange.
+
+

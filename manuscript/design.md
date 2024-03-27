@@ -237,3 +237,5 @@ Now, let's learn to make our prison cells into escape vehicles. The next four "m
 See [____plan____](https://hygienicdarkretreat.com/plan) on my website for a color sketch, downloads, and budget. Also in zip file.
 
 [^30]: Building Biology in English. [____Breathing Walls____](https://breathingwalls.com) is an exceedingly practical manual of baubiological theory and technique. The International Institute for Bau-Biologie and Ecology [____IBE____](https://buildingbiology.net) in Florida offers a course.
+
+

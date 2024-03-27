@@ -105,3 +105,5 @@ I called some people here guides, but anyone who hosted me also guided me. I've 
 I also made enemies and hurt some people along the way. To the good people: I'm sorry it didn't go the way we thought at first. Here's hoping it was not in vain. To the evil people: may you find peace, either in the destruction you crave or through unprecedented regeneration.
 
 Onward, then, till the task is complete.
+
+

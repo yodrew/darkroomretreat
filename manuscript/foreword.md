@@ -21,3 +21,5 @@ In our trauma-induced psychosis, we came to believe that lack of joy comes from 
 By the will, one can do nothing directly to restore joy, only provide proper conditions. The organism does the rest naturally. _Autonomically_.
 
 We have been right that something is wrong with us. We have been right that we must do something about it. But we have been wrong about which part of ourselves must do it. At long last, this book puts the issue to rest.
+
+

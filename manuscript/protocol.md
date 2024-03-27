@@ -453,3 +453,5 @@ Your non-expert, non-mind-reading, non-therapist supporter will be on the outsid
 On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and send me a link. I have found these reports useful in improving darkrooms, understanding the process, and explaining it to people. More writers and readers of reports will help spread hygienic dark retreating, advancing its theory and practice.
 
 [^29]: I was raised with many superstitions. In [____*Objectivism*____](https://objectivismphilosophyaynrand.com/)_: The Philosophy of Ayn Rand_, Leonard Peikoff explains how to identify and treat _arbitrary_ ideas. There is no evidence for them whatsoever. One must willfully dismiss them and put one's attention back on the facts of reality, dealing only with ideas tied to it. I found his analysis of _truth status_ extremely helpful in dealing with the conscious part of superstition.
+
+

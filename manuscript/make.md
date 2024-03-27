@@ -282,3 +282,5 @@ These instructions apply to all components, or as indicated. Read further instru
 4. wood: cut parts on a table saw
 
 Voila. You've got the basics of all darkroom components. You've prepared their plans and parts. Now, let's see how they come together for ventilation, silence, and warmth.
+
+

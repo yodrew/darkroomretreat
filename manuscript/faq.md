@@ -258,3 +258,5 @@ Maybe you are saying I'm lying. Or delusional. Or that the logical and predictab
 Probably, you are just afraid. But fear, discomfort, or unfamiliarity with an idea is not a reason to reject it. What are you afraid of? Do you know? 
 
 Baseless doubt is a manifestation of unconscious denial resulting from unhealed major trauma. It proves the very thing you are attempting to refute by it. It confirms everything I have asserted. It utterly vacates your contention. And it binds you more tightly to the necessity of trying darkness.
+
+

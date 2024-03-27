@@ -356,3 +356,4 @@ It may take a few generations of healthy living to fully restore our health and 
 
 We have examined different formats of the restful use of darkness for different circumstances and purposes. Let's look ahead to more of what happens in a retreat and exactly how to conduct it.
 
+

@@ -23,3 +23,5 @@ Welcome to the political-economy of _cool_. Here, you get rewarded for cooperati
 The idea is to make the book and components available with minimal friction in every way, at every level of distribution. Then we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
 
 We now possess the means of recovering the whole self, the source of all wealth. It will eventually make money irrelevant. Meanwhile, this is a structure in which we can make a living, have a good time, and be cool while doing it.
+
+

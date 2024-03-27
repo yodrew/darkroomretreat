@@ -386,3 +386,5 @@ If you want a roller blind, I suggest you save up and buy one from an establishe
 Get a guarantee of absolute lightproofness of the entire installation. Tell them you will be testing it with advanced sensors: eyes adjusted to darkness for days.
 
 Foamed acrylic coating is the industry standard. Make sure the label says "acrylic" so you avoid toxic PVC.
+
+

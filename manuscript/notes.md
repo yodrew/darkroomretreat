@@ -23,3 +23,5 @@ I improve the book continually. Get the latest version before rereading or makin
 - web: [____hygienicdarkretreat.com____](https://hygienicdarkretreat.com/) 
 - ebook (pdf, epub, mobi): [____leanpub.com/hygienicdarkretreat____](https://leanpub.com/hygienicdarkretreat) (subscribe to my updates in your "library" on Leanpub.)
 - plans: [____hygienicdarkretreat.zip____](https://hygienicdarkretreat.com/hygienicdarkretreat.zip)
+
+

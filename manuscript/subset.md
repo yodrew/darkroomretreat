@@ -71,6 +71,8 @@ I improve the book continually. Get the latest version before rereading or makin
 - web: [____hygienicdarkretreat.com____](https://hygienicdarkretreat.com/) 
 - ebook (pdf, epub, mobi): [____leanpub.com/hygienicdarkretreat____](https://leanpub.com/hygienicdarkretreat) (subscribe to my updates in your "library" on Leanpub.)
 - plans: [____hygienicdarkretreat.zip____](https://hygienicdarkretreat.com/hygienicdarkretreat.zip)
+
+
 # _c_ &nbsp; foreword {#foreword}
 
 ### the recovery of joy {#the-recovery-of-joy}
@@ -94,6 +96,8 @@ In our trauma-induced psychosis, we came to believe that lack of joy comes from 
 By the will, one can do nothing directly to restore joy, only provide proper conditions. The organism does the rest naturally. _Autonomically_.
 
 We have been right that something is wrong with us. We have been right that we must do something about it. But we have been wrong about which part of ourselves must do it. At long last, this book puts the issue to rest.
+
+
 # _d_ &nbsp; preface {#preface}
 
 When I first retreated in darkness, I just did it to rest. It worked. After 56 hours, I had caught up on all the sleep I had ever lost. For the first time in decades, I felt awake. I was stunned.
@@ -121,6 +125,8 @@ Hygienic dark retreating requires minimal effort and no faith. Darkness is not a
 
 ad  
 Oslo, 2020
+
+
 # _e_ &nbsp; introduction {#introduction}
 
 In civilization, we are over-stimulated and distressed. We need relief.
@@ -427,6 +433,7 @@ I continually update this book. Before rereading or building, download the lates
 ~/~
 
 Now, on to the life-restoring perspective of hygiene and how darkness and psychology complete it.
+
 
 -# hygienic
 
@@ -762,6 +769,8 @@ This is the general theory of hygiene 3.0. Now we can better apprehend our main 
 [^2]: White helped renew the spirit of Reformation in America with her books and visions. Sadly, she did it by plagiarizing much of her brilliant books. And she started a tradition of abusing people from the pulpits of Adventist churches. I recommend against visiting. But the lecture series of Adventist, Walter Veith, [____"Total Onslaught"____](https://adtv.watch/series/total-onslaught), is electrifying. He  correlates the Bible and its prophecies with major historical figures, events, and ideas—and the dark forces often at work in them.
 [^3]: Herbert Shelton, [____*Science and Fine Art of Natural Hygiene*____](https://hygienicdarkretreat.com/f/hygiene.pdf)\*, back cover.
 [^4]: religion, Latin, re (_again_) + leg (_law_), an internal binding to law. It is a desperate act, making people strange.
+
+
 # _2_ &nbsp; dark retreat {#dark-retreat}
 
 Now we will apply the theory of hygiene to the practice of dark retreating. We will examine the **elements** of hygienic dark retreating. **Distinctions** between hygiene and other approaches further aid understanding. Some **mechanics** follow.
@@ -1122,6 +1131,8 @@ Buckle up. We are heading into the abysmal and pregnant psychology behind hygien
 [^16]: [____*Political Ponerology*____](https://hygienicdarkretreat.com/f/ponerology.pdf)\* by Andrei Lobaczewski, clinical psychologist. He studied psychopathy on a mass scale under the Nazis then the communists in Poland. He and his multi-generational team, working in secret, found its patterns, mechanisms, and simple preventatives. Here is an [____excellent introductory interview____](https://www.sott.net/article/159686-In-Memoriam-Andrzej-M-obaczewski)
 [^17]: [____"Psychopaths Among Us"____](http://www.hare.org/links/saturday.html), on the critical work of Robert Hare, psychologist and creator of the _Psychopathy Checklist_.
 [^18]: [____*Malignant Self-Love: Narcissism Revisited*____](https://narcissistic-abuse.com) by Sam Vaknin is _the_ book for narcissists (and their victims) who seek conscious aid in understanding and reforming their condition.
+
+
 
 
 
@@ -1544,6 +1555,8 @@ I discuss these implications further in [____hygiene notes____](https://hygienic
 [^26]: Psychologists Michael Meade and James Hillman say it all with the title of their 1993 book, _We’ve Had a Hundred Years of Psychotherapy—And the World’s Getting Worse_.
 [^27]: Bernarr Zovluck, [____Alternative Healing____](http://towardsfreedom.com/iwrters/bernarr-zovluck/alternative-healing-what-nobody-understands/): What Nobody Understands. Frederic Patenaude met this Los Angeles hygienist and mentioned him and his advice to me. His comment would help me connect darkness with hygiene a decade later.
 [^28]: Panacea is, in Greek legend, the sister of Hygieia. 
+
+
 -# retreat
 
 #### part 2 : application
@@ -1912,6 +1925,7 @@ If you support hygienic dark retreating, I will refer clients to you. Write me.
 It may take a few generations of healthy living to fully restore our health and realize man's potential. I believe we can get most of the way back in our lifetimes.
 
 We have examined different formats of the restful use of darkness for different circumstances and purposes. Let's look ahead to more of what happens in a retreat and exactly how to conduct it.
+
 
 # _5_ &nbsp; protocol {#protocol}
 
@@ -2368,6 +2382,8 @@ Your non-expert, non-mind-reading, non-therapist supporter will be on the outsid
 On your last transition day, write a description of what happened while it is fresh in your memory. Finalize it later with insights from your aftermath. Share it online if you like and send me a link. I have found these reports useful in improving darkrooms, understanding the process, and explaining it to people. More writers and readers of reports will help spread hygienic dark retreating, advancing its theory and practice.
 
 [^29]: I was raised with many superstitions. In [____*Objectivism*____](https://objectivismphilosophyaynrand.com/)_: The Philosophy of Ayn Rand_, Leonard Peikoff explains how to identify and treat _arbitrary_ ideas. There is no evidence for them whatsoever. One must willfully dismiss them and put one's attention back on the facts of reality, dealing only with ideas tied to it. I found his analysis of _truth status_ extremely helpful in dealing with the conscious part of superstition.
+
+
 # _6_ &nbsp; prepare {#prepare}
 
 The main thing you need to prepare for a successful retreat is knowledge. Thus, this book. The **instructions** below outline the process. The **quiz** in the **questionnaire** helps you solidify your grasp of the text. The **personal** section orients you toward your own retreat. **Menu** and **gear** sections guide your material preparations.
@@ -2572,6 +2588,8 @@ If, for whatever reason, you cannot yet eat this way in a retreat, eat as simply
 ~/~
 
 This ends the retreat part of the book. You've learned how to arrange and do a retreat. The hygienic theory you learned before is sinking in. Now, you just need a darkroom.
+
+
 -# darkroom
 
 #### part 3 : building
@@ -2824,6 +2842,8 @@ Now, let's learn to make our prison cells into escape vehicles. The next four "m
 See [____plan____](https://hygienicdarkretreat.com/plan) on my website for a color sketch, downloads, and budget. Also in zip file.
 
 [^30]: Building Biology in English. [____Breathing Walls____](https://breathingwalls.com) is an exceedingly practical manual of baubiological theory and technique. The International Institute for Bau-Biologie and Ecology [____IBE____](https://buildingbiology.net) in Florida offers a course.
+
+
 # _8_ &nbsp; make {#make}
 
 > _The time for half-measures and talk is over._  
@@ -3108,6 +3128,8 @@ These instructions apply to all components, or as indicated. Read further instru
 4. wood: cut parts on a table saw
 
 Voila. You've got the basics of all darkroom components. You've prepared their plans and parts. Now, let's see how they come together for ventilation, silence, and warmth.
+
+
 # _9_ &nbsp; air {#air}
 
 The tricky part of making a darkroom is not darkening it but ventilating it. After all, now its windows and doors are sealed. So we'll address ventilation first.
@@ -3555,6 +3577,7 @@ If air quality at your home is bad enough, consider moving. Lots of places in sm
 
 That's it for lightproof ventilation, silence, power, heating, and purification. On to darkening doors and windows.
 
+
 # _10_ &nbsp; darkness {#darkness}
 
 There is darkness, and then there is _darkness_. We're going for the second kind: perfect and absolute. There is a million percent difference between 99% and 100% dark. In 100% darkness, the mind has nothing left to hold onto, no reason to resist. Finally it can let go, fall into the well of itself, and be renewed.
@@ -3943,6 +3966,8 @@ If you want a roller blind, I suggest you save up and buy one from an establishe
 Get a guarantee of absolute lightproofness of the entire installation. Tell them you will be testing it with advanced sensors: eyes adjusted to darkness for days.
 
 Foamed acrylic coating is the industry standard. Make sure the label says "acrylic" so you avoid toxic PVC.
+
+
 # _11_ &nbsp; water {#water}
 
 If you already have a bathroom and kitchen, great. If not, make the off-grid fixtures below. They are quick, cheap, and portable, like everything I design. If basic versions are too punk rock for you, try the upgrades. Improve them incrementally as you find out the value of retreating.
@@ -4180,6 +4205,8 @@ That's the state of my art of low-cost, off-grid, DIY darkroom design and constr
 ~/~
 
 That's also the end of the body of my book. Thank you for reading. I hope it helps you find yourself, recover your health in body and soul, feel joy, be successful in all ways, and be free of crime.
+
+
 {backmatter}
 
 -# back
@@ -4458,6 +4485,8 @@ Maybe you are saying I'm lying. Or delusional. Or that the logical and predictab
 Probably, you are just afraid. But fear, discomfort, or unfamiliarity with an idea is not a reason to reject it. What are you afraid of? Do you know? 
 
 Baseless doubt is a manifestation of unconscious denial resulting from unhealed major trauma. It proves the very thing you are attempting to refute by it. It confirms everything I have asserted. It utterly vacates your contention. And it binds you more tightly to the necessity of trying darkness.
+
+
 # _t_ &nbsp; bibliography and influences {#bibliography-influences}
 
 - anthropology, history
@@ -4520,6 +4549,7 @@ Baseless doubt is a manifestation of unconscious denial resulting from unhealed 
 	- 8 seconds in dreamtime, with Adrian Wolfe, Oregon, 2008
 	- 18 months with the Maya of Lake Atitlan, Guatemala, 2011
 	- 2 months of life-altering sex, Sweden, 2012
+
 
 # _u_ &nbsp; acknowledgments {#acknowledgments}
 
@@ -4628,6 +4658,8 @@ I called some people here guides, but anyone who hosted me also guided me. I've 
 I also made enemies and hurt some people along the way. To the good people: I'm sorry it didn't go the way we thought at first. Here's hoping it was not in vain. To the evil people: may you find peace, either in the destruction you crave or through unprecedented regeneration.
 
 Onward, then, till the task is complete.
+
+
 # _v_ &nbsp; participate {#participate}
 
 Join the dolphin economy: help me help you help me help you...
@@ -4674,6 +4706,7 @@ Likewise, I would like to work with you in any way to develop hygienic dark retr
 - have retreated according to my protocol and are convinced of the value of my approach
 
 Cheers.
+
 # _w_ &nbsp; license {#license}
 
 Welcome to the political-economy of _cool_. Here, you get rewarded for cooperating, not punished if you don't. 
@@ -4699,6 +4732,8 @@ Welcome to the political-economy of _cool_. Here, you get rewarded for cooperati
 The idea is to make the book and components available with minimal friction in every way, at every level of distribution. Then we all can retreat asap and make reasonable livings as we go. If anything about this license seem to conflict with these goals, please let me know.
 
 We now possess the means of recovering the whole self, the source of all wealth. It will eventually make money irrelevant. Meanwhile, this is a structure in which we can make a living, have a good time, and be cool while doing it.
+
+
 # _x_ &nbsp; services {#services}
 
 I do everything related to hygienic dark retreating: study, experiment, write, speak, consult, design, build, operate, support.
@@ -4752,6 +4787,7 @@ I accept payments by:
 
 
 ### contact {#contact}- email: info@andrewdurham.com - text/voicemail: +1 541 210 8470 (in the US) [____hygienicdarkretreat.com____](https://hygienicdarkretreat.com/)
+
 # _y_ &nbsp; bio {#bio}
 
 Born 1971, Twin Falls, Idaho. 
@@ -4780,6 +4816,8 @@ In 2008, I discovered darkness as the means nature provides us to heal from trau
 &nbsp;
 
 [____contact info____](#contact) _-x_
+
+
 # _z_ &nbsp; external links {#external-links}
 
 Replace § with hygienicdarkretreat.com when retyping links

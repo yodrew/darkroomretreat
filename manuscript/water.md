@@ -235,3 +235,5 @@ That's the state of my art of low-cost, off-grid, DIY darkroom design and constr
 ~/~
 
 That's also the end of the body of my book. Thank you for reading. I hope it helps you find yourself, recover your health in body and soul, feel joy, be successful in all ways, and be free of crime.
+
+
