@@ -58,7 +58,7 @@ If you need more specific advice for darkening your space, I provide [____design
 
 ## metric {#metric}
 
-All measurements are in metric. Lone numerals are in millimeters, marked by -, x, +, or by a space in drawings. Examples:
+All measurements are in metric. Lone numerals are in millimeters, marked by -, x, + (in drawings, nothing). Examples:
 
 - 50- = 50mm
 - 50--60- = 50mm to 60mm
@@ -210,8 +210,6 @@ Download all plans at once with the dark retreat [____zip file____](https://hygi
 		3. tape paper to the screen
 		4. mark ends, corners, and intersections of lines precisely and lines just well enough to know what you are looking at later
 		5. you will have to overlap multiple sheets of paper for most plans, as with a desktop printer. On each new piece of paper, repeat the last set of marks from the previous so you know where to overlap and tape the sheets together.
-
-{pagebreak}
 
 ### 3 &nbsp; key {#key}
 
