@@ -52,94 +52,97 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 
 ## facility {#facility}
 
-- exterior
-	- secure
-		- located among peaceful people
-		- defensible grounds and facility
-		- keys only with retreater and supporter
-		- supporter on call 24/7 with cellphone, intercom, or bell 
-	- quiet
-		- on a low-traffic street
-		- away from machines that produce a low-frequency hum and vibration. Specialized detection equipment and a [____lawsuit____](http://www.howtowinincourt.com/?refercode=DA0054) may be required to stop it. Inexpensive silencing techniques cannot.
-		- sound-insulated to a normal degree
-		- silent or insulated machines inside (free of vibration and harmonics)
-		- short, occasional noise is ok
-		- _basic:_ quiet enough for your comfort without earplugs
-	- solitudinous
-		- separate, unoccupied building (see noise section below)
-		- small: 0-4 bedrooms, 12-70m^2^
-		- _basic:_ 
-			- 6m^2^ minimum
-			- either be alone in the house or apartment during retreat 
-			- or supporter can stay there too, but not share a wall for sleeping
-	- electromagnetically neutral
-		- natural materials: earth, wood, stone; no metal structure
-		- grounded wiring
-		- single outlet where power enters room or building, opposite bed
-		- [____earthing____](https://earthing.com) bed sheet
-		- _basic:_ unplug and turn off as much electricity in and around the room as possible at the breaker, switch, and appliance. For example, if a heater is needed, turn off power to the darkroom and run an extension cord from another room. This gets power out of the walls and brings it into the room at only one point, away from the bed.
-- interior
-	- safe
-		- rounded corners and edges
-		- padded, guarded, or eliminated protrusions
-		- nothing to bump one's head on, especially doors and ceilings
-		- nothing easily broken
-		- _for long retreats_: small and round (see roundness section below):
-			- 3.2--6m inside diameter, 8--28m^2^
-			- minimum wall height: 195cm 
-			- ceiling peak: 240+cm
-	- dark
-		- perfectly dark: not a haze, glimmer, or pinprick of light anywhere
-		- easily darkened windows
-		- lightlock
-			- lightproof double doors
-			- enough space between them for a person and food deliveries
-			- for communication, a lightproof vent in inner door
-		- lightproof bag for cellphone. It can have a red window made of the translucent plastic used in stage lighting ("gels")
-		- candles and lighter for before the retreat and transition days
-		- _basic:_ perfectly dark bedroom, bathroom, blindfold, and mostly dark hallways and kitchen
-	- well-ventilated
-		- fresh 
-			- air is unpolluted, filtered or purified if necessary
-			- no bad smells or toxic fumes inside the building from decay, mold, or modern building materials
-		- sufficient
-			- fan maintains continuous airflow. Except for constant coastal winds, passive systems require excessive engineering; intermittent ventilation is insufficient and causes mold.
-			- manually adjustable airflow, or possibly with smart controls
-		- silent: fan is quiet, dampened, silenced
-		- ventilation is independent of windows, with its own holes in walls
-		- _basic:_ get plenty of fresh air into the room without cold drafts or noise; see [____warmth____](#warmth) _-9_ and the quiet new 200mm [____fan mount____](#fan-mount) _-9_
-	- warm
-		- automatic heating from gas, oil, electricity, pellets, wood, etc 
-			- thermostat inside room
-			- any fueling occurs outside room
-			- non-electric if possible, otherwise, low-intensity, localized, EM-shielded electric heat
-		- if possible
-			- [____Heat Recovery Ventilator____](https://en.wikipedia.org/wiki/Heat_recovery_ventilation), either with fiwihex core ([____Fresh-R____](https://fresh-r.eu)) or Mitsubishi Lossnay core ([____Renewaire____](https://www.renewaire.com)) (or other high-tech paper core). Fans require silencers and/or acoustic ducting.
-			- building is super-insulated and sealed to Passive House standards to eliminate heating 
-		- _basic:_ somehow, be warm in and out of bed 
-	- comfortable
-		- bed
-			- size: double or long single
-			- mattress: layers of new foam padding, flame-retardant free, of varying firmness for adjustable softness, aired out regularly
-			- polyester/non-toxic mattress cover, long comforter, and pillow
-			- 100% natural fiber bottom sheet and duvet
-			- especially with a single bed, a mechanism to prevent loss of covers during sleep. A cord or elastic tied over them to the bed frame at the knee area works.
-		- sofa, reclining chair, hammock, inversion swing
-		- hard warm floor, rugs
-		- dining table and chair
-		- _basic:_ bed, rug, padded chair, and table
-	- bathroom
-		- regular bathroom 
-		- or portable fixtures in [____water____](#water) _-11_ including
-			- composting toilet
-			- greywater drainage
-		- _basic:_ For a 5-day retreat, minimum requirements in primitive conditions are: bottled water (for both washing and drinking), a washcloth or sponge for a sponge bath, a towel, and a composting bucket toilet. For longer retreats, a darkened bathroom is necessary. En suite is best, but walking to it from the darkroom is fine with a blindfold, dark clothes, and extra curtains on windows. Bathing is as important for emotional and intellectual reasons as physical ones.  
-	- cold food storage
-		- silent (unmotorized or isolated)
-		- unmotorized uses the ground, block ice, ventilation (fan-driven cold outside air), or electronic circuit
-		- _private_: blindfold to go to refrigerator in kitchen (unscrew its lightbulb)
-	- shelf for personal storage
-	- space for simple exercise
+### exterior {#exterior}
+
+- secure
+	- located among peaceful people
+	- defensible grounds and facility
+	- keys only with retreater and supporter
+	- supporter on call 24/7 with cellphone, intercom, or bell 
+- quiet
+	- on a low-traffic street
+	- away from machines that produce a low-frequency hum and vibration. Specialized detection equipment and a [____lawsuit____](http://www.howtowinincourt.com/?refercode=DA0054) may be required to stop it. Inexpensive silencing techniques cannot.
+	- sound-insulated to a normal degree
+	- silent or insulated machines inside (free of vibration and harmonics)
+	- short, occasional noise is ok
+	- _basic:_ quiet enough for your comfort without earplugs
+- solitudinous
+	- separate, unoccupied building (see noise section below)
+	- small: 0-4 bedrooms, 12-70m^2^
+	- _basic:_ 
+		- 6m^2^ minimum
+		- either be alone in the house or apartment during retreat 
+		- or supporter can stay there too, but not share a wall for sleeping
+- electromagnetically neutral
+	- natural materials: earth, wood, stone; no metal structure
+	- grounded wiring
+	- single outlet where power enters room or building, opposite bed
+	- [____earthing____](https://earthing.com) bed sheet
+	- _basic:_ unplug and turn off as much electricity in and around the room as possible at the breaker, switch, and appliance. For example, if a heater is needed, turn off power to the darkroom and run an extension cord from another room. This gets power out of the walls and brings it into the room at only one point, away from the bed.
+
+### interior {#interior}
+
+- safe
+	- rounded corners and edges
+	- padded, guarded, or eliminated protrusions
+	- nothing to bump one's head on, especially doors and ceilings
+	- nothing easily broken
+	- _for long retreats_: small and round (see roundness section below):
+		- 3.2--6m inside diameter, 8--28m^2^
+		- minimum wall height: 195cm 
+		- ceiling peak: 240+cm
+- dark
+	- perfectly dark: not a haze, glimmer, or pinprick of light anywhere
+	- easily darkened windows
+	- lightlock
+		- lightproof double doors
+		- enough space between them for a person and food deliveries
+		- for communication, a lightproof vent in inner door
+	- lightproof bag for cellphone. It can have a red window made of the translucent plastic used in stage lighting ("gels")
+	- candles and lighter for before the retreat and transition days
+	- _basic:_ perfectly dark bedroom, bathroom, blindfold, and mostly dark hallways and kitchen
+- well-ventilated
+	- fresh 
+		- air is unpolluted, filtered or purified if necessary
+		- no bad smells or toxic fumes inside the building from decay, mold, or modern building materials
+	- sufficient
+		- fan maintains continuous airflow. Except for constant coastal winds, passive systems require excessive engineering; intermittent ventilation is insufficient and causes mold.
+		- manually adjustable airflow, or possibly with smart controls
+	- silent: fan is quiet, dampened, silenced
+	- ventilation is independent of windows, with its own holes in walls
+	- _basic:_ get plenty of fresh air into the room without cold drafts or noise; see [____warmth____](#warmth) _-9_ and the quiet new 200mm [____fan mount____](#fan-mount) _-9_
+- warm
+	- automatic heating from gas, oil, electricity, pellets, wood, etc 
+		- thermostat inside room
+		- any fueling occurs outside room
+		- non-electric if possible, otherwise, low-intensity, localized, EM-shielded electric heat
+	- if possible
+		- [____Heat Recovery Ventilator____](https://en.wikipedia.org/wiki/Heat_recovery_ventilation), either with fiwihex core ([____Fresh-R____](https://fresh-r.eu)) or Mitsubishi Lossnay core ([____Renewaire____](https://www.renewaire.com)) (or other high-tech paper core). Fans require silencers and/or acoustic ducting.
+		- building is super-insulated and sealed to Passive House standards to eliminate heating 
+	- _basic:_ somehow, be warm in and out of bed 
+- comfortable
+	- bed
+		- size: double or long single
+		- mattress: layers of new foam padding, flame-retardant free, of varying firmness for adjustable softness, aired out regularly
+		- polyester/non-toxic mattress cover, long comforter, and pillow
+		- 100% natural fiber bottom sheet and duvet
+		- especially with a single bed, a mechanism to prevent loss of covers during sleep. A cord or elastic tied over them to the bed frame at the knee area works.
+	- sofa, reclining chair, hammock, inversion swing
+	- hard warm floor, rugs
+	- dining table and chair
+	- _basic:_ bed, rug, padded chair, and table
+- bathroom
+	- regular bathroom 
+	- or portable fixtures in [____water____](#water) _-11_ including
+		- composting toilet
+		- greywater drainage
+	- _basic:_ For a 5-day retreat, minimum requirements in primitive conditions are: bottled water (for both washing and drinking), a washcloth or sponge for a sponge bath, a towel, and a composting bucket toilet. For longer retreats, a darkened bathroom is necessary. En suite is best, but walking to it from the darkroom is fine with a blindfold, dark clothes, and extra curtains on windows. Bathing is as important for emotional and intellectual reasons as physical ones.  
+- cold food storage
+	- silent (unmotorized or isolated)
+	- unmotorized uses the ground, block ice, ventilation (fan-driven cold outside air), or electronic circuit
+	- _private_: blindfold to go to refrigerator in kitchen (unscrew its lightbulb)
+- shelf for personal storage
+- space for simple exercise
 	
 ## qualities {#qualities}
 

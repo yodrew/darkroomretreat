@@ -132,6 +132,8 @@ Do you wish to manufacture vents? A set of simple wooden or sheet metal template
 
 Read through instructions once while studying plans.
 
+#### prep {#prep}
+
 1. materials:
 	1. walls, 4--8- thick
 		1. cardboard: double-layer is stable if kept dry and out of direct sun and intense heat.
@@ -147,7 +149,7 @@ Read through instructions once while studying plans.
 	- whether it will attach at side or face opening
 	- vent must clear window handles, locks, and frame
 	- if used with a double blind, shade hole in insert from direct sunlight
-4. the plan adapts to walls between 4--8- thick. Just move walls and baffles slightly to accommodate it. Use these rules:
+4. the plan adapts to wall material between 4--8- thick. Just move walls and baffles toward point A to accommodate it. Use these rules:
 	- keep inner wall flush with inner and left edges of end
 	- keep baffle _a_ flush with left edge of end
 	- move outer wall inward
@@ -155,51 +157,56 @@ Read through instructions once while studying plans.
 	- keep baffle _f_ flush with right edge of inner wall (thin dash-dotted line)
 	- keep baffles _b, c, d, e_ centered on dash-dotted lines, shifting them downward (in short version, keep _e_ flush with right edge of end and outer wall)
 	- keep side wall against outer wall
-5. join pieces in this order:
-	1. seal: glue 2 seals together with minimum of glue: a skinny bead around outer perimeter, with a little extra at the corners.
-	2. inner half
-		1. inner wall
-		2. top end
-		3. long folded flap, 1 short flap 
-		4. baffles b, d, f
-		5. side wall
-		6. 2 spacers. Attach a piece of tape around an edge so you can pull them out from the openings once vent is dry. Use only 2 dots of glue on each spacer for removability, just enough to hold them in place as you fit the halves together.
-	3. outer half
-		1. outer wall
-		2. baffles a, c, e	
-	4. paint insides matte black
-	5. glue halves together
-		1. inner half
-		2. outer half
-		3. bottom end
-	6. add 
-		1. 3 other flaps
-		2. seal
-6. Let it dry. until installation, keep it in a dust-proof bag. 
-7. installation
-	1. mark slot with slot jig
-		- it spaces slot correctly on most blinds and panels. It can be further from corner but only 20- closer on panels.
-		- face opening, 35 x 248, on blinds, panels, or outside silencer, with shell
-		- side opening, 32 x 248, inside silencer or other enclosure, without shell
-	2. cut out slot
-	3. position vent over slot and fit vent flaps through it
-	4. when attaching to soft material like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
-	5. fold flap at crease and tape it down. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
-	6. repeat with other long flap, then with short flaps
-	7. secure side opening with screws. Screw through inner wall into panel or blocks. Or screw from other side into inner wall. If blind material is soft (plastic, fabric, paper, cardboard), use fender washers.
-	8. vent must be shaded to minimize fading of black paper and warping. Usually, insert of double-blind or white material over window will do this. Otherwise, cover shell with white paper. If in direct sun, shade it somehow.
 
-#### short {#short2}
+#### assemble {#assemble}
 
-The universal vent can be shortened for use inside a silencer or other enclosure. The enclosure must have two or more blackened corners that light must go around. Follow instructions in wall drawing. Also note dash-dotted lines in plan and elevation views. 
+1. seal: glue 2 seals together with minimum of glue: a skinny bead around outer perimeter, with a little extra at the corners.
+2. inner half
+	1. inner wall
+	2. top end
+	3. long folded flap, 1 short flap 
+	4. baffles b, d, f
+	5. side wall
+	6. 2 spacers. Attach a piece of tape around an edge so you can pull them out from the openings once vent is dry. Use only 2 dots of glue on each spacer for removability, just enough to hold them in place as you fit the halves together.
+3. outer half
+	1. outer wall
+	2. baffles a, c, e	
+4. paint insides matte black
+5. glue halves together
+	1. inner half
+	2. outer half
+	3. bottom end
+6. add 
+	1. 3 other flaps
+	2. seal
+7. Let it dry.
+ Until installation, keep it in a dust-proof bag. 
+
+#### install {#install}
+
+1. mark slot with slot jig
+	- it spaces slot correctly on most blinds and panels. It can be further from corner but only 20- closer on panels.
+	- face opening, 35 x 248, on blinds, panels, or outside silencer, with shell
+	- side opening, 32 x 248, inside silencer or other enclosure, without shell
+2. cut out slot
+3. position vent over slot and fit vent flaps through it
+4. when attaching to soft material like fabric, plastic sheeting, or cardboard, pull long flap snug, use back of table knife tip to crease the outside of it right where it passes through slot
+5. fold flap at crease and tape it down. Tape makes vent removable. Only glue it in place if you are certain of not moving it for years.
+6. repeat with other long flap, then with short flaps
+7. secure side opening with screws. Screw through inner wall into panel or blocks. Or screw from other side into inner wall. If blind material is soft (plastic, fabric, paper, cardboard), use fender washers.
+8. vent must be shaded to minimize fading of black paper and warping. Usually, insert of double-blind or white material over window will do this. Otherwise, cover shell with white paper. If in direct sun, shade it somehow.
+
+#### shorten {#shorten}
+
+The universal vent can be shortened for use inside a silencer or other enclosure. The enclosure must have two or more blackened corners that light must go around. Follow instructions in wall drawing. Note dash-dotted lines in plan and elevation views. 
 
 The short version is 168 x 266 x 84. If an even smaller vent is required:
 
-- use thin cardboard
-	- slide baffles leftward, maintaining spacing
+- use thinner cardboard, 2--4-
+	- slide baffles leftward, maintaining 32- and 34- spacing
 	- trim protruding walls
-- use my old helix-z vent in the zip file (140 x 281 x 68 in the body)
-- shrink the design proportionally
+- or shrink the design proportionally
+- or use old helix-z vent (140 x 281 x 68 in the body), in zip file
 
 With thought and experiment, every engineering problem can be solved. This is the awesome and terrifying power of _technique_: of physics and engineering. Let us use it to our advantage, for the purpose of coming back to life. 
 
@@ -235,7 +242,7 @@ Or make a [____removable partition____](https://andrewdurham.shutterfly.com/313)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; plan: threshold vent - [____download____](https://hygienicdarkretreat.com/img/plan/threshold-vent.pdf)
 
-#### install {#install}
+#### install {#install2}
 
 1. position one vent wall on door so that it is 5- above high point of floor in swing area of door. Tack in place with masking tape. Once it is perfect, mark its position with tape. Duplicate marks on the other side of the door.
 2. attach muslin over area of door that vent will cover. Width: 420-. Length: from 20- above wall on one side to same height on other, wrapped under the door. Use double-sided tape. Seal with finger nail. If no hood is needed, masking tape works, too. Use wall as guide or remove it and use tape marks. Remove wall afterward.
@@ -357,11 +364,8 @@ Blower fans are interesting. They overcome resistance in ducts and HRVs and move
 
 The fan mount totally dampens vibration from the fan, already smooth and quiet. The silencer then absorbs airborne noise from the fan. It is inspired by studio microphones and tensegrity structures. It fits the silencer.
 
-The design is fairly self-explanatory:
+It is a fan suspended in a web of 2 concentric rings of rubber, stretched between 4 screw posts, anchored in a wooden base. It is modular, fitting silencer in any configuration.
 
-- description
-	- a fan suspended in a web of 2 concentric rings of rubber, stretched between 4 screw posts, anchored in a wooden base
-	- modular, fitting silencer in any configuration
 - materials
 	- base: 272 x 272 x 19 (center hole, 194- diameter). Cut precisely with jig, band, or coping saw; router; or have a carpenter do it for you. Screw hole centers 20- from corners
 	- case fan: 200- (computer fan)

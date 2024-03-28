@@ -22,7 +22,7 @@
 - _Pleasure_, Alexander Lowen, student of Reich
 - _Banished Knowledge: Facing Childhood Injuries_, Alice Miller
 
-#### philosophy  {#philosophy-}
+#### philosophy {#philosophy}
 
 - my parents, John and LouAnn, and brother, [____Paul____](https://blacklabworld.com)
 - _Atlas Shrugged_, etc, Ayn Rand, preceptor
@@ -45,7 +45,7 @@
 	- _The 80/10/10 Diet_, [____Dr Douglas Graham____](https://foodnsport.com)
 - _Introduction to Human Technology_ and _Human Technology_, William Arthur Evans (thanks to friend, Sterling Voss, for finding this rare work)
 
-#### design, art  {#design,-art-}
+#### design, art {#design-art}
 
 - my parents and brother
 - grandelder and grandmaster craftsman and engineer, [____Jack Nuckols____](https://rockcreekmetalcraft.com)
