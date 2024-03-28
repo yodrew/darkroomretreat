@@ -60,17 +60,18 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 		- supporter on call 24/7 with cellphone, intercom, or bell 
 	- quiet
 		- on a low-traffic street
-		- away from running machines, particularly those producing a low-frequency hum and vibration. Specialized detection equipment and a lawsuit may be required to stop it. Standard silencing techniques cannot.
+		- away from machines that produce a low-frequency hum and vibration. Specialized detection equipment and a [____lawsuit____](http://www.howtowinincourt.com/?refercode=DA0054) may be required to stop it. Inexpensive silencing techniques cannot.
 		- sound-insulated to a normal degree
-		- silent machines inside (free of vibration and harmonics)
+		- silent or insulated machines inside (free of vibration and harmonics)
 		- short, occasional noise is ok
 		- _basic:_ quiet enough for your comfort without earplugs
 	- solitudinous
-		- separate, unoccupied building for dedicated darkrooms (see noise section below)
+		- separate, unoccupied building (see noise section below)
 		- small: 0-4 bedrooms, 12-70m^2^
 		- _basic:_ 
 			- 6m^2^ minimum
-			- be alone in the apartment or house during retreat
+			- either be alone in the house or apartment during retreat 
+			- or supporter can stay there too, but not share a wall for sleeping
 	- electromagnetically neutral
 		- natural materials: earth, wood, stone; no metal structure
 		- grounded wiring
@@ -79,12 +80,12 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 		- _basic:_ unplug and turn off as much electricity in and around the room as possible at the breaker, switch, and appliance. For example, if a heater is needed, turn off power to the darkroom and run an extension cord from another room. This gets power out of the walls and brings it into the room at only one point, away from the bed.
 - interior
 	- safe
-		- corners and edges rounded
+		- rounded corners and edges
 		- padded, guarded, or eliminated protrusions
 		- nothing to bump one's head on, especially doors and ceilings
 		- nothing easily broken
 		- _for long retreats_: small and round (see roundness section below):
-			- 3-6m inside diameter, 8-28m^2^
+			- 3.2--6m inside diameter, 8--28m^2^
 			- minimum wall height: 195cm 
 			- ceiling peak: 240+cm
 	- dark
@@ -93,25 +94,25 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 		- lightlock
 			- lightproof double doors
 			- enough space between them for a person and food deliveries
-			- for communication, a lightproof vent in inner door, small and closable
+			- for communication, a lightproof vent in inner door
 		- lightproof bag for cellphone. It can have a red window made of the translucent plastic used in stage lighting ("gels")
 		- candles and lighter for before the retreat and transition days
-		- _basic:_ perfectly dark bedroom, bathroom, and blindfold and mostly dark hallways and kitchen
+		- _basic:_ perfectly dark bedroom, bathroom, blindfold, and mostly dark hallways and kitchen
 	- well-ventilated
 		- fresh 
 			- air is unpolluted, filtered or purified if necessary
 			- no bad smells or toxic fumes inside the building from decay, mold, or modern building materials
 		- sufficient
-			- fan maintains continuous airflow (passive systems require excessive engineering; intermittent ventilation is insufficient and causes mold)
+			- fan maintains continuous airflow. Except for constant coastal winds, passive systems require excessive engineering; intermittent ventilation is insufficient and causes mold.
 			- manually adjustable airflow, or possibly with smart controls
-		- silent: fan is quiet, dampened, and silenced
+		- silent: fan is quiet, dampened, silenced
 		- ventilation is independent of windows, with its own holes in walls
 		- _basic:_ get plenty of fresh air into the room without cold drafts or noise; see [____warmth____](#warmth) _-9_ and the quiet new 200mm [____fan mount____](#fan-mount) _-9_
 	- warm
 		- automatic heating from gas, oil, electricity, pellets, wood, etc 
 			- thermostat inside room
 			- any fueling occurs outside room
-			- non-electric if possible, otherwise, low-intensity, centralized, EM-shielded electric heat
+			- non-electric if possible, otherwise, low-intensity, localized, EM-shielded electric heat
 		- if possible
 			- [____Heat Recovery Ventilator____](https://en.wikipedia.org/wiki/Heat_recovery_ventilation), either with fiwihex core ([____Fresh-R____](https://fresh-r.eu)) or Mitsubishi Lossnay core ([____Renewaire____](https://www.renewaire.com)) (or other high-tech paper core). Fans require silencers and/or acoustic ducting.
 			- building is super-insulated and sealed to Passive House standards to eliminate heating 
@@ -123,26 +124,20 @@ I welcome everyone's improvements to these specifications judged by the objectiv
 			- polyester/non-toxic mattress cover, long comforter, and pillow
 			- 100% natural fiber bottom sheet and duvet
 			- especially with a single bed, a mechanism to prevent loss of covers during sleep. A cord or elastic tied over them to the bed frame at the knee area works.
-		- sofa
-		- padded chair
-		- hammock
-		- inversion swing
-		- rugs
-		- hard, warm floor
+		- sofa, reclining chair, hammock, inversion swing
+		- hard warm floor, rugs
 		- dining table and chair
-		- _basic:_ at least a bed, rug, padded chair, and table
+		- _basic:_ bed, rug, padded chair, and table
 	- bathroom
 		- regular bathroom 
-		- or portable fixtures in [____water____](#water) _-11_:
+		- or portable fixtures in [____water____](#water) _-11_ including
 			- composting toilet
-			- shower
-			- sink
 			- greywater drainage
-		- _basic:_ For 9-day retreats and longer, a darkened bathroom is necessary. En suite is best. Walking to it outside the darkroom is fine with a blindfold, dark clothes, and extra curtains on windows. Bathing is as important for emotional and intellectual reasons as physical ones. But for a 5-day retreat, a bathroom is not critical. Minimum requirements in primitive conditions are: bottled water (for both washing and drinking), a washcloth or sponge for a sponge bath, a towel, and a composting bucket toilet.
+		- _basic:_ For a 5-day retreat, minimum requirements in primitive conditions are: bottled water (for both washing and drinking), a washcloth or sponge for a sponge bath, a towel, and a composting bucket toilet. For longer retreats, a darkened bathroom is necessary. En suite is best, but walking to it from the darkroom is fine with a blindfold, dark clothes, and extra curtains on windows. Bathing is as important for emotional and intellectual reasons as physical ones.  
 	- cold food storage
 		- silent (unmotorized or isolated)
-		- unmotorized uses cold from the ground, block ice, ventilation, or electronic circuit
-		- _private_: cooler with block ice or blindfold to get to refrigerator in kitchen
+		- unmotorized uses the ground, block ice, ventilation (fan-driven cold outside air), or electronic circuit
+		- _private_: blindfold to go to refrigerator in kitchen (unscrew its lightbulb)
 	- shelf for personal storage
 	- space for simple exercise
 	
@@ -190,17 +185,19 @@ Make extra preparations to doubly protect yourself from distress on your transit
 
 ### round {#round}
 
-_Note: A round darkroom is unimportant for short retreats. Plan one both for shelter and for medium and long retreats._
+_Note: A round darkroom is unimportant for short retreats. Plan one for both shelter and medium and long retreats._
 
-An experiment: go into a round building and observe how you feel. Compare it to how you feel in square ones.
+An experiment: go into a round building. Observe how you feel. Compare it to how you feel in square ones.
 
-Born to designers and craftspeople, I've run this sort of experiment since childhood, using myself as my instrument. Here are my conclusions.
+The designers and craftsmen who raised me had me run this sort of experiment since childhood, using myself as my instrument. Here are my conclusions.
 
-Round buildings feel sheltering. They shield occupants from subtle energy, physical and psychical. Energy flows around or through them because their roundness does not resist or trap it. Small round spaces feel cozy, not suffocating. One can easily relax inside. One has just what one needs.
+Round buildings feel sheltering. Small round spaces feel cozy, not suffocating. One can easily relax inside. One has just what one needs.
 
-We have a psychobiological expectation of roundness in our environment. Nature is a symphony of curves: circles, ellipses, parabolas, catenaries, spirals, cones, and spheres. Curvature arises from innumerable straight-edged shapes at the microscopic scale: mostly triangles, pentagons, and hexagons; tetrahedrons, octahedrons, dodecahedrons and icosahedrons; their stellations and combinations; and the occasional cube.
+Round buildings shield occupants from subtle energy, physical and psychical. Energy flows around and through them. They do not resist or trap it. 
 
-Buckminster Fuller demonstrated in his _Synergetics_ (see [____*A Fuller Explanation*____](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)\*) that these shapes, in turn, arise from nature's coordinate system: the shape of space itself. Made of close-packed spheres, it is octetrahedronal, not cubic (Cartesian). It is four-dimensional, not three. All these shapes are inherently compelling, familiar, and alive to us.
+We have a psychobiological expectation of roundness in our environment. Nature is a symphony of curves: circles, ellipses, parabolas, catenaries, spirals, cones, and spheres. Curvature arises from innumerable straight-edged shapes at the microscopic scale: triangles, pentagons, and hexagons; tetrahedrons, octahedrons, dodecahedrons and icosahedrons; their combinations and stellations; and the occasional cube.
+
+Buckminster Fuller demonstrated in his _Synergetics_ (see [____*A Fuller Explanation*____](https://www.arvindguptatoys.com/arvindgupta/synergy-fuller.pdf)\*) that these shapes, in turn, arise from nature's coordinate system: the shape of space itself. Made of close-packed spheres, it is octetrahedronal, not cubic (Cartesian). It is four-dimensional, not three. We find shapes that evoke it inherently, compelling, familiar and alive.
 
 By comparison, a square building feels lifeless and imprisoning. By nature, the right angle stops movement: of things, people, and energy. This stagnation saps and poisons occupants over the long term. Even turning at right angles while walking is jarring and militaristic. 
 
@@ -230,7 +227,7 @@ It turns out that rectilinear construction is not simpler or easier. It's just a
 
 ~/~
 
-Now, let's learn to make our prison cells into escape vehicles. The next four "make" chapters give detailed instructions and plans for your very own darkroom.
+Now, let's learn to make prison cells into escape vehicles. The next four "make" chapters give detailed instructions and plans for your very own darkroom.
 
 ![](images/conic.png)
 
