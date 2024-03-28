@@ -2,7 +2,7 @@
 
 If you already have a bathroom and kitchen, great. If not, make the off-grid fixtures below. They are quick, cheap, and portable, like everything I design. If basic versions are too punk rock for you, try the upgrades. Improve them incrementally as you find out the value of retreating.
 
-NOTE: Numerals with marks are in millimeters (see [____metric____](#metric) _-8_).
+Numerals with - x + are in millimeters (see [____metric____](#metric) _-8_).
 
 ## sink {#sink}
 
@@ -13,8 +13,8 @@ NOTE: Numerals with marks are in millimeters (see [____metric____](#metric) _-8_
 - loosen cap slightly
 - squeeze bottle over bucket, with or without lid. Use one hand or put it between your knees for hands-free use
 - wash hands or food
-- slide lid off bucket to drain water into bucket
-- putting food waste in the bucket helps keep the smell down
+- slide lid halfway off bucket and tip it inward drain water into bucket
+- putting food waste in bucket helps keep down smell
 
 ### upgrade {#upgrade}
 
@@ -33,57 +33,14 @@ NOTE: Numerals with marks are in millimeters (see [____metric____](#metric) _-8_
 
 ## toilet {#toilet}
 
-Both designs below are composting bucket toilets. The basic design is simple and fast. The upgrade is ventilated, separating, and for squatting. The following applies to both:
+Both designs below are composting bucket toilets. The basic design is simple and fast. The upgrade is ventilated, separating, and for squatting.
 
-- use
-	- put 2L of sawdust in the bottom
-	- put 15L more sawdust in another bucket by the toilet
-	- with a scoop, put a 0.5L of sawdust in toilet after each use
-	- place toilet by return vent, away from bed
-	- simple big improvement to system: when just peeing: 
-		- use a vented [____pee bottle____](https://hygienicdarkretreat.com/report/2x3-day#mechanical-report). It works for men and adventurous women (or is adaptable)
-		- pee into a small bucket and empty it into food scrap bucket. Sugar in food scraps neutralizes odor of pee. Could also works for emptying separating tub of toilet upgrade, below.
-- disposal
-	- pour off liquid under trees and bushes
-	- dump solids in a covered compost pile enclosed with wire fencing or plywood
-	- dust it with dirt and cover with a 30--50- layer of carbonaceous material like leaves, straw, sawdust	
-	- also put food scraps in pile 
-	- let it sit for a year before use. Make a second pile meanwhile.
-
-It's that simple, but I wrote more about [____composting toilets____](https://hygienicdarkretreat.com/blog/2024/02/compost-toilet) to allay concerns and provide more details
-
-### paper upgrade {#paper-upgrade}
-
-Finally attain cleanliness behind. Prevent abrasion, itching, and infection. Replace toilet paper with water. 
-
-Graphic description:
-
-- prepare
-	- wash out a 0.5--1L soda bottle 
-	- poke a hole through the cap near the circumference at an angle with a large sewing needle
-	- fill bottle with water, cap it, and put it near toilet with paper 
-- paper
-	- when finished pooping, remove most remaining poop with paper (any kind).
-	- daub and lift it off, don't wipe or rub
-	- put paper in bucket
-- water
-	- point hole in cap forward
-	- hold bottle upside down behind your back
-	- squeeze bottle and wet fingers of other hand
-	- point stream at anus, wipe with one finger
-	- use more fingers to finish cleaning
-	- the big improvement over toilet paper becomes apparent at this point.
-- finish
-	- rinse off fingers
-	- pat yourself dry with cloth or paper (avoid newspaper)
-	- be happy
-	
 ### basic {#basic2}
 
 - bucket: 20L / 5 gal
 - seat:
 	- regular toilet seat. Balance it or wire it on. 
-	- snap-on lids are made for this. $15 at WalMart and online
+	- snap-on lids are made for this: $15 online
 	- slit a pool noodle and fit it over the edge of the bucket. Put a piece of cardboard over the top between uses.
 
 Pros: simple, cheap, fast  
@@ -104,15 +61,6 @@ This is a minimalist composting toilet box. It is a light wooden frame and plast
 
 Note: if you intend to use a separating tub (see option #3), get it first. Gap between platforms may need to be adjusted to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
 
-#### build {#build}
-
-1. frame
-	1. cut boards
-	2. measure, mark, and drill pilot holes (smaller than screw threads, about same size as screw shaft)
-	3. join legs to front and back
-	4. join platforms to them
-	5. when shortening legs, allow at least 15- between top of bucket and underside of toilet. Tub requires more, of course. It must pass over bucket.
-
 ![](images/toilet1.png)
 
 ![](images/toilet2.png)
@@ -121,22 +69,30 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 
 &nbsp;
 
+#### build {#build}
+
+1. frame
+	1. cut boards
+	2. measure, mark, and drill pilot holes (smaller than screw threads, about same size as screw shaft)
+	3. join legs to front and back
+	4. join platforms to them
+	5. when shortening legs, allow at least 15- between top of bucket and underside of toilet. Tub requires more, of course. It must pass over bucket.
 2. skirt (attaches inside frame)
-	1. cut a strip of ~0.15- plastic, 2044 x 425 (length of leg + 15)
+	1. cut a strip of ~0.15- plastic, 2044 x 425 (leg + 15-)
 	2. turn assembled toilet frame upside down
 	3. coil plastic inside legs
 	4. tape a short edge down the middle of a leg, upper corner level with end of leg
 	5. fold 15- of lower edge onto underside of platform, taping it there with masking tape
 	6. work your way around
 	7. tape second short edge down same leg as first
-	8. slit edge 15- at inside edges of platforms. Tape resulting flaps over front and back with plastic packing tape.
+	8. slit edge 15- between platforms. Tape resulting flaps over front and back with plastic packing tape.
 3. Put a pan, tray, or a plastic sheet with towel or paper on top on the floor under the bucket to catch spills.
 4. ventilation 
-	- room's return duct attaches at a hole in the skirt for continuous exhaust. Result: zero odor, even during use
+	- room's return duct attaches at hole in skirt for continuous exhaust
 	- cut hole for duct: 
 		- next to a frame leg. Attach a wire or bracket to leg to support duct
 		- 50--100- off floor
-		- 10--30- smaller than return duct to fit over it snugly
+		- 20- smaller than return duct to fit over it snugly
 
 #### options {#options}
 
@@ -144,49 +100,96 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 	- make adapter
 	- attach toilet seat to it through 2 big holes
 	- position adapter between platforms where comfortable. Seat should stick out 30-80-
-	- drill pilot holes into platforms through screw holes in bridges
+	- drill pilot holes into platforms through holes in bridges
 	- screw adapter into platforms
-2. lifting platform - add brace to lifting side
+2. lifting platform 
+
+	Eases bucket removal. Add brace to lifting side. Three types:
 	1. hinge
-		1. trim 10- from back end of one platform 
-		2. attach it to back with a heavy, 76- or 89- door hinge
+		1. trim 10- from one platform at rear
+		2. attach it to back with heavy door hinge, 76- or 89-
 		3. drill one pilot hole in the middle of the other end, a little smaller than ~3- dia nail 
 		4. shorten and round end of nail so it will stick out of platform 20-. Put it through platform.
-		5. enlarge pilot hole in the frame so the nail slides in and out of it
-		6. swing platform up and out of the way to remove bucket
+		5. enlarge pilot hole in the frame so nail slides in it
+		6. swing platform up to remove bucket
 	2. removable
 		1. use one nail as above at each end of a platform
 		2. remove platform and set aside to empty bucket
 	3. hinged adapter 
 		1. use removable platform
-		2. screw one bridge of toilet seat adapter into it as usual
+		2. screw one bridge of adapter into it as usual
 		3. replace other with heavy 76- or 89- door hinge
 		4. toilet seat and removable platform swing up to remove bucket
 3. slope
-	1. trim 4° off legs as drawn
-	2. trim skirt
-	3. why: balance for squatting is perfect
+	1. for perfect balance when squatting
+	2. trim 4° off legs as drawn, perhaps closer to platforms
+	3. trim skirt at same angle
 4. separating tub
 	1. why:
 		- unwetted poop smells the least
-		- emptying is less frequent and neater
-	2. get ~3L squarish storage container, ~240 rim x ~80 depth
-	3. adjust gap between platforms so tub fits between them
-	4. make and attach rails as drawn
-	5. tub slides forward to catch pee, back over bucket to catch bidet water. Empty container into a pee bottle.
-	6. Emptying the tub may be tricky in darkness. Thus the advantage of a wide single bucket that catches everything. See "simple big improvement" at beginning of toilet section. 
-	7. when sitting, the tub only works for women. It is too close for men. We need something lower.
+		- emptying bucket is less frequent and neater
+	2. get ~3L squarish storage tub, ~240 x ~240 x ~80
+	3. adjust platforms so tub drops between them
+	4. attach rails
+	5. tub slides forward to catch pee, back to catch bidet water. Empty tub into a pee bottle.
+	6. emptying tub may be tricky in darkness. Thus the advantage of a wide single bucket that catches everything. See "simple big improvement" at beginning of toilet section. Or funnel, below.
+	7. when sitting, tub only works for women. Men need clearance.
 
 		For example, another bucket or a small plastic garbage can. Maybe cut away almost half of the top 100- leaving a backstop and the bucket's handle.
 
-		Or a large funnel and tube leading away, perhaps through a wall, to a large container below. Restaurants discard 20L cooking oil bottles in boxes.
+		Or a large funnel and tube leading to a large container below, perhaps through a wall. Restaurants discard 20L cooking oil bottles in boxes.
 
-		Buy a funnel and attach a tube or hose. Or make one: cut the bottom off a large plastic bottle. Drill a hole in the cap. Put a small tube (8--15- ID) through it.
+		Buy a funnel and attach a tube or hose. Or make one: cut the bottom off a large plastic bottle. If it has a spouted cap, remove sliding outer part and attach tube over inner spout. If cap is plain, drill a smooth hole in it. Put a small tube (8--15- ID) through it snugly.
 
 		Put a smooth, floating ball over the drain to seal out odor. Screw funnel to front board near top edge, maybe hang it from the underside of (fixed) platforms with wire, plumber's tape, or a strip of the bottle's bottom that was cut away.
 
-		A funnel that doesn't move is a lot easier to operate than a tub when a squatting, too. Bidet water falls in the poop bucket. The sawdust absorbs it.
+		A funnel that doesn't move is a lot easier to operate than a tub when a squatting, too. Bidet water falls in the poop bucket. Sawdust and paper absorb it.
 		
+### use {#use}
+
+- put a layer of paper and 2L of sawdust in the bottom
+- fill another bucket by the toilet with sawdust
+- scoop 0.5L sawdust into toilet after each use
+- place toilet by return vent, away from bed
+- simple big improvement to system: when just peeing: 
+	- use a vented [____pee bottle____](https://hygienicdarkretreat.com/report/2x3-day#mechanical-report). It works for men and adventurous women (or is adaptable)
+	- pee into a small bucket and empty it into food scrap bucket. Sugar in food scraps neutralizes odor of pee. Could also works for emptying separating tub of toilet upgrade, below.
+
+### compost {#compost}
+
+- pour off liquid under trees and bushes
+- dump solids in a covered compost pile enclosed with wire fencing or plywood
+- dust it with dirt and cover with a 30--50- layer of carbonaceous material like leaves, straw, sawdust	
+- also put food scraps in pile 
+- let it sit for a year before use. Make a second pile meanwhile.
+
+It's that simple. I wrote more about [____composting toilets____](https://hygienicdarkretreat.com/blog/2024/02/compost-toilet) to allay concerns and provide more details.
+
+### paper upgrade {#paper-upgrade}
+
+Finally attain cleanliness behind. Prevent abrasion, itching, and infection. How? Replace toilet paper with water. 
+
+Graphic description:
+
+- prepare
+	- wash out a 0.5--1L soda bottle 
+	- poke a hole through the cap near the circumference at an angle with a large sewing needle
+	- fill bottle with water, cap it, put it near toilet
+- paper
+	- when finished pooping, remove most remaining poop with paper (any kind).
+	- daub and lift it off, don't wipe or rub
+	- put paper in bucket
+- water
+	- point hole in cap forward
+	- hold bottle upside down behind your back
+	- squeeze bottle and wet fingers of other hand
+	- point stream at anus, wipe with one finger
+	- use more fingers to finish cleaning
+	- the big improvement over toilet paper becomes apparent at this point.
+- finish
+	- rinse off fingers
+	- pat yourself dry with cloth or paper (not newspaper) and be happy
+	
 ## bath {#bath}
 
 ### basic {#basic3}
@@ -195,7 +198,7 @@ A sponge bath.
 
 ### upgrade {#upgrade3}
 
-- on waterproof floor or large plastic sheet, make a 2m diameter border of towels. Sit in the middle 
+- on waterproof floor or large plastic sheet, make a 2m diameter border of towels. Sit in the middle. 
 - put warm water in 2, 1.5L soda bottles, with loose lids or nearly closed drinking spouts
 - hold a bottle above yourself with one hand and wash with the other
 - wipe up water with towels and squeeze it out into bucket
@@ -203,7 +206,7 @@ A sponge bath.
 
 ### deluxe {#deluxe3}
 
-This is a portable shower. It provides a thorough showering with only 4-10L of water. It has no connecting pipes and collapses for storage. 
+It's a portable shower! It provides a good shower with as little as 4-10L of water. It needs no connecting pipes. It collapses for storage.
 
 ![](images/shower.png)
 
@@ -230,7 +233,7 @@ Adjust shower length and water flow with different size containers and tubes. Ma
 
 ~/~
 
-That's the state of my art of low-cost, off-grid, DIY darkroom design and construction. As always, the principles involved (like, water flows downhill) are infinitely adaptable. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, more elegant, or just different, please let me know. See [____open-source____](#open-source) _-e_.
+That's the state of my art of low-cost, off-grid, DIY darkroom design and construction. As always, the principles involved (like, water flows downhill) are infinitely adaptable. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, or more elegant, please let me know. See [____open-source____](#open-source) _-e_.
 
 ~/~
 

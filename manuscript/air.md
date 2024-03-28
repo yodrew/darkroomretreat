@@ -6,7 +6,7 @@ Silencing a room is even trickier. But we have a couple aces up our sleeve for t
 
 We need to understand how ventilation works so we can design a good system. Ventilation affects both the silence and temperature of a darkroom. We will examine each of these conditions, then see how they work together in a mechanical system. Then we will make the components of the system.
 
-NOTE: Numerals with marks are in millimeters (see [____metric____](#metric) _-8_).
+Numerals with - x + are in millimeters (see [____metric____](#metric) _-8_).
 
 ## ventilation {#ventilation}
 
@@ -449,4 +449,4 @@ If air quality at your home is bad enough, consider moving. Lots of places in sm
 
 That's it for lightproof ventilation, silence, power, heating, and purification. On to darkening doors and windows.
 
-
+	

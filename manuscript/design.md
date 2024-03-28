@@ -50,7 +50,7 @@ A hygienic darkroom functions perfectly. It has a minimalist aesthetic for easy 
 
 I welcome everyone's improvements to these specifications judged by the objective standards of reason, good (life-supporting) design, and hygiene.
 
-## facility {#facility}
+## building {#building}
 
 ### exterior {#exterior}
 

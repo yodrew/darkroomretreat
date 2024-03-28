@@ -8,7 +8,7 @@ But light is relentless. It sneaks sideways through a single layer of clear plas
 
 I suffered many defeats at the mighty hands of light. Eliminating it demanded equally formidable techniques. I wandered continents for years to find them. Now I bestow them upon you.
 
-NOTE: Numerals with marks are in millimeters (see [____metric____](#metric) _-8_).
+Numerals with - x + are in millimeters (see [____metric____](#metric) _-8_).
 
 ## technique {#technique}
 
@@ -148,11 +148,11 @@ If door has a window, cover it with a double-blind or a panel, described below.
 
 ## window {#window}
 
-For your next trick: blacking out windows. I have tried about 10 methods of covering windows for lightproofness in ~100 spaces over the past 15 years. Two work well just about everywhere. One is conceptual.
+For your next trick: blacking out windows. I have tried about 10 methods of covering windows for lightproofness in ~100 spaces over the past 15 years. Two work well just about everywhere.
 
-The double-blind is the new standard for darkening windows. It is a quick, easy blackout blind. The single layer blind is a possibility. The panel is a modern revival of traditional shutters, offering soundproofing and security.
+The double-blind is the new standard for darkening windows. It is a quick, easy blackout blind. The panel is a modern revival of traditional shutters, offering soundproofing and security.
 
-Notes on retired methods—foil, velcro, roller blind—come last.
+Notes on retired methods—foil, single layer, velcro, roller blind—come last.
 
 ### general {#general}
 
@@ -294,19 +294,6 @@ Minimum total thickness of plastic layers: 0.25-. Fabric and paper: thicker. Alw
 	- use small pieces to tack material in place, then long pieces to cover the whole edge
 	- use one layer of tape except for tacking and overlapped ends. One layer flexes with what it is taped to. Which expands and contracts with heat and moisture. Multiple layers of tape are rigid. They peel, opening cracks for light to get through.
 
-#### single layer {#single-layer}
-
-A single layer blind would use extra-thick (0.25-) material, either black polyethylene construction sheeting, available at concrete supply houses, or EPDM rubber, used for pond lining and roofs.
-
-A single layer requires extra treatment at the edge, one or more of these:
-
-- fold edge under to create a springy seal
-- make a fleece seal, especially for rough surfaces
-- extend plastic far beyond trim (150--200-)
-- black, lightproof tape
-
-Avoid nicks and punctures. Repair with black tape or taped patches of the same material. The double-blind is better in most cases.
-
 #### panel {#panel}
 
 A panel is for permanent use. It has several benefits. It seals snugly inside a recess or outside like a shutter. 
@@ -369,6 +356,23 @@ I don't use these techniques anymore. But I kept their photos, plans and instruc
 #### foil {#foil}
 
 If all you have is foil and electrical tape, this technique works. The trick is to remove the roll from the box and unroll it directly onto the glass. This prevents bending, cracking and resulting light leaks. Tape it in place with black electrical tape. One-time use. Doesn't work with vent. It is wasteful and toxic but better than psychosis.
+
+#### single layer {#single-layer}
+
+A single layer blind uses extra-thick (0.25-) material: 
+
+- black polyethylene construction sheeting, available at concrete supply houses
+- EPDM rubber, used for pond lining and roofs
+- high-quality blackout fabric (~1- thick)
+
+A single layer requires extra treatment at the edge. Do one or more of these:
+
+- fold edge under to create a springy seal
+- make a fleece seal, especially for rough surfaces
+- extend plastic farther beyond trim (150--200-)
+- black, lightproof tape when sealing to wall 
+
+Avoid nicks and punctures. Repair with black tape or taped patches of the same material. The double-blind is better in most cases.
 
 #### velcro {#velcro}
 
