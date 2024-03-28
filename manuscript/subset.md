@@ -1661,7 +1661,7 @@ A mini-retreat would help maintain restedness between 5- and 9-day retreats. Som
 
 A schedule for 5-day retreats in calendar form is further below.
 
-**_CAUTION:_** Start a mini-retreat by 20:00 at the latest, and stay no more than 16 hours. I learned both these rules the hard way. It induced mild shock and very negative feelings and thoughts. Recovery took a 5-day retreat.
+> **_CAUTION:_** Start a mini-retreat by 20:00 at the latest, and stay no more than 16 hours. I learned both these rules the hard way. It induced mild shock and very negative feelings and thoughts. Recovery took a 5-day retreat.
 
 If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour late is less than ideal, but it still works because the organism has time to compensate. Not so with mini-retreating.
 
@@ -1695,7 +1695,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema. You spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-**_CAUTION:_** I did too many 5-day retreats (13!). It was like getting caught in a whirlpool. I lost too much [____false capacity____](#false-capacity) _-1_ before normal capacity could be restored to compensate.
+> **_CAUTION:_** I did too many 5-day retreats (13!). It was like getting caught in a whirlpool. I lost too much [____false capacity____](#false-capacity) _-1_ before normal capacity could be restored to compensate.
 
 Avoid this mistake. If you do a 5-day retreat, just do **one**. Then press on with arrangements for a 9-day Czech retreat. This begins with sharing the idea with others. You support their 9-day Czech retreats, probably in your darkroom, till one can support yours. More below about this.
 
@@ -2355,7 +2355,7 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 The effects of a retreat continue afterward. Sometimes their intensity is even greater. The time afterward can feel like a storm. So I call it the aftermath. It is another phase of exploration, metamorphosis, and insight. It can last from a few days to a few weeks. The transition days of a retreat reduce its length and intensity to tolerable levels.
 
-**_CAUTION:_** Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____warning____](#warning) _-4_ for more.
+> **_CAUTION:_** Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____warning____](#warning) _-4_ for more.
 
 For about a week after your retreat, plan only usual things: job, school, family. Keep to the routine, the familiar. Do nothing unusual or exhausting. Stay in when you might go out. The party will still be there in a week. Be subdued. Keep to yourself. Whose life is it anyway?
 
@@ -3580,7 +3580,7 @@ Lossnay's principle has DIY-potential, using non-siliconized parchment paper ("s
 
 ### purity {#purity}
 
-In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Purification methods include:
+In some cases, an air purifier becomes necessary. Get one if your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor. Purification methods include:
 
 - activated carbon
 - HEPA
@@ -3917,15 +3917,15 @@ A panel:
 - usable for retreats and nightly sleeping
 - adds security if installed outside and latches from the inside through the window
 
+Seal exposed edges of melamine with varnish, glue, or tape. Exterior plywood outgasses after three months. Meanwhile, block fumes with foil or mylar taped over inside.
+
+Avoid interior plywood. Its glue is less stable and outgasses more and longer than that of exterior plywood.
+
 &nbsp;
 
 ![photo: panel, exterior](images/panel.jpg)
 
 &nbsp;
-
-Seal exposed edges of melamine with varnish, glue, or tape. The smell from exterior plywood dissipates after three months. Meanwhile, mitigate it with foil or mylar over interior face of plywood.
-
-Avoid interior plywood. Its glue is less stable and outgasses more and longer than that of exterior plywood.
 
 I made my first panels with cardboard. But it warps and shrinks. Water damages it. It hasn't enough mass to stop noise.
 
@@ -3948,8 +3948,6 @@ If panel warps, reinforce it with dimensional lumber to keep it flat. Add hinges
 The oldest solution proves the most elegant: exterior shutters, operable from the inside. Traditional architecture worldwide uses them. They are common in Europe. Roller blinds like this are standard on the Mediterranean. They operate with interior straps. It's so nice! The French still like shutters hinged, as do Latinos.
 
 Alas, most Americans, Canadians, and Australians miss them without knowing it. People of Protestant countries are less aware of their bodies. And we cling to big windows as symbols of space and freedom we are fast losing. Ironically, the first step to regaining these is to cover up the windows.
-
-{pagebreak}
 
 ### zip {#zip}
 
@@ -4006,10 +4004,10 @@ Numerals with - x + are in millimeters (see [____metric____](#metric) _-8_).
 - bucket with lid, 10-25L
 - 1-2L soda bottle with cap, filled with water
 - loosen cap slightly
-- squeeze bottle over bucket, with or without lid. Use one hand or put it between your knees for hands-free use
+- squeeze bottle over bucket, lidded or not. Use one hand or put bottle between your knees for hands-free use
 - wash hands or food
-- slide lid halfway off bucket and tip it inward drain water into bucket
-- putting food waste in bucket helps keep down smell
+- pour water on lide into bucket
+- putting fruit peels in bucket helps keep down smell
 
 ### upgrade {#upgrade}
 
@@ -4028,7 +4026,7 @@ Numerals with - x + are in millimeters (see [____metric____](#metric) _-8_).
 
 ## toilet {#toilet}
 
-Both designs below are composting bucket toilets. The basic design is simple and fast. The upgrade is ventilated, separating, and for squatting.
+Both designs below are composting bucket toilets. The basic design is simple and fast. The upgrade is ventilated with separating and squatting options.
 
 ### basic {#basic2}
 
@@ -4043,18 +4041,16 @@ Cons: not ventilated, not stable enough for squatting, not separating (see upgra
 
 ### upgrade {#upgrade2}
 
-This is a minimalist composting toilet box. It is a light wooden frame and plastic skirt, not a heavy solid box. Highly adaptable. It:
+A wooden frame and plastic skirt make a lightweight box. Highly adaptable.
 
-- is for sitting or squatting
+- ventilated: no odor, even during use
+- sit or squat
 	- add seat adapter to connect a regular toilet seat
 	- slope the toilet at 4° angle for more comfortable squatting (facing down) or sitting (facing up)
-- is ventilated: no odor, even during use
-- separates pee from poop: add rails for tub. Funnel urinal is possible.
+- separates pee from poop with rails and tub or funnel urinal
 - fits 20L bucket 
 	- trim legs to fit yourself and a smaller bucket (8-16L)
 	- removal: lift whole box or just one platform
-
-Note: if you intend to use a separating tub (see option #3), get it first. Gap between platforms may need to be adjusted to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
 
 ![](images/toilet1.png)
 
@@ -4065,6 +4061,8 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 &nbsp;
 
 #### build {#build}
+
+If you intend to use a separating tub (see option #3), get one first. Adjust gap between platforms to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
 
 1. frame
 	1. cut boards
@@ -4084,7 +4082,7 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 3. Put a pan, tray, or a plastic sheet with towel or paper on top on the floor under the bucket to catch spills.
 4. ventilation 
 	- room's return duct attaches at hole in skirt for continuous exhaust
-	- cut hole for duct: 
+	- cut hole
 		- next to a frame leg. Attach a wire or bracket to leg to support duct
 		- 50--100- off floor
 		- 20- smaller than return duct to fit over it snugly
@@ -4153,12 +4151,12 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 ### compost {#compost}
 
 - pour off liquid under trees and bushes
-- dump solids in a covered compost pile enclosed with wire fencing or plywood
-- dust it with dirt and cover with a 30--50- layer of carbonaceous material like leaves, straw, sawdust	
+- dump solids in a covered compost pile bin
+- dust it with dirt and cover with a 30--50- layer of carbonaceous material like leaves, straw, or sawdust	
 - also put food scraps in pile 
-- let it sit for a year before use. Make a second pile meanwhile.
+- once full, seal it off for a year and start a second pile
 
-It's that simple. I wrote more about [____composting toilets____](https://hygienicdarkretreat.com/blog/2024/02/compost-toilet) to allay concerns and provide more details.
+It's that simple. I wrote more about [____composting toilets____](https://hygienicdarkretreat.com/blog/2024/02/compost-toilet) and bins to allay concerns and provide more details.
 
 ### paper upgrade {#paper-upgrade}
 

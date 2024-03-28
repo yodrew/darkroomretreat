@@ -11,10 +11,10 @@ Numerals with - x + are in millimeters (see [____metric____](#metric) _-8_).
 - bucket with lid, 10-25L
 - 1-2L soda bottle with cap, filled with water
 - loosen cap slightly
-- squeeze bottle over bucket, with or without lid. Use one hand or put it between your knees for hands-free use
+- squeeze bottle over bucket, lidded or not. Use one hand or put bottle between your knees for hands-free use
 - wash hands or food
-- slide lid halfway off bucket and tip it inward drain water into bucket
-- putting food waste in bucket helps keep down smell
+- pour water on lide into bucket
+- putting fruit peels in bucket helps keep down smell
 
 ### upgrade {#upgrade}
 
@@ -33,7 +33,7 @@ Numerals with - x + are in millimeters (see [____metric____](#metric) _-8_).
 
 ## toilet {#toilet}
 
-Both designs below are composting bucket toilets. The basic design is simple and fast. The upgrade is ventilated, separating, and for squatting.
+Both designs below are composting bucket toilets. The basic design is simple and fast. The upgrade is ventilated with separating and squatting options.
 
 ### basic {#basic2}
 
@@ -48,18 +48,16 @@ Cons: not ventilated, not stable enough for squatting, not separating (see upgra
 
 ### upgrade {#upgrade2}
 
-This is a minimalist composting toilet box. It is a light wooden frame and plastic skirt, not a heavy solid box. Highly adaptable. It:
+A wooden frame and plastic skirt make a lightweight box. Highly adaptable.
 
-- is for sitting or squatting
+- ventilated: no odor, even during use
+- sit or squat
 	- add seat adapter to connect a regular toilet seat
 	- slope the toilet at 4° angle for more comfortable squatting (facing down) or sitting (facing up)
-- is ventilated: no odor, even during use
-- separates pee from poop: add rails for tub. Funnel urinal is possible.
+- separates pee from poop with rails and tub or funnel urinal
 - fits 20L bucket 
 	- trim legs to fit yourself and a smaller bucket (8-16L)
 	- removal: lift whole box or just one platform
-
-Note: if you intend to use a separating tub (see option #3), get it first. Gap between platforms may need to be adjusted to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
 
 ![](images/toilet1.png)
 
@@ -70,6 +68,8 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 &nbsp;
 
 #### build {#build}
+
+If you intend to use a separating tub (see option #3), get one first. Adjust gap between platforms to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
 
 1. frame
 	1. cut boards
@@ -89,7 +89,7 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 3. Put a pan, tray, or a plastic sheet with towel or paper on top on the floor under the bucket to catch spills.
 4. ventilation 
 	- room's return duct attaches at hole in skirt for continuous exhaust
-	- cut hole for duct: 
+	- cut hole
 		- next to a frame leg. Attach a wire or bracket to leg to support duct
 		- 50--100- off floor
 		- 20- smaller than return duct to fit over it snugly
@@ -158,12 +158,12 @@ Note: if you intend to use a separating tub (see option #3), get it first. Gap b
 ### compost {#compost}
 
 - pour off liquid under trees and bushes
-- dump solids in a covered compost pile enclosed with wire fencing or plywood
-- dust it with dirt and cover with a 30--50- layer of carbonaceous material like leaves, straw, sawdust	
+- dump solids in a covered compost pile bin
+- dust it with dirt and cover with a 30--50- layer of carbonaceous material like leaves, straw, or sawdust	
 - also put food scraps in pile 
-- let it sit for a year before use. Make a second pile meanwhile.
+- once full, seal it off for a year and start a second pile
 
-It's that simple. I wrote more about [____composting toilets____](https://hygienicdarkretreat.com/blog/2024/02/compost-toilet) to allay concerns and provide more details.
+It's that simple. I wrote more about [____composting toilets____](https://hygienicdarkretreat.com/blog/2024/02/compost-toilet) and bins to allay concerns and provide more details.
 
 ### paper upgrade {#paper-upgrade}
 

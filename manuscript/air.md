@@ -430,7 +430,7 @@ Lossnay's principle has DIY-potential, using non-siliconized parchment paper ("s
 
 ### purity {#purity}
 
-In some cases, an air purifier becomes necessary. If your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor, get one. Purification methods include:
+In some cases, an air purifier becomes necessary. Get one if your house is near a factory, busy roads, in a smoggy city, or near a smelly restaurant or neighbor. Purification methods include:
 
 - activated carbon
 - HEPA

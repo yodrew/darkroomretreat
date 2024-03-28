@@ -412,7 +412,7 @@ Lots of little changes like this can quickly de-escalate severe psychosis to mer
 
 The effects of a retreat continue afterward. Sometimes their intensity is even greater. The time afterward can feel like a storm. So I call it the aftermath. It is another phase of exploration, metamorphosis, and insight. It can last from a few days to a few weeks. The transition days of a retreat reduce its length and intensity to tolerable levels.
 
-**_CAUTION:_** Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____warning____](#warning) _-4_ for more.
+> **_CAUTION:_** Do not attempt a retreat without transition days, no matter how desperate and short on time you may be. See [____warning____](#warning) _-4_ for more.
 
 For about a week after your retreat, plan only usual things: job, school, family. Keep to the routine, the familiar. Do nothing unusual or exhausting. Stay in when you might go out. The party will still be there in a week. Be subdued. Keep to yourself. Whose life is it anyway?
 

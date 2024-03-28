@@ -315,15 +315,15 @@ A panel:
 - usable for retreats and nightly sleeping
 - adds security if installed outside and latches from the inside through the window
 
+Seal exposed edges of melamine with varnish, glue, or tape. Exterior plywood outgasses after three months. Meanwhile, block fumes with foil or mylar taped over inside.
+
+Avoid interior plywood. Its glue is less stable and outgasses more and longer than that of exterior plywood.
+
 &nbsp;
 
 ![photo: panel, exterior](images/panel.jpg)
 
 &nbsp;
-
-Seal exposed edges of melamine with varnish, glue, or tape. The smell from exterior plywood dissipates after three months. Meanwhile, mitigate it with foil or mylar over interior face of plywood.
-
-Avoid interior plywood. Its glue is less stable and outgasses more and longer than that of exterior plywood.
 
 I made my first panels with cardboard. But it warps and shrinks. Water damages it. It hasn't enough mass to stop noise.
 
@@ -346,8 +346,6 @@ If panel warps, reinforce it with dimensional lumber to keep it flat. Add hinges
 The oldest solution proves the most elegant: exterior shutters, operable from the inside. Traditional architecture worldwide uses them. They are common in Europe. Roller blinds like this are standard on the Mediterranean. They operate with interior straps. It's so nice! The French still like shutters hinged, as do Latinos.
 
 Alas, most Americans, Canadians, and Australians miss them without knowing it. People of Protestant countries are less aware of their bodies. And we cling to big windows as symbols of space and freedom we are fast losing. Ironically, the first step to regaining these is to cover up the windows.
-
-{pagebreak}
 
 ### zip {#zip}
 

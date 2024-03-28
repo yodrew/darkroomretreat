@@ -77,7 +77,7 @@ A mini-retreat would help maintain restedness between 5- and 9-day retreats. Som
 
 A schedule for 5-day retreats in calendar form is further below.
 
-**_CAUTION:_** Start a mini-retreat by 20:00 at the latest, and stay no more than 16 hours. I learned both these rules the hard way. It induced mild shock and very negative feelings and thoughts. Recovery took a 5-day retreat.
+> **_CAUTION:_** Start a mini-retreat by 20:00 at the latest, and stay no more than 16 hours. I learned both these rules the hard way. It induced mild shock and very negative feelings and thoughts. Recovery took a 5-day retreat.
 
 If you can't start your mini-retreat on time, postpone it till you can. Starting regular retreats an hour late is less than ideal, but it still works because the organism has time to compensate. Not so with mini-retreating.
 
@@ -111,7 +111,7 @@ Besides sleeping as much as possible, eating, eliminating, and bathing, what doe
 
 Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema. You spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
 
-**_CAUTION:_** I did too many 5-day retreats (13!). It was like getting caught in a whirlpool. I lost too much [____false capacity____](#false-capacity) _-1_ before normal capacity could be restored to compensate.
+> **_CAUTION:_** I did too many 5-day retreats (13!). It was like getting caught in a whirlpool. I lost too much [____false capacity____](#false-capacity) _-1_ before normal capacity could be restored to compensate.
 
 Avoid this mistake. If you do a 5-day retreat, just do **one**. Then press on with arrangements for a 9-day Czech retreat. This begins with sharing the idea with others. You support their 9-day Czech retreats, probably in your darkroom, till one can support yours. More below about this.
 
