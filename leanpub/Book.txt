@@ -13,7 +13,7 @@ psychology.md
 format.md
 protocol.md
 prepare.md
-3-darkroom.md
+3-dark.md
 design.md
 make.md
 air.md

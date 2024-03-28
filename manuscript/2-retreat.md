@@ -1,6 +1,6 @@
 -# retreat
 
-#### part 2 : application
+#### part 2 : process
 
 &nbsp;
 
