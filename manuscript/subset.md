@@ -1603,7 +1603,7 @@ A 9-day standard retreat requires upgraded conditions. Besides birth, a retreat 
 Get relief _tonight_ from most outdoor ambient light. In 5-10 minutes, fix dark, dense sheet material over your bedroom windows and doors. 
 
 - over door and windows, tack or tape up 
-	- blankets, sleeping bags, dark bedsheets or extra curtains
+	- extra curtains, blankets, sleeping bags, dark bedsheets 
 	- black plastic, carpet, or cardboard
 	- or prop up plywood, old doors, or big table tops
 	- use whatever you have to cover the windows
@@ -1612,7 +1612,7 @@ Get relief _tonight_ from most outdoor ambient light. In 5-10 minutes, fix dark,
 - make sure you have plenty of fresh air, even if it lets in a little light
 - block some of the remaining light with a mask from an airline or travel store; a tall dark, winter hat pulled down, or a dark t-shirt draped over your eyes. Every bit helps.
 
-We often feel groggy after sleeping a lot after many short nights. Some people call this getting too much sleep. That is a physiological impossibility. The body make no mistakes. They just do not know how tired people can get and still keep their jobs.
+We often feel groggy after sleeping a lot after many short nights. Some call this getting too much sleep. But that is a physiological impossibility. The body never errs. It's a matter of how tired people can get and still keep their jobs.
 
 In fact, we are tapping into the first layer of a backlog of lost sleep. Feeling groggy is the first phase of catching up. This can take days. Reversing sleep deprivation is like withdrawing from a strong drug. Like me, you may need a retreat to get to the other side of it without backsliding.
 
@@ -1623,7 +1623,7 @@ In the meantime, this format helps us remember how important darkness is. The ne
 
 We require total darkness to sleep well. No one is an exception to this. You may be able to fall asleep despite the street light outside your bedroom window, but only at the expense of overall function (see Law of Vital Accommodation in [____process____](#process) _-1_). The circadian system has not changed one iota since industrialization. It never gets used to anything. If light intrudes on your sleep, it will signal the circadian system to make your sleep less deep and restful, whether you know it or like it or not. It's like what many clients told me after their retreats: "I had no idea how tired I was."
 
-From simply darkening his bedroom, a friend reported to me a huge difference in the quality of sleep he and his mate experienced, as well as a return of vivid dreams. I have experienced the same thing whenever I have been able to darken the room I sleep in. As a rule, the darker the room, the better the sleep. 100% darkness is 1000% better than 99.9% darkness. Extinguishing that last bit of light leaves the mind nothing to hang onto, giving new meaning to "falling asleep". See for yourself.
+A friend darkened his bedroom. He reported a huge improvement in the quality of sleep he and his mate got. Vivid dreams returned as well. I have experienced the same thing whenever I have been able to darken the room I sleep in. The darker the room, the better the sleep. 100% darkness is a 10,000% better than 99.9% darkness. Extinguishing that last bit of light leaves the mind nothing to hang onto. It gives new meaning to "falling asleep". See for yourself.
 
 It is best to go to sleep early, from 18:00 to 22:00 at the latest. Four hours later, one naturally awakens from this "first sleep" for a candle-lit "watch" of about 4 hours. At this hour, one is freshly rested, yet the promise of sleep lies ahead. The world outside is quieter; children are asleep; the mind runs more slowly; and inhibitions are slightly relaxed.
 
@@ -1641,13 +1641,13 @@ Many aspects of modern life seem out of control. Blackout blinds offer the uniqu
 
 ### short {#short}
 
-Short retreats last 12 hours to 9 days. You can begin at home.
+Short retreats last 0.5--9 days. You can begin at home.
 
 #### mini {#mini}
 
-_Note: I do not recommend mini-retreats. I merely suggest it as a possibility. Only do it if you would like to and you are able to do it exactly as instructed, thus not endangering yourself. I cannot do them properly, so I don't try anymore. But some people will have the capacity and circumstances make it ok. If you have a negative experience, don't try again. Use a 5-day or 9-day retreat to recover._
+_Note: I do not recommend a mini-retreat. I merely suggest it as a possibility. Only do it if you can do it exactly as instructed, thus not endangering yourself. I cannot do them properly, so I don't try anymore. But some people will have the capacity and circumstances to make it ok. If you have a negative experience, don't try again. Use a 5-day or 9-day retreat to recover._
 
-A mini-retreat allows you to dip your toe into retreating while keeping your usual schedule. It includes the two primary phases of a retreat: sleeping long and deeply, and being awake by yourself without distraction for some hours in the middle of the night. 
+A mini-retreat allows you to dip your toe into retreating while keeping to your schedule. It includes the two primary phases of a retreat: sleeping long and deeply, and being awake by yourself without distraction for some hours. 
 
 It is the same as sleeping nightly in darkness except you:
 
@@ -1657,9 +1657,9 @@ It is the same as sleeping nightly in darkness except you:
 - stay in darkness 12--16 hours*
 - have a quiet day at home and an early night
 
-A mini-retreat would help maintain restedness between 5- and 9-day retreats. Some benefits of retreating fade and at different rates. To extend them and smooth the transition to the moment of needing to retreat again, try a mini-retreat once a week.
+A mini-retreat could help maintain restedness between 5- and 9-day retreats. Some benefits of retreating fade and at different rates. Extend them. Smooth the transition to your next retreat with a mini-retreat per week or month.
 
-A schedule for 5-day retreats in calendar form is further below.
+Find a schedule for 5-day retreats in calendar form below.
 
 > **_CAUTION:_** Start a mini-retreat by 20:00 at the latest, and stay no more than 16 hours. I learned both these rules the hard way. It induced mild shock and very negative feelings and thoughts. Recovery took a 5-day retreat.
 
@@ -1669,7 +1669,7 @@ If you can't start your mini-retreat on time, postpone it till you can. Starting
 
 The human organism in darkness seems to go through a 48-hour cycle. The point of no return seems to be 16 hours. (I predict that research will bear this out.) So either exit a mini-retreat before going past this point or plan a 5-day retreat to complete the cycle.
 
-Otherwise you may have a bad experience. For me it was like getting out of a Ferris wheel halfway up. Read my blog post, [____how not to retreat____](https://hygienicdarkretreat.com/blog/2013/05/how-not-to-retreat), for a longer explanation of the debacle.
+Otherwise you may have a bad experience. For me it was like getting out of a Ferris wheel halfway up. Read my post, [____how not to retreat____](https://hygienicdarkretreat.com/blog/2013/05/how-not-to-retreat), for more on the debacle.
 
 Biological rhythms are very powerful. Apparently, they cannot be messed with in this way. 
 
@@ -1681,29 +1681,31 @@ Once your darkening and ventilating measures are working smoothly for nightly us
 
 Everyone interested in a 5-day retreat can do one. Though not guaranteed, it is possible to catch up on all the sleep one ever lost. The amount of deep sleep that can be had in such a short amount of time is impossible to conceive beforehand and hard to believe even after experiencing it. 
 
-You can get relief from your distress and overstimulation. You can recover homeostasis. You can regain hope and register a memory of feeling very good. While most effects fade after a few weeks, you will begin to recover little pieces of your lost self. 
+You get relief from distress and overstimulation. You recover homeostasis. You regain hope and make a memory of feeling very good. While most effects fade after a few weeks, you will recover bits of your lost self. 
 
-Lastly, you start learning how to be in darkness. Your supporter starts to learn how to be around a retreat. You will get a clearer idea about how and when to do future retreats, and for how long.
+You start learning how to be in darkness. Your supporter starts learning how to be around a retreater. You will see better how and when to do future retreats, and for how long.
 
-If your location has no running water, it's ok. For a 5-day retreat, it is unnecessary. See [____water____](#water) _-11_ for a short list of requirements.
+Running water is unnecessary for a 5-day retreat. See [____water____](#water) _-11_ meet the simple requirements.
 
-Timing of regular retreats is a bit more flexible than mini-retreats. Plan to turn off lights between 18:00 and 20:00. If something comes up and you are a little late, it's ok. But if you start after 22:00 due to scheduling, insomnia, anxiety, or addiction, add an extra day and night of darkness to your retreat. This, by the way, is how to begin seriously interrupting these illnesses. The effect of such a short retreat will likely be temporarily. But at least you'll glimpse the light at the end of the tunnel.
+Timing of multi-day retreats is flexible compared to mini-retreats. Plan to turn off lights between 18:00 and 20:00. If something comes up and you are late, it's ok. But 22:00 is the deadline. If you miss it, start the next evening. 
 
-In accordance with the natural diurnal cycle, go into darkness in the evening and come out in the morning. Just stay in extra days in between. This makes the dark part of a retreat 2.5 days (60 hours). Avoid checking the time. Use a cellphone alarm set to a specific day to know when the retreat is over.
+Things come up. Insomnia, anxiety, and addiction screw things up. Darkness is how to begin seriously interrupting these illnesses. Most effects of a short retreat will fade. But you will glimpse the light at the end of the tunnel.
 
-Besides sleeping as much as possible, eating, eliminating, and bathing, what does one do in darkness without work, people, or media? Light exercise and restful placement of attention. I explain more about the latter in [____attention____](#attention) _-5_.
+In accordance with the natural diurnal cycle, go into darkness in the evening and come out in the morning. Just stay in extra days in between. This makes the dark part of the 5-day retreat ~2.5 days (~60 hours). Avoid checking the time. Use a cellphone alarm set to a specific day to know when the retreat is over.
 
-Afterward, slowly re-adjust to light. You did not just watch a matinee in a dark cinema. You spent days in total darkness. Sudden exposure to daylight would be a painful and unnecessary shock. Spend a minimum of 15 minutes gradually relighting the room by opening the door and window panels a few millimeters at a time. 
+Besides sleeping as much as possible, eating, exercise, eliminating, bathing, what does one do in darkness without work, people, or media? One keeps [____attention____](#attention) _-5_ in restful places. 
 
-> **_CAUTION:_** I did too many 5-day retreats (13!). It was like getting caught in a whirlpool. I lost too much [____false capacity____](#false-capacity) _-1_ before normal capacity could be restored to compensate.
+Afterward, slowly re-adjust to light. You did not just watch the flickering light of a matinee in a dark cinema. You spent days in total darkness. Sudden exposure to daylight would be a shock. Spend a minimum of 15 minutes gradually relighting the room. Open the door or uncover a window a few millimeters at a time. 
 
-Avoid this mistake. If you do a 5-day retreat, just do **one**. Then press on with arrangements for a 9-day Czech retreat. This begins with sharing the idea with others. You support their 9-day Czech retreats, probably in your darkroom, till one can support yours. More below about this.
+> **_CAUTION:_** I did too many 5-day retreats (13!). It was like getting caught in a whirlpool. I lost too much [____false capacity____](#false-capacity) _-1_ before normal capacity could be restored to compensate. Avoid this mistake.
 
-A schedule for 5-day retreats in calendar form is further below.
+If you do a 5-day retreat, just do **one**. Then press on with arrangements for a 9-day Czech retreat. This begins with sharing the idea with others. You support their 9-day Czech retreats, probably in your darkroom, till one can support yours. More below about this.
+
+A schedule for 5-day retreats in calendar form is below.
 
 #### lit {#lit}
 
-Surprise: some days in a good dark retreat are sunlit.
+Surprise: in a good dark retreat, some days are sunlit.
 
 Medium and long retreats also have lit days.
 
