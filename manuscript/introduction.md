@@ -277,7 +277,7 @@ Chapters are grouped in three parts:
 	- [____format____](#format) _-4_: retreat lengths and purposes
 	- [____protocol____](#protocol) _-5_: what to do and how to be in a retreat
 	- [____prepare____](#prepare) _-6_: orientation, questionnaire, quiz, menu, packing list
-3. darkroom (building)
+3. dark (building)
 	- [____design____](#design) _-7_: principles and specifications
 	- [____make____](#make) _-8_: descriptions, plans, and instructions to make darkrooms
 	- [____air____](#air) _-9_: ventilating, silencing, and heating
