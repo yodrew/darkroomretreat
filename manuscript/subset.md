@@ -2629,7 +2629,7 @@ Nature works. Occasionally, disaster strikes and chaos ensues. We must restore o
 
 ### normal {#normal}
 
-Hygiene uses only normal conditions. A darkroom is merely what all shelter should be: easily darkened. The purpose of buildings is to provide shelter. Shelter is a means of controlling one's exposure to elements, pollution, and people for rest, safety, and security.
+Hygiene uses only normal conditions. A darkroom is merely what all shelter should be: easily darkened. The purpose of buildings is to provide shelter. We use shelter to control our exposure to elements, pollution, and animals for the purposes of rest, safety, and security.
 
 The light pollution of street lamps combined with the modern fetish for large unshuttered windows make the darkening of bedrooms critical to survival. Light is an element to control one's exposure to. Having huge lights in the wall that turn off and on by themselves contradicts the purpose of shelter. Everyone’s bedroom should be a darkroom, at least for nightly sleep. It is normal, just rare... for now.
 
@@ -3407,18 +3407,24 @@ Or make a [____removable partition____](https://andrewdurham.shutterfly.com/313)
 6. measure and cut door baffles wide enough to seal door where there is no vent. Add 10 + half the door thickness. Length = (46 + door thickness). Attach them to door 20- above bottom of door. Use masking tape.
 7. if light leaks under the door, cover the threshold with black paper or fabric
 8. if there's a danger of kicking it in, glue pieces of wood, 10 x 428 x 38, to the bottom of the walls. Screw them in from the inside with 3 x 15 screws and fender washers.
-	
+
+{pagebreak}
+
 ## soundproofing {#soundproofing}
 
 ### principles {#principles}
 
-Shelter must [____control exposure____](#normal) _-7_ to pollution. Noise is a form of pollution. Noise comes from outside from machines, traffic---including boats, trains, and airplanes---construction, music, fireworks, and talking and playing people. It comes from inside from machines---refrigerators, fans, water pipes and pumps), people in adjoining spaces, and their music. At some point, noise defeats a retreat. One must attenuate it somehow, even in remote locations.
+At some point, noise defeats a retreat. One must attenuate it somehow, even in remote locations.
+
+Shelter is the [____normal____](#normal) _-7_ means of controlling exposure to pollution. Pollution includes noise.
+
+Outside, noise comes from machines, traffic---including boats, trains, and airplanes---construction, music, fireworks, and talking and playing people. Inside, it comes from machines---refrigerators, fans, water pipes and pumps), people in adjoining spaces, and their music. 
 
 The four principles of soundproofing are:
 
-1. mass: heavy materials absorb low-frequency (bass) sounds
-2. absorption: fine fibers absorb high frequencies and prevent echoing in air cavities
-3. dampening: using rubbery material to dampen vibration in resonant materials like metal, wood, masonry, glass
+1. mass: use heavy materials absorb low-frequency (bass) sounds
+2. absorption: use fine fibers absorb high frequencies and prevent echoing
+3. dampening: use rubbery material dampens vibration in resonant materials like metal, wood, masonry, glass
 4. decoupling: disconnect structures and airspaces to prevent transmission of sound vibration between them
 
 [____Soundproofing tutorials____](https://bit.ly/soundproofingtutor) abound online. 
@@ -4054,6 +4060,8 @@ A wooden frame and plastic skirt make a lightweight box. Highly adaptable.
 	- trim legs to fit yourself and a smaller bucket (8-16L)
 	- removal: lift whole box or just one platform
 
+If you intend to use a separating tub (see option #3 below), get one first. Adjust gap between platforms to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
+
 ![](images/toilet1.png)
 
 ![](images/toilet2.png)
@@ -4062,9 +4070,9 @@ A wooden frame and plastic skirt make a lightweight box. Highly adaptable.
 
 &nbsp;
 
-#### build {#build}
+&nbsp;
 
-If you intend to use a separating tub (see option #3), get one first. Adjust gap between platforms to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
+#### build {#build}
 
 1. frame
 	1. cut boards
@@ -4097,10 +4105,8 @@ If you intend to use a separating tub (see option #3), get one first. Adjust gap
 	- position adapter between platforms where comfortable. Seat should stick out 30-80-
 	- drill pilot holes into platforms through holes in bridges
 	- screw adapter into platforms
-2. lifting platform 
-
-	Eases bucket removal. Add brace to lifting side. Three types:
-	1. hinge
+2. lifting platform -- it eases removal of bucket. Add brace to lifting side. Three types:
+	1. hinged
 		1. trim 10- from one platform at rear
 		2. attach it to back with heavy door hinge, 76- or 89-
 		3. drill one pilot hole in the middle of the other end, a little smaller than ~3- dia nail 

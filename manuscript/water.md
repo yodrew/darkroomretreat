@@ -59,6 +59,8 @@ A wooden frame and plastic skirt make a lightweight box. Highly adaptable.
 	- trim legs to fit yourself and a smaller bucket (8-16L)
 	- removal: lift whole box or just one platform
 
+If you intend to use a separating tub (see option #3 below), get one first. Adjust gap between platforms to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
+
 ![](images/toilet1.png)
 
 ![](images/toilet2.png)
@@ -67,9 +69,9 @@ A wooden frame and plastic skirt make a lightweight box. Highly adaptable.
 
 &nbsp;
 
-#### build {#build}
+&nbsp;
 
-If you intend to use a separating tub (see option #3), get one first. Adjust gap between platforms to fit it. This will also affect lengths of front, back, and spanner of toilet seat adapter. 
+#### build {#build}
 
 1. frame
 	1. cut boards
@@ -102,10 +104,8 @@ If you intend to use a separating tub (see option #3), get one first. Adjust gap
 	- position adapter between platforms where comfortable. Seat should stick out 30-80-
 	- drill pilot holes into platforms through holes in bridges
 	- screw adapter into platforms
-2. lifting platform 
-
-	Eases bucket removal. Add brace to lifting side. Three types:
-	1. hinge
+2. lifting platform -- it eases removal of bucket. Add brace to lifting side. Three types:
+	1. hinged
 		1. trim 10- from one platform at rear
 		2. attach it to back with heavy door hinge, 76- or 89-
 		3. drill one pilot hole in the middle of the other end, a little smaller than ~3- dia nail 

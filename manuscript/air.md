@@ -255,18 +255,24 @@ Or make a [____removable partition____](https://andrewdurham.shutterfly.com/313)
 6. measure and cut door baffles wide enough to seal door where there is no vent. Add 10 + half the door thickness. Length = (46 + door thickness). Attach them to door 20- above bottom of door. Use masking tape.
 7. if light leaks under the door, cover the threshold with black paper or fabric
 8. if there's a danger of kicking it in, glue pieces of wood, 10 x 428 x 38, to the bottom of the walls. Screw them in from the inside with 3 x 15 screws and fender washers.
-	
+
+{pagebreak}
+
 ## soundproofing {#soundproofing}
 
 ### principles {#principles}
 
-Shelter must [____control exposure____](#normal) _-7_ to pollution. Noise is a form of pollution. Noise comes from outside from machines, traffic---including boats, trains, and airplanes---construction, music, fireworks, and talking and playing people. It comes from inside from machines---refrigerators, fans, water pipes and pumps), people in adjoining spaces, and their music. At some point, noise defeats a retreat. One must attenuate it somehow, even in remote locations.
+At some point, noise defeats a retreat. One must attenuate it somehow, even in remote locations.
+
+Shelter is the [____normal____](#normal) _-7_ means of controlling exposure to pollution. Pollution includes noise.
+
+Outside, noise comes from machines, traffic---including boats, trains, and airplanes---construction, music, fireworks, and talking and playing people. Inside, it comes from machines---refrigerators, fans, water pipes and pumps), people in adjoining spaces, and their music. 
 
 The four principles of soundproofing are:
 
-1. mass: heavy materials absorb low-frequency (bass) sounds
-2. absorption: fine fibers absorb high frequencies and prevent echoing in air cavities
-3. dampening: using rubbery material to dampen vibration in resonant materials like metal, wood, masonry, glass
+1. mass: use heavy materials absorb low-frequency (bass) sounds
+2. absorption: use fine fibers absorb high frequencies and prevent echoing
+3. dampening: use rubbery material dampens vibration in resonant materials like metal, wood, masonry, glass
 4. decoupling: disconnect structures and airspaces to prevent transmission of sound vibration between them
 
 [____Soundproofing tutorials____](https://bit.ly/soundproofingtutor) abound online. 

@@ -6,7 +6,7 @@ Nature works. Occasionally, disaster strikes and chaos ensues. We must restore o
 
 ### normal {#normal}
 
-Hygiene uses only normal conditions. A darkroom is merely what all shelter should be: easily darkened. The purpose of buildings is to provide shelter. Shelter is a means of controlling one's exposure to elements, pollution, and people for rest, safety, and security.
+Hygiene uses only normal conditions. A darkroom is merely what all shelter should be: easily darkened. The purpose of buildings is to provide shelter. We use shelter to control our exposure to elements, pollution, and animals for the purposes of rest, safety, and security.
 
 The light pollution of street lamps combined with the modern fetish for large unshuttered windows make the darkening of bedrooms critical to survival. Light is an element to control one's exposure to. Having huge lights in the wall that turn off and on by themselves contradicts the purpose of shelter. Everyone’s bedroom should be a darkroom, at least for nightly sleep. It is normal, just rare... for now.
 
