@@ -247,33 +247,41 @@ Two influences affect capacity significantly: profound rest (positively) and maj
 
 Contrary to common opinion, effort, will, and discipline affect capacity insignificantly. Lifestyle, the daily conditions one arranges for himself, merely help one realize one's capacity. Whatever gains one makes by them beyond one's capacity are minor, however impressive they may seem, and they are easily lost. 
 
-Likewise, heroic discipline or super-effort (doing something twice as much or twice as fast) have the notable but still insignificant effect of turning people into weird assholes. Common examples include religiosity[^4] about a god, politics, work, and food. Fortunately, this condition abates with enough rest.
+Likewise, heroic discipline or super-effort (doing something twice as much or twice as fast) have the notable but still insignificant effect of turning people into weird assholes. Common examples include religiosity[^4], whether about god, politics, work, or food. Fortunately, this condition abates with enough rest.
 
-This law has a strange implication. The benefit one derives from anything cannot exceed one's capacity for it. When structure is damaged (as with virtually all of us now), the unconscious self prevents further damage from the increased energy of normal levels of pleasure, joy, fulfillment, and success running through damaged circuits. We often call the results of this life-saving mechanism "self-sabotage" or "bad habits". But we can best understand it as a symptom of disease. Thus, as hygienists, we seek to understand and support it, not fight it like the moralists. Which hygienists have unfortunately been when up against a person's habits.
+This law has a strange implication. The benefit one derives from anything cannot exceed one's capacity for it. When structure is damaged, a normal flow of vital energy will cause more damage. So the unconscious constricts it! To some degree, right action and its results—success, fulfillment, pleasure, and joy—become dangerous.
+
+We often call this life-saving mechanism "self-sabotage" or "bad habits". But we can best understand it as a symptom of disease. As hygienists, we must seek to understand and support it, not fight it as moralists.
+
+This will be a big change in hygiene. Hygienists have understood vital contraction on a physical level, but not a psychical one. They have resorted to moralizing about habits. This has been useless to most of the afflicted. It has alienated many. It distorted the personalities of many who tried.
 
 The same is true of more obvious means of self-protection like resistance and stubbornness.
 
-Imagine a damaged electrical device. Running it won't repair it. It may well cause further damage. It is best to immediately stop it, turn it off, unplug it, and bring it to a technician for repair.
+Imagine a damaged electrical device. Running it won't repair it. It may well cause further damage. It is best to immediately stop it, turn it off, unplug it, and bring it to a technician for a complete repair.
 
-Likewise, one's capacity for ordinary rest determines how much of it one will enjoy. A good night's sleep begins a deep healing process that may take days or weeks to complete. A good night's sleep entails stillness and leads to re-energization and clarity.
+Insomnia is a good example. One's capacity for ordinary rest determines how much of it one will enjoy. A good night's sleep begins a deep healing process that may take days to complete. A good night's sleep entails stillness and leads to re-energization and clarity.
 
-These lead to irritation. It's like the pain of re-breaking a badly set bone. The organism accepts it if the new energy will fuel a complete repair. But if light and activity will interrupt the process in the morning, then, from the comprehensive perspective of capacity, it's best to not start at all. 
+These lead to irritation. It's like the pain of re-breaking a badly set bone. The organism submits to it if the new energy will fuel a complete repair. But if light and activity will interrupt the process in the morning, then, from the comprehensive perspective of capacity, it's best to not start at all.
 
-If, due to a lack of time, safety, or understanding we have not met all the conditions of healing, then unconsciously, we will be prevented from sleeping until we can _really_ sleep. Insomnia typically results. As with the rest of functioning, only in profound rest does the organism restore its capacity for ordinary rest. 
+If, due to a lack of time, safety, or understanding one has not met all the conditions of healing, then unconsciously, he will be prevented from sleeping until he can _really_ sleep. Insomnia results. As with the rest of functioning, only in profound rest does the organism restore its capacity for ordinary rest.
 
-This analysis applies to everything we try that repeatedly fails and frustrates us. 
+This analysis applies to everything we repeatedly fail at. 
 
-Like staying on a good diet. One starts eating well. Congestion clears. Sleep becomes easy and delicious. Clarity, motivation, and joy return. Eventually, the energy level reaches a fever pitch and something snaps. With the indifference of an executioner and the self-awareness of a narcissist, one inhales three pieces of cake that, an hour before, was obviously horrifying. 
+Like staying on a good diet. One starts eating well. Congestion clears. Sleep becomes easy and delicious. Clarity, motivation, and joy return. Eventually, the energy level reaches a fever pitch and something inside snaps. Before one knows it, one has inhaled three pieces of cake that, an hour before, was obviously horrifying. 
 
-The unbearable level of energy in real emotion has the same effect on many of us. Or in meeting a magnificent personality (and getting star-struck). Or in getting a once-in-a-lifetime opportunity. Choke artistry springs from nowhere. "Boy, it's time for an all-night movie marathon! Where's the ice cream?" To prevent further damage to capacity, the autonomic self does whatever it takes to curb one's enthusiasm.
+The unbearable level of energy in great, especially positive, emotion has the same effect on many. Or in meeting a magnificent personality—and getting star-struck. Or in getting a once-in-a-lifetime financial opportunity. Choke artistry springs from nowhere. "Things are getting a little too perfect. It's time for an all-night movie marathon! Where's the ice cream?" To prevent further damage to capacity, the autonomic self does whatever it takes to curb one's enthusiasm.
 
 Thus, we can see how moralization about choices, habits, commitment, etc, is ineffective because it is irrelevant. We are not creatures of habit. We are beings of capacity. In any given moment, we do absolutely the best we possibly can. Whether willed or automatic, every thought, every feeling, every action is an utmost expression of one's capacity. The instant that capacity rises or falls, so does function. Life cannot do otherwise.
 
-Genuine benefits gained by normal efforts simply realize one's capacity. That's why they feel fun. When emergencies or unusual opportunities call for extra effort, the body supplies adrenaline for it. But we err in continuing to exert extra effort over a prolonged time span for any purpose, let alone the mind-boggling task of restoring our original capacity. The will fails to achieve it. Only the involuntary power that gave us life in the first place can. This power cannot be manipulated, only provided for.
+Genuine benefits gained by normal efforts simply realize one's capacity. That's why they feel fun. When emergencies or unusual opportunities call for extra effort, the body supplies adrenaline for it. 
 
-Like the _Law of Force_, the _Law of Capacity_ integrates several existing hygienic Laws of Life. It casts them in a different light. It contains elements of the laws of _Compensation_, _Distribution_, _Development_, and others. It has many implications. If, like me, it takes over your perspective, you may realize some of your usual efforts are futile. You may feel your attention freed to focus on what you can actually accomplish.
+But we err in continuing to exert extra effort over a prolonged time span for any purpose, let alone the impossible task of restoring original capacity. The will cannot do it. It must fail. Only the involuntary power that animates us can do it. This power cannot be manipulated, only provided for.
 
-This idea of capacity has its roots in the Ayn Rand's character studies in _Atlas Shrugged_ and in esoteric spiritual teaching such as Gurdjieff's. I have simply resituated it in hygiene. Here it is in harmony with nature, universally accessible, and more useful by orders of magnitude.
+Understanding is the key. This requires pausing, reflecting, researching. This redirection of attention is the correct use of will. It is the correct morality. Then effort can succeed.
+
+The _Law of Capacity_ integrates elements of several hygienic Laws of Life: _Compensation_, _Distribution_, _Development_, and others. It has many implications. If, like me, it takes over your perspective, you may realize some of your usual efforts are futile. You may feel your attention freed to discover and work upon what you can actually accomplish.
+
+This idea of capacity has its roots in [____psychology____](https://hygienicdarkretreat.com/bibliography-influences# I read; the Ayn Rand's character studies in _Atlas Shrugged_; esoteric spiritual teaching such as Gurdjieff's;. I have simply resituated it in hygiene. Here it is in harmony with nature, universally accessible, and more useful by orders of magnitude.
 
 ### false capacity {#false-capacity}
 
@@ -291,7 +299,7 @@ With false capacity go the survival tricks it sustained. Only survival concerns 
 
 The organism is concerned with overall function and efficiency. Normal capacity is generalized and adapts to a variety of situations. It is natural, but takes some getting used to after a lifetime of faking it.
 
-This idea contradicts our perversely moralized perspective. How shocking to discover that years of hard work on oneself accomplish little compared to doing nearly nothing for a few weeks in darkness; that our efforts make us fake; that our pride in them keeps us stuck.
+This idea contradicts our perversely moralized perspective. How shocking to discover that years of hard work on oneself accomplish little compared to doing nearly nothing for a few days in darkness; that our efforts make us fake; that our pride in them keeps us stuck.
 
 This is the hardest lesson I have learned about darkness. With every new breakthrough I had in darkness, I would experience a corresponding loss of function. It confused me for years and began to scare me. Abilities I counted upon, that I always had, suddenly disappeared. Retreating seemed like it was backfiring.
 

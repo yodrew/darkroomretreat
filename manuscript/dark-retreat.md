@@ -255,11 +255,13 @@ Perhaps most damaging, they epitomize our lifeway's false strategy of externaliz
 
 Do the lives of many people improve with plant medicines? Yes, at the surface. But improvements come at the expense of the underlying vitality needed to heal at the root. We need a complete solution.
 
-I could also say that drugs do not lead to genuine spiritual realization or enlightenment; that they destroy the subtle nervous system enlightenment depends on; that great masters eschew and condemn them. But I reject the premise that enlightenment is a worthy goal. We need something much greater to end our suffering, solve our problems, and live fully. Drugs destroy the means of accomplishing this: health and self-regard.
+I could also say that drugs do not lead to genuine spiritual realization or enlightenment; that they destroy the subtle nervous system enlightenment depends on; that great masters eschew and condemn them. But I reject the premise that enlightenment is a worthy goal. We need something much greater than that to end our suffering, solve our problems, and live fully. Drugs destroy the means of accomplishing this: health and self-regard.
 
-Obviously, drugs are expensive and legally treacherous. They lead one to associate with misguided, destructive people. And they corrode basic conditions of life: work, relationship, rest.
+Obviously, drugs are expensive and legally treacherous. They lead one to associate with misguided, destructive people. And they corrode basic conditions of life: work, relationship, rest. We all know tragic examples.
 
 A clue to the abnormality of drugs lies in the fact that, in the restful use of darkness, the compulsion and even the thought of using them vanishes. Dependency falls away when natural energy, clarity, fulfillment, and purpose return. Life as oneself becomes appealing again. 
+
+This describes one case I am familiar with. After over a decade of vain seeking with ayahuasca, etc, a man found himself in darkness. He closed the door on substances, went back to school, and now has a stable romantic relationship and does high-level work internationally.
 
 Just say yo (Spanish for "I"). Get yourself back the way nature provides.
 
