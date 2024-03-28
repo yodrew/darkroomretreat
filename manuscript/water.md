@@ -161,9 +161,12 @@ If you intend to use a separating tub (see option #3 below), get one first. Adju
 - dump solids in a covered compost pile bin
 - dust it with dirt and cover with a 30--50- layer of carbonaceous material like leaves, straw, or sawdust	
 - also put food scraps in pile 
-- once full, seal it off for a year and start a second pile
+- once full, seal it off for a year till the black gold is ready
+- start a second pile
 
 It's that simple. I wrote more about [____composting toilets____](https://hygienicdarkretreat.com/blog/2024/02/compost-toilet) and bins to allay concerns and provide more details.
+
+Compost toilets are the future. Don't be the last to know.
 
 ### paper upgrade {#paper-upgrade}
 
@@ -190,6 +193,8 @@ Graphic description:
 	- rinse off fingers
 	- pat yourself dry with cloth or paper (not newspaper) and be happy
 	
+{pagebreak}
+
 ## bath {#bath}
 
 ### basic {#basic3}
@@ -206,13 +211,7 @@ A sponge bath.
 
 ### deluxe {#deluxe3}
 
-It's a portable shower! It provides a good shower with as little as 4-10L of water. It needs no connecting pipes. It collapses for storage.
-
-![](images/shower.png)
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; plan: shower - [____download____](https://hygienicdarkretreat.com/img/plan/shower.pdf)
-
-{pagebreak}
+Get clean with as little as 4-10L of water in this portable shower. It has no pipes and collapses for storage.
 
 **Parts**, top to bottom:
 
@@ -225,6 +224,10 @@ It's a portable shower! It provides a good shower with as little as 4-10L of wat
 - **x**=holes in curtain for cords to tie around curtain rod
 - large tub (90L+, from garden supply store, catches everything at the bottom) or deep tray or pan.
 
+![](images/shower.png)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; plan: shower - [____download____](https://hygienicdarkretreat.com/img/plan/shower.pdf)
+
 Solar water heating method: nearly fill clear 4-8L bottles with water. Put rectangles of black plastic sheeting inside as elements. Put bottle in sun. Have supporter give it to you when warm. Or, with dark clothing and mask on tight, grab it from a sunny spot.
 
 Adjust water temperature with cold water to suit yourself. Hang it from the hook. Suck on the tube to start the siphon action. Water flows for 8 minutes. Not bad. Dump used water into a 20L bucket with a lid for later disposal. Yes, all this is possible in darkness. I did it.
@@ -232,6 +235,8 @@ Adjust water temperature with cold water to suit yourself. Hang it from the hook
 Adjust shower length and water flow with different size containers and tubes. Make sure hook can hold the weight.
 
 ~/~
+
+A bathroom can be made from garbage in minutes. For $20 in materials, one can be made in an afternoon that works 95% as well and 1000x more elegantly than the standard $20,000 bathroom. It shows that the world is far more mutable and full of opportunity and practical fun than we are led to believe.
 
 That's the state of my art of low-cost, off-grid, DIY darkroom design and construction. As always, the principles involved (like, water flows downhill) are infinitely adaptable. Check back for the latest developments. If you design something simpler, faster, cheaper, more effective, or more elegant, please let me know. See [____open-source____](#open-source) _-e_.
 
