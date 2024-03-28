@@ -319,13 +319,13 @@ Seal exposed edges of melamine with varnish, glue, or tape. Exterior plywood out
 
 Avoid interior plywood. Its glue is less stable and outgasses more and longer than that of exterior plywood.
 
+I made my first panels with cardboard. But it warps and shrinks. Water damages it. It hasn't enough mass to stop noise.
+
 &nbsp;
 
 ![photo: panel, exterior](images/panel.jpg)
 
 &nbsp;
-
-I made my first panels with cardboard. But it warps and shrinks. Water damages it. It hasn't enough mass to stop noise.
 
 Panels work for opening or fixed windows. Fill big openings with multiple panels. Add a flange of wood to the edge of one panel and fleece to the edge of the next one.
 
