@@ -191,7 +191,7 @@ There are three things the hygienic use of darkness is not: spiritual, therapeut
 
 Hygienic dark retreating is not spiritual. This is either unbelievable or a shock to the spiritual mind. Which views spirituality as the biggest possible context. It believes everything fits inside spirituality and can be best understood spiritually. 
 
-Ironically, spirituality deals with the smallest part of the psyche: the intersection of the conscious and mental aspects.
+Ironically, spirituality deals with the smallest part of the psyche: the intersection of its conscious and mental aspects.
 
 ![](images/psyche.png)
 
